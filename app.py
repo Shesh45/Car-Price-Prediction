@@ -140,7 +140,7 @@ if predict_btn:
     
     
     # gauge chart for price range
-    st.markdown("--")
+    st.markdown("---")
     st.subheader("Price Analysis")
 
     col1,col2 = st.columns([2,1])   
@@ -228,7 +228,7 @@ if predict_btn:
     
     with details_col1:
         st.write(f"**manufacturing year:**{year}")
-        st.write(f"**car age:**{car_age}years")
+        st.write(f"**car age:**{Car_age}years")
         st.write(f"**kilometer driven:**{kms_driven}km")
         st.write(f"**fuel type:**{Fuel_Type}")
         
