@@ -60,7 +60,7 @@ year = st.sidebar.slider("Manufacturing Year", 2000, 2024, 2015)
 
 present_price=st.sidebar.number_input("current") 
 
-kms_driven=st.sidebar.number_input("kilometer driven ",0,500000,50000,1000)
+kms_driven=st.sidebar.number_input("Kilometer driven ",0,500000,50000,1000)
 
 st.sidebar.subheader("Car Specification")
 Fuel_Type=st.sidebar.selectbox("Fuel Type",["Petrol","Diesel","CNG"])
@@ -70,8 +70,8 @@ Owner = st.sidebar.selectbox("number of previous owners", [0,1,2,3])
 
 
 #calculate car age
-current_year = 2024 
-car_age=current_year - year
+Current_year = 2024 
+Car_age=current_year - year
 
 # Calculate car age
 st.sidebar.markdown("---")
@@ -88,8 +88,8 @@ if predict_btn:
     #prepare input 
     input_data=pd.DataFrame({
         "Year":[year],
-        "Present_Price":[present_price],
-        "Kms_Driven":[kms_driven],
+        "Present_Price":[Present_price],
+        "Kms_Driven":[Kms_driven],
         "Fuel_Type":[Fuel_encoded],
         "Seller_Type":[Seller_encoded],
         "Transmission":[Transmission_encoded],
@@ -166,18 +166,18 @@ if predict_btn:
         if car_age <=2:
             factors.append("very new car-minimal depreciation")
         elif car_age <5:
-            factors.append("relatively new - good resale value")
+            factors.append("Relatively new - good resale value")
         elif car_age <=10:
-            factors.append("moderate age - average market value")
+            factors.append("Moderate age - average market value")
         else:
-            factors.append("older car - higher depreclation")
+            factors.append("Older car - higher depreclation")
             
         if kms_driven <=30000:
-            factors.append("low mileage - adds value")
+            factors.append("Low mileage - adds value")
         elif kms_driven <=80000:
-            factors.append("average mileage ")
+            factors.append("Average mileage ")
         else:
-            factors.append("high mileage - reduces values")
+            factors.append("High mileage - reduces values")
             
         if Transmission=="Automatic":
             factors.append("Automatic Transmission - premium pricing")      
