@@ -46,7 +46,7 @@ if model is None:
     st.info("""
     Please run the following command first 
     '''
-    Python car  price prediction .py
+    python car_price_prediction.py
     '''
     This will train and save the model.
     """)
@@ -58,9 +58,9 @@ st.sidebar.title("Car Details")
 st.sidebar.subheader("Manufacturing Year")
 year = st.sidebar.slider("Manufacturing Year", 2000, 2024, 2015)
 
-present_price=st.sidebar.number_input("current") 
+present_price=st.sidebar.number_input("current Ex - Showroom price(lakhs)",0.0,50.0,5.0,0.1) 
 
-kms_driven=st.sidebar.number_input("Kilometer driven ",0,500000,50000,1000)
+kms_driven=st.sidebar.number_input("Kilometer Driven ",0,500000,50000,1000)
 
 st.sidebar.subheader("Car Specification")
 Fuel_Type=st.sidebar.selectbox("Fuel Type",["Petrol","Diesel","CNG"])
@@ -71,7 +71,7 @@ Owner = st.sidebar.selectbox("number of previous owners", [0,1,2,3])
 
 #calculate car age
 Current_year = 2024 
-Car_age=current_year - year
+car_age=current_year - year
 
 # Calculate car age
 st.sidebar.markdown("---")
@@ -164,13 +164,13 @@ if predict_btn:
         factors=[]
         
         if car_age <=2:
-            factors.append("very new car-minimal depreciation")
+            factors.append("very new car - minimal depreciation")
         elif car_age <5:
             factors.append("Relatively new - good resale value")
         elif car_age <=10:
             factors.append("Moderate age - average market value")
         else:
-            factors.append("Older car - higher depreclation")
+            factors.append("Older car - higher depreciation")
             
         if kms_driven <=30000:
             factors.append("Low mileage - adds value")
@@ -182,7 +182,7 @@ if predict_btn:
         if Transmission=="Automatic":
             factors.append("Automatic Transmission - premium pricing")      
         if Fuel_Type == "Diesel":
-            factors.append("Diesel - prefered for high usage")
+            factors.append("Diesel - preferred for high usage")
         elif Fuel_Type == "Petrol":
             factors.append("Petrol - standard option")
             
@@ -190,12 +190,12 @@ if predict_btn:
             factors.append("Dealer - may offer better warranty")
             
         for factor in factors:
-            st.markdown(f"-{factor}")
+            st.markdown(f"- {factor}")
             
             
     with col2:
         #gauge chart
-        max_price=present_price *1.2
+        max_price = max(present_price * 1.2, 1)
 
         fig = go.Figure (go.Indicator(
             mode="gauge+number",
@@ -222,13 +222,13 @@ if predict_btn:
         
     # car details summary
     st.markdown("---")
-    st.subheader(" your car details")
+    st.subheader(" Your Car Details")
     
     details_col1,details_col2=st.columns(2)
     
     with details_col1:
         st.write(f"**manufacturing year:**{year}")
-        st.write(f"**car age:**{Car_age}years")
+        st.write(f"**car age:**{car_age}years")
         st.write(f"**kilometer driven:**{kms_driven}km")
         st.write(f"**fuel type:**{Fuel_Type}")
         
@@ -254,9 +254,9 @@ else:
     with col1:
         st.write("** Recent car **")
         st.write("year:2020")
-        st.write("price:₹85L")
+        st.write("price:₹8.5L")
         st.write("kms:20,000")
-        st.write("est:₹8.5-7.5L")   
+        st.write("est:₹7.5-8.5L")  
         
     with col2:
         st.write("** Mid- Range Car**")
@@ -274,11 +274,11 @@ else:
         
     st.markdown("---")
     #model info
-    st.subheader("model information")
+    st.subheader("Model Information")
     col1,col2,col3=st.columns(3)
     col1.metric("Algorithm","ML Regression")
-    col2.metric("Auccuracy","85%")
-    col3.metric("dataset","300+car")    
+    col2.metric("Accuracy","85%")
+    col3.metric("Dataset","300+car")    
         
         
             
