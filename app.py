@@ -164,7 +164,7 @@ if predict_btn:
         factors=[]
         
         if car_age <=2:
-            factors.append("very new car - minimal depreciation")
+            factors.append("Very new car - minimal depreciation")
         elif car_age <5:
             factors.append("Relatively new - good resale value")
         elif car_age <=10:
@@ -253,31 +253,31 @@ else:
     
     with col1:
         st.write("** Recent car **")
-        st.write("year:2020")
-        st.write("price:₹8.5L")
-        st.write("kms:20,000")
-        st.write("est:₹7.5-8.5L")  
+        st.write("Year:2020")
+        st.write("Price:₹8.5L")
+        st.write("Kms:20,000")
+        st.write("Est:₹6.5-7.5L")  
         
     with col2:
         st.write("** Mid- Range Car**")
-        st.write("year:2015")
-        st.write("price:₹8.0L")
-        st.write("kms:50,000")
-        st.write("est:₹3.5-4.5L")   
+        st.write("Year:2015")
+        st.write("Price:₹6.0L")
+        st.write("Kms:50,000")
+        st.write("Est:₹3.5-4.5L")   
              
     with col3:
         st.write("** Older Car **")
-        st.write("year:2010")
-        st.write("price:₹5.0L")
-        st.write("kms:100,000")
-        st.write("est:₹1.5-2.5L")  
+        st.write("Year:2010")
+        st.write("Price:₹5.0L")
+        st.write("Kms:100,000")
+        st.write("Est:₹1.5-2.5L")  
         
     st.markdown("---")
     #model info
     st.subheader("Model Information")
     col1,col2,col3=st.columns(3)
     col1.metric("Algorithm","ML Regression")
-    col2.metric("Accuracy","85%")
+    col2.metric("Accuracy","~85%")
     col3.metric("Dataset","300+car")    
         
         
