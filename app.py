@@ -70,7 +70,7 @@ Owner = st.sidebar.selectbox("number of previous owners", [0,1,2,3])
 
 
 #calculate car age
-Current_year = 2024 
+Current_year = 2026 
 car_age=current_year - year
 
 # Calculate car age
@@ -135,7 +135,7 @@ if predict_btn:
          st.metric(
              "Total Depreciation",
              f"₹{depreciation:.2f} Lakhs",
-             delta=f"{depreciation_percent:.2f}%"
+             delta=f"{depreciation_percent:.1f}%"
          ) 
     
     
@@ -253,7 +253,7 @@ else:
     
     with col1:
         st.write("** Recent car **")
-        st.write("Year:2020")
+        st.write("Year:2024")
         st.write("Price:₹8.5L")
         st.write("Kms:20,000")
         st.write("Est:₹6.5-7.5L")  
