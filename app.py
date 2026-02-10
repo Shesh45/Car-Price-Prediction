@@ -46,7 +46,7 @@ if model is None:
     st.info("""
     Please run the following command first 
     '''
-    Python car  price prediction .py
+    python car_price_prediction.py
     '''
     This will train and save the model.
     """)
@@ -56,11 +56,11 @@ if model is None:
 # Sidebar input
 st.sidebar.title("Car Details") 
 st.sidebar.subheader("Manufacturing Year")
-year = st.sidebar.slider("Manufacturing Year", 2000, 2024, 2015)
+year = st.sidebar.slider("Manufacturing Year", 2000, 2025, 2015)
 
-present_price=st.sidebar.number_input("current") 
+present_price=st.sidebar.number_input("Current Ex-Showroom Price(lakhs)",0.0,50.0,5.0,0.1) 
 
-kms_driven=st.sidebar.number_input("kilometer driven ",0,500000,50000,1000)
+kms_driven=st.sidebar.number_input("Kilometer Driven ",0,500000,50000,1000)
 
 st.sidebar.subheader("Car Specification")
 Fuel_Type=st.sidebar.selectbox("Fuel Type",["Petrol","Diesel","CNG"])
@@ -70,8 +70,8 @@ Owner = st.sidebar.selectbox("number of previous owners", [0,1,2,3])
 
 
 #calculate car age
-current_year = 2024 
-car_age=current_year - year
+current_year = 2026 
+car_age = current_year - year
 
 # Calculate car age
 st.sidebar.markdown("---")
@@ -100,20 +100,19 @@ if predict_btn:
     predicted_price = model.predict(input_data)[0]
     
     #calculate result
-    depreciation =present_price-predicted_price
+    depreciation = present_price-predicted_price
     depreciation_percent =(depreciation/present_price)*100 if present_price>0 else 0
 
     
     
     #display result
     st.markdown("---")
-    st.header(" Price Estimation Result")
+    st.header(" Price Estimation Result ")
 
 
     #main metrics
     col1,col2,col3 = st.columns(3)
 
-    
     
     with col1:
          st.metric(
@@ -135,12 +134,12 @@ if predict_btn:
          st.metric(
              "Total Depreciation",
              f"₹{depreciation:.2f} Lakhs",
-             delta=f"{depreciation_percent:.2f}%"
+             delta=f"{depreciation_percent:.1f}%"
          ) 
     
     
     # gauge chart for price range
-    st.markdown("--")
+    st.markdown("---")
     st.subheader("Price Analysis")
 
     col1,col2 = st.columns([2,1])   
@@ -164,25 +163,25 @@ if predict_btn:
         factors=[]
         
         if car_age <=2:
-            factors.append("very new car-minimal depreciation")
+            factors.append("Very new car - minimal depreciation")
         elif car_age <5:
-            factors.append("relatively new - good resale value")
+            factors.append("Relatively new - good resale value")
         elif car_age <=10:
-            factors.append("moderate age - average market value")
+            factors.append("Moderate age - average market value")
         else:
-            factors.append("older car - higher depreclation")
+            factors.append("Older car - higher depreciation")
             
         if kms_driven <=30000:
-            factors.append("low mileage - adds value")
+            factors.append("Low mileage - adds value")
         elif kms_driven <=80000:
-            factors.append("average mileage ")
+            factors.append("Average Mileage ")
         else:
-            factors.append("high mileage - reduces values")
+            factors.append("High mileage - reduces values")
             
         if Transmission=="Automatic":
             factors.append("Automatic Transmission - premium pricing")      
         if Fuel_Type == "Diesel":
-            factors.append("Diesel - prefered for high usage")
+            factors.append("Diesel - preferred for high usage")
         elif Fuel_Type == "Petrol":
             factors.append("Petrol - standard option")
             
@@ -190,12 +189,12 @@ if predict_btn:
             factors.append("Dealer - may offer better warranty")
             
         for factor in factors:
-            st.markdown(f"-{factor}")
+            st.markdown(f"- {factor}")
             
             
     with col2:
         #gauge chart
-        max_price=present_price *1.2
+        max_price = max(present_price * 1.2, 1)
 
         fig = go.Figure (go.Indicator(
             mode="gauge+number",
@@ -222,19 +221,19 @@ if predict_btn:
         
     # car details summary
     st.markdown("---")
-    st.subheader(" your car details")
+    st.subheader(" Your Car Details ")
     
     details_col1,details_col2=st.columns(2)
     
     with details_col1:
-        st.write(f"**manufacturing year:**{year}")
-        st.write(f"**car age:**{car_age}years")
-        st.write(f"**kilometer driven:**{kms_driven}km")
-        st.write(f"**fuel type:**{Fuel_Type}")
+        st.write(f"**Manufacturing year:**{year}")
+        st.write(f"**Car age:**{car_age}years")
+        st.write(f"**Kilometer Driven:**{kms_driven}km")
+        st.write(f"**Fuel Type:**{Fuel_Type}")
         
     with details_col2:
-        st.write(f"**transmission:**{Transmission}")
-        st.write(f"**seller type:**{Seller_Type}")
+        st.write(f"**Transmission:**{Transmission}")
+        st.write(f"**Seller type:**{Seller_Type}")
         st.write(f"**Current Showroom Price:**₹{present_price}Lakhs")
         
     #tips for selling
@@ -252,33 +251,33 @@ else:
     col1,col2,col3 = st.columns(3)
     
     with col1:
-        st.write("** Recent car **")
-        st.write("year:2020")
-        st.write("price:₹85L")
-        st.write("kms:20,000")
-        st.write("est:₹8.5-7.5L")   
+        st.write("** Recent Car **")
+        st.write("Year:2024")
+        st.write("Price:₹8.5L")
+        st.write("Kms:20,000")
+        st.write("Est:₹6.5-7.5L") 
         
     with col2:
         st.write("** Mid- Range Car**")
-        st.write("year:2015")
-        st.write("price:₹8.0L")
-        st.write("kms:50,000")
-        st.write("est:₹3.5-4.5L")   
+        st.write("Year:2015")
+        st.write("Price:₹6.0L")
+        st.write("Kms:50,000")
+        st.write("Est:₹3.5-4.5L")   
              
     with col3:
         st.write("** Older Car **")
-        st.write("year:2010")
-        st.write("price:₹5.0L")
-        st.write("kms:100,000")
-        st.write("est:₹1.5-2.5L")  
+        st.write("Year:2010")
+        st.write("Price:₹5.0L")
+        st.write("Kms:100,000")
+        st.write("Est:₹1.5-2.5L")  
         
     st.markdown("---")
     #model info
     st.subheader("model information")
     col1,col2,col3=st.columns(3)
     col1.metric("Algorithm","ML Regression")
-    col2.metric("Auccuracy","85%")
-    col3.metric("dataset","300+car")    
+    col2.metric("Accuracy","~85%")
+    col3.metric("Dataset","300+car")    
         
         
             
