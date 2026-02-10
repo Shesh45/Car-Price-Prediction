@@ -1,2001 +1,303 @@
 Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
-Honda City,2011,8.25,28.29,108694,CNG,Individual,Manual,0
-Toyota Fortuner,2015,9.53,17.16,131324,CNG,Individual,Manual,1
-Maruti Baleno,2010,0.78,2.03,108355,Petrol,Dealer,Automatic,1
-Toyota Fortuner,2021,10.25,19.32,89478,Diesel,Individual,Automatic,3
-Honda City,2019,8.06,22.41,72435,CNG,Individual,Automatic,0
-Volkswagen Polo,2011,3.17,7.63,216110,Diesel,Individual,Manual,3
-Mahindra XUV500,2013,1.1,2.53,129243,CNG,Individual,Manual,3
-Tata Nexon,2007,9.61,32.01,228139,Diesel,Individual,Automatic,1
-Toyota Fortuner,2014,12.62,20.73,14692,CNG,Individual,Automatic,3
-Mahindra Scorpio,2008,9.95,21.73,16534,Diesel,Dealer,Automatic,0
-Maruti Baleno,2020,12.68,26.66,87798,Petrol,Individual,Automatic,0
-Maruti Swift,2017,3.21,6.65,56214,Petrol,Dealer,Manual,2
-Maruti Swift,2016,6.79,11.69,184262,CNG,Dealer,Manual,3
-Hyundai i20,2009,12.75,32.57,69505,Petrol,Individual,Manual,0
-Tata Nexon,2005,1.23,4.1,40222,Diesel,Individual,Manual,2
-Kia Seltos,2007,6.55,17.58,118252,CNG,Individual,Manual,0
-Honda City,2018,9.3,18.3,124176,CNG,Dealer,Automatic,1
-Skoda Rapid,2011,6.53,17.69,190340,Diesel,Dealer,Manual,2
-Hyundai Verna,2008,14.89,33.11,217806,CNG,Dealer,Automatic,3
-Maruti Baleno,2010,7.96,17.07,248307,Diesel,Individual,Manual,3
-Renault Kwid,2011,15.76,31.93,166152,Petrol,Dealer,Automatic,0
-Volkswagen Polo,2007,0.82,2.23,26959,CNG,Dealer,Automatic,0
-Maruti Swift,2016,5.75,10.06,78530,Diesel,Individual,Automatic,3
-Maruti Swift,2021,5.2,10.38,219283,Diesel,Dealer,Automatic,2
-Maruti Swift,2021,5.3,10.8,230281,Diesel,Individual,Automatic,2
-Kia Seltos,2005,2.97,9.91,223164,Diesel,Individual,Automatic,3
-Tata Nexon,2015,7.42,14.2,148760,CNG,Individual,Automatic,0
-Hyundai Verna,2015,10.42,28.94,27671,Petrol,Dealer,Automatic,2
-Kia Seltos,2007,5.41,21.5,61250,CNG,Individual,Manual,2
-Renault Kwid,2013,12.26,24.8,76295,CNG,Individual,Automatic,0
-Renault Kwid,2022,14.9,32.51,90981,Diesel,Dealer,Manual,3
-Kia Seltos,2021,7.64,9.98,108727,Diesel,Individual,Manual,0
-Ford EcoSport,2013,5.93,11.2,178714,CNG,Individual,Automatic,1
-Toyota Fortuner,2015,9.71,32.88,10539,Diesel,Individual,Automatic,1
-Hyundai Verna,2007,10.44,34.13,204569,Diesel,Individual,Automatic,1
-Ford EcoSport,2013,4.05,7.81,43467,Petrol,Individual,Manual,3
-Kia Seltos,2011,9.19,25.79,75271,Petrol,Individual,Automatic,2
-Hyundai i20,2018,12.6,21.47,52333,Petrol,Dealer,Automatic,3
-Toyota Corolla,2005,5.88,21.04,112455,Petrol,Dealer,Automatic,0
-Mahindra Scorpio,2007,11.76,27.36,110983,Petrol,Individual,Automatic,1
-Mahindra XUV500,2010,5.58,14.22,68208,Petrol,Individual,Manual,0
-Honda City,2007,13.9,34.35,129019,CNG,Dealer,Manual,3
-Mahindra XUV500,2022,8.59,20.37,159165,Diesel,Dealer,Automatic,1
-Skoda Rapid,2006,3.58,10.39,15729,Diesel,Individual,Manual,3
-Hyundai Verna,2020,14.85,20.24,10801,CNG,Individual,Manual,1
-Maruti Baleno,2011,9.03,18.55,75316,Petrol,Individual,Automatic,1
-Honda City,2023,9.39,13.15,149475,Diesel,Individual,Automatic,2
-Ford EcoSport,2021,1.66,3.23,132813,CNG,Individual,Manual,3
-Honda City,2016,15.58,33.85,223214,Diesel,Dealer,Automatic,3
-Ford EcoSport,2012,6.99,25.96,99476,Diesel,Individual,Automatic,1
-Mahindra XUV500,2023,7.04,16.49,117566,Diesel,Dealer,Automatic,0
-Toyota Fortuner,2013,8.7,24.72,121352,Diesel,Individual,Manual,2
-Mahindra XUV500,2020,5.43,8.03,192628,Petrol,Dealer,Automatic,0
-Tata Nexon,2009,5.85,22.19,195710,CNG,Individual,Automatic,3
-Maruti Baleno,2018,3.1,5.03,180150,Petrol,Individual,Automatic,1
-Mahindra Scorpio,2020,2.91,5.23,171319,Petrol,Dealer,Automatic,0
-Volkswagen Polo,2014,16.63,33.32,102379,Diesel,Individual,Manual,1
-Skoda Rapid,2005,5.9,19.8,21364,CNG,Individual,Manual,3
-Maruti Baleno,2016,9.12,14.81,171267,Petrol,Dealer,Manual,2
-Mahindra XUV500,2007,6.19,29.07,247855,Diesel,Dealer,Automatic,0
-Hyundai Verna,2018,1.55,2.6,97658,Diesel,Dealer,Manual,0
-Hyundai i20,2014,1.45,2.77,70953,CNG,Dealer,Manual,3
-Mahindra Scorpio,2017,17.52,32.91,12543,Petrol,Dealer,Manual,0
-Ford EcoSport,2013,7.3,20.76,119352,CNG,Individual,Automatic,1
-Maruti Swift,2009,2.45,9.87,156222,Petrol,Dealer,Manual,2
-Toyota Corolla,2021,7.65,18.67,183031,Petrol,Individual,Manual,2
-Toyota Corolla,2016,18.87,33.63,160538,Petrol,Dealer,Automatic,1
-Skoda Rapid,2023,10.0,18.27,144407,Petrol,Dealer,Manual,3
-Kia Seltos,2008,11.18,33.22,202775,Petrol,Dealer,Manual,0
-Mahindra XUV500,2018,12.43,20.13,14348,CNG,Dealer,Manual,2
-Ford EcoSport,2016,11.51,24.7,218945,Petrol,Dealer,Automatic,2
-Honda City,2014,4.67,15.09,224930,Diesel,Individual,Manual,0
-Hyundai Verna,2012,7.84,14.35,162504,Diesel,Individual,Manual,2
-Skoda Rapid,2008,4.79,13.56,225411,CNG,Dealer,Manual,3
-Toyota Fortuner,2014,13.46,31.91,230318,Diesel,Dealer,Manual,0
-Renault Kwid,2012,1.95,5.88,178416,CNG,Dealer,Manual,0
-Hyundai Verna,2021,1.75,4.74,218920,Diesel,Dealer,Automatic,1
-Honda City,2019,14.06,31.41,229117,Petrol,Dealer,Automatic,0
-Tata Nexon,2022,5.03,7.49,57528,Diesel,Dealer,Manual,0
-Tata Nexon,2007,6.67,31.74,160576,CNG,Individual,Automatic,3
-Maruti Baleno,2016,2.49,5.52,124156,Diesel,Individual,Automatic,1
-Maruti Swift,2022,7.59,10.78,239340,Petrol,Individual,Automatic,2
-Honda City,2013,3.82,12.21,62043,Petrol,Individual,Automatic,0
-Toyota Fortuner,2010,8.53,33.34,54407,Petrol,Dealer,Manual,1
-Mahindra XUV500,2022,15.29,20.2,173964,CNG,Individual,Manual,1
-Hyundai Verna,2021,10.78,14.43,28833,CNG,Dealer,Automatic,2
-Maruti Baleno,2005,3.29,17.47,110570,CNG,Dealer,Manual,3
-Mahindra Scorpio,2021,14.01,19.63,145932,Diesel,Dealer,Manual,2
-Hyundai Verna,2014,11.05,30.04,149528,Petrol,Individual,Manual,1
-Ford EcoSport,2017,4.04,8.84,206152,Petrol,Individual,Automatic,1
-Maruti Swift,2011,8.16,24.16,194089,Diesel,Individual,Manual,2
-Kia Seltos,2016,9.98,20.51,29285,CNG,Dealer,Manual,3
-Maruti Baleno,2019,11.1,27.89,82709,Diesel,Dealer,Manual,2
-Hyundai i20,2006,2.78,13.57,60393,Diesel,Individual,Manual,2
-Hyundai Verna,2010,7.33,16.88,47318,Diesel,Dealer,Automatic,2
-Hyundai i20,2008,5.62,17.16,221464,Diesel,Dealer,Automatic,3
-Mahindra XUV500,2010,6.05,18.26,74836,Diesel,Dealer,Manual,3
-Hyundai i20,2020,4.06,7.01,147709,Petrol,Dealer,Automatic,2
-Tata Nexon,2023,1.35,3.35,223116,Diesel,Individual,Automatic,0
-Hyundai Verna,2005,5.5,19.64,152979,Diesel,Individual,Automatic,0
-Mahindra XUV500,2013,2.83,5.05,27574,Petrol,Individual,Manual,3
-Mahindra XUV500,2020,1.74,4.02,100257,Petrol,Individual,Manual,2
-Hyundai i20,2019,8.05,14.23,116317,Diesel,Individual,Automatic,2
-Skoda Rapid,2017,2.64,4.06,151106,CNG,Dealer,Manual,2
-Renault Kwid,2019,1.33,3.01,123033,Diesel,Individual,Manual,2
-Maruti Baleno,2009,2.49,8.02,6062,Petrol,Dealer,Manual,1
-Toyota Corolla,2021,7.76,13.32,142240,Diesel,Dealer,Manual,0
-Tata Nexon,2019,12.12,26.32,17910,Petrol,Individual,Manual,1
-Tata Nexon,2006,2.4,10.06,81090,Petrol,Individual,Manual,0
-Ford EcoSport,2010,6.55,14.06,77303,Diesel,Dealer,Automatic,1
-Tata Nexon,2013,2.8,4.65,160890,CNG,Individual,Manual,3
-Tata Nexon,2006,6.24,21.01,164818,CNG,Individual,Automatic,0
-Maruti Baleno,2023,15.24,29.09,58441,CNG,Dealer,Automatic,1
-Mahindra XUV500,2009,2.34,8.17,47101,CNG,Individual,Manual,3
-Hyundai Verna,2005,8.25,22.15,246983,Diesel,Dealer,Automatic,2
-Maruti Baleno,2015,6.81,21.6,128781,Diesel,Individual,Automatic,0
-Skoda Rapid,2006,4.54,12.64,170459,Petrol,Dealer,Manual,0
-Maruti Baleno,2019,12.32,17.56,162686,CNG,Individual,Manual,0
-Maruti Swift,2016,6.94,15.48,72444,CNG,Dealer,Automatic,3
-Maruti Baleno,2012,12.81,25.81,142023,Petrol,Individual,Manual,0
-Hyundai Verna,2007,2.11,7.42,155354,CNG,Individual,Automatic,1
-Tata Nexon,2014,6.61,14.95,48303,CNG,Individual,Automatic,3
-Hyundai i20,2005,6.83,26.67,154646,Petrol,Dealer,Manual,0
-Kia Seltos,2018,3.0,4.2,97263,CNG,Dealer,Manual,1
-Kia Seltos,2023,8.44,13.05,223559,CNG,Dealer,Manual,0
-Toyota Fortuner,2008,14.02,34.92,102720,Petrol,Dealer,Manual,2
-Hyundai Verna,2008,4.89,20.81,37265,Petrol,Dealer,Automatic,0
-Toyota Corolla,2019,16.36,29.93,207967,CNG,Dealer,Automatic,0
-Skoda Rapid,2016,15.83,27.47,152550,CNG,Dealer,Automatic,3
-Mahindra XUV500,2009,9.67,29.28,131205,Diesel,Individual,Automatic,1
-Mahindra XUV500,2018,12.9,22.29,212065,Petrol,Individual,Automatic,1
-Maruti Swift,2012,14.3,30.78,221523,Petrol,Individual,Manual,3
-Maruti Swift,2013,9.17,16.0,241572,Diesel,Individual,Manual,1
-Mahindra XUV500,2018,6.9,9.78,237793,Diesel,Individual,Automatic,2
-Renault Kwid,2023,10.49,21.51,73244,CNG,Dealer,Manual,0
-Hyundai i20,2013,2.22,5.77,68731,Petrol,Individual,Manual,1
-Ford EcoSport,2006,6.99,32.31,142855,CNG,Dealer,Automatic,2
-Volkswagen Polo,2011,2.45,7.46,24956,Petrol,Dealer,Manual,2
-Mahindra XUV500,2022,18.65,23.9,75480,Petrol,Dealer,Automatic,1
-Honda City,2012,6.0,18.57,211592,Petrol,Individual,Manual,2
-Hyundai i20,2021,2.21,3.21,95397,CNG,Individual,Manual,1
-Maruti Swift,2006,4.32,19.64,43000,Diesel,Individual,Automatic,2
-Hyundai i20,2012,16.53,30.44,45806,CNG,Individual,Automatic,1
-Kia Seltos,2005,0.51,2.84,110947,Diesel,Dealer,Manual,3
-Mahindra Scorpio,2007,2.69,9.63,81218,CNG,Dealer,Automatic,1
-Toyota Fortuner,2007,8.0,31.29,90595,CNG,Individual,Automatic,2
-Hyundai i20,2018,13.18,29.4,124235,Petrol,Individual,Manual,1
-Toyota Corolla,2011,6.85,22.9,21032,CNG,Dealer,Manual,3
-Kia Seltos,2022,17.2,31.46,28236,CNG,Individual,Manual,1
-Maruti Baleno,2016,13.81,29.41,169644,Diesel,Individual,Automatic,0
-Kia Seltos,2007,14.57,33.3,245469,Petrol,Individual,Automatic,3
-Kia Seltos,2021,11.74,18.0,32856,Diesel,Dealer,Automatic,1
-Hyundai i20,2013,3.76,6.6,135282,Diesel,Individual,Automatic,1
-Maruti Swift,2009,0.77,2.61,233497,Petrol,Individual,Automatic,0
-Renault Kwid,2009,6.05,23.5,133377,CNG,Dealer,Automatic,1
-Maruti Swift,2010,10.42,26.16,232595,Petrol,Dealer,Manual,2
-Honda City,2018,1.3,3.55,106371,Diesel,Dealer,Manual,2
-Hyundai i20,2015,5.75,11.53,94599,Petrol,Dealer,Manual,3
-Toyota Corolla,2019,11.83,33.48,230685,Petrol,Individual,Manual,1
-Renault Kwid,2023,10.02,21.64,151922,Petrol,Individual,Manual,0
-Volkswagen Polo,2006,1.89,5.52,20048,Petrol,Dealer,Manual,0
-Hyundai i20,2011,1.47,4.51,33145,Petrol,Individual,Automatic,2
-Renault Kwid,2016,8.4,13.91,130995,CNG,Dealer,Manual,0
-Mahindra Scorpio,2021,5.75,8.11,137413,CNG,Individual,Manual,0
-Renault Kwid,2020,19.72,30.02,151968,Diesel,Dealer,Automatic,2
-Mahindra Scorpio,2017,9.34,24.11,164007,Diesel,Individual,Manual,0
-Skoda Rapid,2011,0.87,3.12,144892,CNG,Dealer,Manual,3
-Maruti Swift,2022,20.36,26.59,56571,CNG,Dealer,Automatic,2
-Volkswagen Polo,2018,11.82,21.68,126826,Petrol,Individual,Manual,0
-Hyundai i20,2016,8.88,20.89,99071,Petrol,Individual,Manual,1
-Toyota Fortuner,2005,11.22,31.24,84273,Diesel,Individual,Manual,2
-Toyota Fortuner,2017,8.84,19.45,184615,CNG,Dealer,Manual,1
-Volkswagen Polo,2021,12.39,15.26,78972,Petrol,Individual,Automatic,3
-Toyota Fortuner,2011,6.78,19.24,146888,Diesel,Dealer,Manual,0
-Mahindra XUV500,2022,9.47,11.78,117573,Petrol,Dealer,Automatic,0
-Maruti Baleno,2013,1.99,5.61,127744,CNG,Individual,Manual,0
-Renault Kwid,2010,14.11,34.42,192710,Diesel,Individual,Manual,1
-Toyota Fortuner,2011,17.26,34.71,190914,Petrol,Dealer,Automatic,0
-Mahindra Scorpio,2014,2.02,3.55,121953,Petrol,Dealer,Automatic,2
-Hyundai Verna,2009,11.24,22.78,71262,Petrol,Dealer,Manual,3
-Tata Nexon,2014,10.75,19.0,161497,Diesel,Dealer,Automatic,2
-Skoda Rapid,2017,6.16,9.39,211830,Petrol,Dealer,Automatic,1
-Volkswagen Polo,2013,8.25,14.91,48642,Petrol,Dealer,Manual,0
-Mahindra XUV500,2013,5.21,12.86,47520,Petrol,Dealer,Manual,1
-Hyundai Verna,2010,3.13,10.57,140044,Diesel,Individual,Automatic,0
-Honda City,2009,16.29,34.72,239609,Petrol,Individual,Automatic,0
-Ford EcoSport,2012,12.46,24.37,228180,Petrol,Dealer,Automatic,3
-Toyota Corolla,2005,2.67,7.19,219696,Petrol,Dealer,Manual,0
-Kia Seltos,2010,1.98,8.24,199692,CNG,Dealer,Automatic,0
-Hyundai i20,2014,1.75,6.25,158962,Petrol,Individual,Manual,2
-Maruti Swift,2018,15.67,26.97,96659,CNG,Individual,Automatic,0
-Tata Nexon,2013,12.39,22.85,168038,Diesel,Individual,Automatic,3
-Mahindra XUV500,2023,15.67,27.11,34257,Petrol,Individual,Automatic,2
-Tata Nexon,2009,2.23,5.38,149579,Diesel,Individual,Manual,3
-Hyundai Verna,2021,17.12,21.21,25953,CNG,Individual,Automatic,1
-Tata Nexon,2016,8.35,26.74,92266,Petrol,Individual,Manual,0
-Hyundai i20,2019,7.39,18.13,98106,CNG,Individual,Manual,1
-Skoda Rapid,2008,6.79,16.06,142612,Petrol,Dealer,Manual,2
-Maruti Baleno,2006,11.07,27.5,57307,Diesel,Dealer,Manual,2
-Maruti Swift,2019,12.02,15.85,164674,Diesel,Dealer,Manual,0
-Hyundai i20,2010,4.21,9.59,138052,CNG,Individual,Manual,0
-Mahindra XUV500,2019,11.77,17.56,90530,Diesel,Dealer,Manual,0
-Maruti Baleno,2018,6.66,19.5,175182,CNG,Dealer,Automatic,3
-Maruti Baleno,2007,1.84,8.12,5526,Petrol,Individual,Automatic,2
-Mahindra Scorpio,2008,7.34,20.43,70455,Petrol,Individual,Manual,1
-Hyundai i20,2006,5.68,28.32,165831,Petrol,Dealer,Automatic,0
-Renault Kwid,2018,24.55,34.17,111661,CNG,Dealer,Manual,0
-Mahindra XUV500,2012,11.36,25.9,74298,Petrol,Dealer,Automatic,0
-Maruti Swift,2020,13.73,17.92,101347,Petrol,Individual,Automatic,3
-Tata Nexon,2006,3.97,19.63,117360,Petrol,Individual,Manual,0
-Volkswagen Polo,2011,3.16,6.38,159470,Diesel,Individual,Automatic,1
-Renault Kwid,2016,2.89,5.45,76626,Petrol,Dealer,Manual,1
-Toyota Fortuner,2011,10.27,22.23,38320,Diesel,Individual,Automatic,3
-Tata Nexon,2019,17.16,28.89,162702,CNG,Individual,Automatic,3
-Maruti Baleno,2007,1.14,3.34,100081,Diesel,Dealer,Automatic,1
-Ford EcoSport,2017,8.0,17.82,88186,Diesel,Dealer,Manual,1
-Renault Kwid,2023,6.39,7.34,211789,Diesel,Dealer,Automatic,0
-Maruti Swift,2007,0.95,4.69,13946,CNG,Dealer,Manual,1
-Mahindra Scorpio,2011,8.67,17.27,208613,Petrol,Dealer,Automatic,0
-Volkswagen Polo,2008,9.48,26.27,106757,Diesel,Dealer,Manual,3
-Honda City,2006,6.04,18.06,48585,CNG,Individual,Automatic,1
-Maruti Swift,2023,9.02,11.37,91652,CNG,Dealer,Automatic,3
-Hyundai i20,2007,7.93,27.61,162795,Diesel,Dealer,Automatic,3
-Toyota Fortuner,2009,10.0,30.19,130932,Petrol,Individual,Automatic,3
-Maruti Baleno,2011,4.7,13.85,242697,CNG,Individual,Manual,2
-Kia Seltos,2006,8.34,30.31,244614,Petrol,Individual,Automatic,3
-Volkswagen Polo,2019,5.46,9.74,188305,CNG,Individual,Automatic,3
-Renault Kwid,2016,19.5,29.35,178312,Petrol,Individual,Automatic,2
-Maruti Baleno,2015,15.41,26.3,207724,Petrol,Dealer,Manual,3
-Renault Kwid,2019,23.27,30.65,136691,CNG,Dealer,Automatic,1
-Skoda Rapid,2009,8.87,32.91,163492,Petrol,Dealer,Manual,1
-Ford EcoSport,2009,2.66,5.41,69178,Diesel,Individual,Automatic,3
-Mahindra XUV500,2015,1.18,2.57,50272,Diesel,Dealer,Manual,2
-Toyota Corolla,2015,6.17,18.13,241971,Diesel,Individual,Manual,3
-Ford EcoSport,2020,12.98,33.01,218883,CNG,Individual,Automatic,0
-Skoda Rapid,2010,15.81,30.65,115677,CNG,Individual,Manual,2
-Maruti Baleno,2014,1.24,2.58,33625,Petrol,Individual,Automatic,2
-Mahindra Scorpio,2012,13.19,28.25,166731,Petrol,Dealer,Manual,2
-Mahindra XUV500,2020,14.52,23.49,115169,Diesel,Individual,Automatic,1
-Skoda Rapid,2013,11.16,30.59,223200,Petrol,Dealer,Manual,0
-Hyundai i20,2008,9.81,23.47,237549,Diesel,Individual,Automatic,2
-Kia Seltos,2017,12.27,28.33,161498,Petrol,Dealer,Manual,3
-Renault Kwid,2019,11.52,22.8,131969,CNG,Dealer,Manual,2
-Ford EcoSport,2005,2.93,9.84,98680,CNG,Individual,Automatic,1
-Hyundai i20,2018,15.83,23.21,30537,Diesel,Dealer,Manual,0
-Mahindra Scorpio,2010,11.18,32.17,200804,Diesel,Dealer,Automatic,0
-Maruti Baleno,2019,12.89,19.61,245398,CNG,Individual,Manual,1
-Mahindra XUV500,2015,0.83,2.6,169246,CNG,Dealer,Automatic,2
-Hyundai Verna,2008,7.64,32.59,115350,Petrol,Dealer,Automatic,2
-Ford EcoSport,2008,3.63,10.47,98747,Diesel,Dealer,Manual,2
-Renault Kwid,2020,2.65,4.96,200229,Diesel,Individual,Manual,0
-Ford EcoSport,2015,3.34,6.07,180211,Diesel,Dealer,Manual,2
-Hyundai Verna,2021,11.06,20.72,142513,Diesel,Dealer,Automatic,0
-Renault Kwid,2014,3.37,5.71,93204,CNG,Individual,Automatic,0
-Maruti Swift,2013,13.29,23.34,132959,Diesel,Dealer,Manual,1
-Hyundai i20,2009,4.83,11.97,110111,CNG,Individual,Automatic,2
-Maruti Baleno,2023,11.34,22.59,204648,CNG,Individual,Manual,2
-Maruti Baleno,2006,5.84,17.61,85532,Petrol,Individual,Automatic,0
-Renault Kwid,2011,5.25,20.04,62993,Petrol,Individual,Manual,0
-Kia Seltos,2006,3.12,11.06,9358,Petrol,Individual,Manual,1
-Kia Seltos,2013,9.47,24.85,198510,Diesel,Dealer,Automatic,1
-Maruti Swift,2017,2.19,4.62,116335,Petrol,Dealer,Automatic,2
-Maruti Baleno,2010,5.84,13.71,120395,Petrol,Dealer,Automatic,1
-Tata Nexon,2012,11.25,31.04,78794,Diesel,Individual,Manual,1
-Toyota Corolla,2006,9.98,34.81,155273,Diesel,Dealer,Manual,1
-Kia Seltos,2012,10.53,21.16,100673,Petrol,Dealer,Manual,2
-Maruti Baleno,2020,7.83,15.51,93733,Petrol,Dealer,Automatic,3
-Tata Nexon,2012,16.04,28.25,236055,Diesel,Dealer,Manual,3
-Tata Nexon,2009,6.47,26.33,198783,Petrol,Dealer,Automatic,0
-Hyundai i20,2022,20.82,28.0,9895,Petrol,Dealer,Automatic,3
-Skoda Rapid,2018,2.14,5.88,10782,Diesel,Dealer,Automatic,0
-Tata Nexon,2013,10.55,18.82,132810,Diesel,Dealer,Automatic,3
-Mahindra XUV500,2007,6.91,27.95,15382,Diesel,Individual,Manual,3
-Toyota Fortuner,2021,3.54,5.84,30169,Petrol,Dealer,Automatic,3
-Skoda Rapid,2010,1.59,6.66,36750,Diesel,Dealer,Manual,0
-Hyundai Verna,2006,2.97,9.38,208981,Diesel,Individual,Automatic,0
-Toyota Corolla,2005,11.37,32.45,10901,Petrol,Individual,Automatic,1
-Hyundai i20,2007,7.11,33.44,28429,Petrol,Dealer,Manual,1
-Maruti Baleno,2008,1.55,6.46,182731,Petrol,Individual,Automatic,3
-Hyundai Verna,2017,18.72,32.9,33179,Diesel,Dealer,Automatic,2
-Hyundai i20,2015,11.18,22.45,239555,CNG,Dealer,Manual,2
-Renault Kwid,2014,4.7,8.99,191749,CNG,Individual,Manual,2
-Maruti Baleno,2023,3.33,7.63,197660,Petrol,Individual,Automatic,1
-Toyota Corolla,2005,4.47,18.81,236014,Petrol,Dealer,Manual,3
-Hyundai Verna,2008,6.3,19.39,62009,CNG,Dealer,Automatic,2
-Mahindra Scorpio,2007,4.11,14.14,31715,Diesel,Individual,Manual,0
-Volkswagen Polo,2006,2.3,6.42,11548,Diesel,Individual,Manual,0
-Hyundai i20,2011,12.15,22.43,65428,Petrol,Individual,Automatic,0
-Mahindra Scorpio,2009,13.39,33.67,5163,Petrol,Dealer,Manual,3
-Hyundai Verna,2008,11.22,30.53,42487,Diesel,Individual,Manual,0
-Renault Kwid,2010,6.88,14.95,200113,Petrol,Dealer,Manual,3
-Maruti Baleno,2013,6.94,24.71,185795,Petrol,Dealer,Automatic,1
-Maruti Swift,2012,6.89,17.23,243282,CNG,Individual,Automatic,2
-Kia Seltos,2019,23.83,31.35,161503,Petrol,Dealer,Manual,3
-Honda City,2009,1.58,3.58,65920,CNG,Dealer,Manual,0
-Mahindra XUV500,2021,17.56,33.56,93340,Diesel,Dealer,Automatic,3
-Tata Nexon,2023,15.6,23.83,69027,CNG,Dealer,Automatic,0
-Ford EcoSport,2012,5.84,10.75,47533,CNG,Individual,Automatic,3
-Toyota Corolla,2012,7.64,22.61,188233,CNG,Individual,Manual,0
-Mahindra Scorpio,2018,3.11,4.29,214112,Diesel,Dealer,Automatic,2
-Maruti Baleno,2008,5.22,11.66,223599,Diesel,Individual,Manual,0
-Ford EcoSport,2006,1.28,6.23,50838,Petrol,Individual,Automatic,2
-Maruti Baleno,2018,11.69,16.5,110432,Diesel,Individual,Automatic,1
-Maruti Swift,2023,25.2,31.27,197404,CNG,Individual,Automatic,1
-Toyota Fortuner,2016,21.84,32.32,192921,Petrol,Dealer,Automatic,0
-Tata Nexon,2012,11.66,20.41,230942,CNG,Individual,Automatic,1
-Mahindra XUV500,2017,5.19,7.44,69028,Petrol,Dealer,Automatic,2
-Ford EcoSport,2023,4.7,6.97,165811,Petrol,Individual,Manual,0
-Renault Kwid,2007,3.99,11.82,88986,CNG,Dealer,Automatic,2
-Honda City,2009,3.09,7.28,46321,Diesel,Individual,Automatic,0
-Toyota Fortuner,2005,3.25,11.17,199018,Diesel,Individual,Manual,0
-Tata Nexon,2011,9.21,22.29,81865,Petrol,Individual,Manual,0
-Renault Kwid,2014,16.68,27.11,146877,Petrol,Individual,Automatic,0
-Toyota Corolla,2015,17.68,26.96,225894,CNG,Individual,Automatic,2
-Tata Nexon,2019,6.7,16.8,112539,Diesel,Individual,Automatic,2
-Toyota Corolla,2012,4.03,7.89,85073,Diesel,Individual,Automatic,3
-Volkswagen Polo,2021,8.81,21.41,73099,Petrol,Individual,Manual,3
-Maruti Baleno,2008,1.04,3.74,114079,Diesel,Individual,Automatic,2
-Volkswagen Polo,2023,13.83,18.44,142069,CNG,Individual,Automatic,0
-Maruti Swift,2010,3.97,8.92,146330,Petrol,Individual,Automatic,2
-Maruti Baleno,2022,12.05,14.26,186360,CNG,Individual,Manual,2
-Maruti Baleno,2017,5.46,7.72,181325,CNG,Dealer,Manual,1
-Honda City,2015,17.16,26.42,247265,Petrol,Dealer,Automatic,0
-Hyundai Verna,2017,13.07,25.11,244453,Diesel,Individual,Manual,1
-Mahindra Scorpio,2023,18.86,33.04,88369,CNG,Individual,Automatic,2
-Kia Seltos,2021,6.56,16.36,161351,Petrol,Individual,Automatic,1
-Maruti Baleno,2011,5.38,18.38,99848,Petrol,Individual,Automatic,0
-Volkswagen Polo,2016,2.66,6.47,143782,Petrol,Individual,Manual,1
-Mahindra XUV500,2011,3.63,10.15,24675,Diesel,Individual,Automatic,3
-Hyundai i20,2014,8.85,29.88,54733,Petrol,Dealer,Automatic,3
-Mahindra XUV500,2015,2.14,6.6,52299,Diesel,Dealer,Manual,2
-Maruti Baleno,2022,10.48,26.17,184402,CNG,Individual,Manual,0
-Mahindra Scorpio,2018,16.33,26.12,154817,Petrol,Individual,Manual,2
-Maruti Swift,2021,7.74,17.31,92896,Petrol,Individual,Automatic,0
-Maruti Swift,2022,16.48,25.76,96006,Diesel,Dealer,Manual,1
-Tata Nexon,2006,4.74,15.33,23474,Petrol,Dealer,Automatic,0
-Renault Kwid,2018,10.28,17.12,74184,Diesel,Dealer,Manual,1
-Mahindra XUV500,2006,1.31,5.22,213015,CNG,Dealer,Manual,1
-Kia Seltos,2012,2.89,5.69,75202,Diesel,Dealer,Automatic,2
-Toyota Corolla,2008,10.24,26.97,167005,CNG,Individual,Automatic,0
-Renault Kwid,2018,3.35,9.88,32624,Diesel,Individual,Automatic,0
-Kia Seltos,2007,9.19,32.0,28648,Diesel,Individual,Manual,1
-Ford EcoSport,2022,3.16,5.08,142924,CNG,Dealer,Automatic,3
-Ford EcoSport,2013,12.1,21.06,143311,CNG,Dealer,Manual,2
-Hyundai Verna,2022,4.79,7.21,165211,Diesel,Individual,Automatic,2
-Ford EcoSport,2007,6.45,31.61,137970,Diesel,Dealer,Automatic,0
-Tata Nexon,2009,10.19,26.18,22071,CNG,Dealer,Automatic,1
-Hyundai Verna,2023,26.99,31.12,67987,CNG,Individual,Manual,3
-Skoda Rapid,2017,4.81,12.66,38691,Diesel,Individual,Manual,2
-Mahindra Scorpio,2009,4.95,20.47,244968,Petrol,Individual,Automatic,1
-Maruti Baleno,2007,1.83,8.18,102756,Petrol,Individual,Automatic,1
-Hyundai i20,2016,15.23,34.61,223561,CNG,Individual,Automatic,0
-Toyota Fortuner,2007,12.36,31.03,195237,Diesel,Individual,Manual,3
-Skoda Rapid,2005,2.11,9.92,23099,Diesel,Dealer,Manual,2
-Honda City,2020,16.48,21.05,142488,Petrol,Individual,Manual,1
-Mahindra XUV500,2005,1.07,6.17,134295,Diesel,Individual,Manual,3
-Honda City,2011,2.01,7.52,43547,Petrol,Individual,Manual,2
-Mahindra Scorpio,2008,6.63,30.59,68278,Diesel,Dealer,Manual,0
-Mahindra XUV500,2018,9.53,27.06,191339,Petrol,Dealer,Manual,2
-Ford EcoSport,2022,10.05,23.48,91661,CNG,Dealer,Manual,2
-Mahindra XUV500,2018,8.55,17.19,7659,Petrol,Individual,Automatic,2
-Kia Seltos,2018,12.55,17.81,244472,Petrol,Individual,Automatic,1
-Hyundai Verna,2020,18.29,25.35,20282,CNG,Individual,Manual,0
-Mahindra XUV500,2011,7.42,22.5,184272,CNG,Individual,Manual,0
-Maruti Swift,2018,3.93,9.21,39228,Petrol,Individual,Automatic,0
-Toyota Corolla,2018,7.56,21.75,147312,CNG,Individual,Automatic,0
-Kia Seltos,2012,9.76,30.95,111108,Diesel,Individual,Manual,3
-Hyundai i20,2020,7.82,9.9,102136,Diesel,Individual,Manual,2
-Hyundai Verna,2009,2.54,10.33,49900,CNG,Individual,Manual,0
-Kia Seltos,2013,6.66,24.08,14168,Diesel,Individual,Automatic,0
-Toyota Corolla,2019,2.28,4.71,142653,Diesel,Dealer,Manual,0
-Maruti Baleno,2012,15.73,33.29,244141,Petrol,Dealer,Manual,3
-Kia Seltos,2008,5.35,14.69,13770,Diesel,Individual,Automatic,3
-Hyundai Verna,2013,5.03,18.71,47070,Diesel,Individual,Automatic,0
-Hyundai Verna,2016,10.42,21.93,140450,CNG,Individual,Automatic,0
-Hyundai Verna,2021,10.33,22.54,78869,CNG,Individual,Manual,3
-Mahindra Scorpio,2010,9.97,30.19,63557,CNG,Individual,Automatic,0
-Mahindra Scorpio,2021,5.02,9.21,36337,CNG,Individual,Automatic,0
-Kia Seltos,2021,13.99,22.36,38623,Petrol,Dealer,Manual,2
-Maruti Swift,2017,10.31,24.29,235893,CNG,Dealer,Manual,2
-Maruti Swift,2012,7.51,15.92,49363,Petrol,Dealer,Manual,3
-Kia Seltos,2017,14.59,25.71,235363,Diesel,Dealer,Automatic,0
-Toyota Fortuner,2017,10.61,29.38,139832,CNG,Individual,Automatic,1
-Maruti Swift,2005,4.95,17.06,153049,Petrol,Dealer,Manual,3
-Renault Kwid,2005,4.84,15.34,160378,CNG,Dealer,Manual,1
-Renault Kwid,2014,4.58,13.94,146130,Petrol,Individual,Automatic,1
-Honda City,2011,12.51,30.83,155611,Diesel,Dealer,Manual,1
-Maruti Swift,2020,16.72,34.71,27785,Petrol,Dealer,Automatic,3
-Kia Seltos,2017,6.85,15.18,174316,Petrol,Individual,Manual,2
-Renault Kwid,2010,7.61,29.9,215357,CNG,Individual,Automatic,2
-Mahindra XUV500,2010,13.48,28.04,41027,Diesel,Individual,Manual,2
-Tata Nexon,2013,6.36,16.22,87279,CNG,Individual,Automatic,1
-Toyota Corolla,2008,4.79,14.97,244511,CNG,Individual,Automatic,3
-Hyundai i20,2009,11.36,31.37,229448,CNG,Individual,Manual,0
-Mahindra Scorpio,2007,2.92,13.24,248166,CNG,Individual,Manual,0
-Hyundai i20,2012,4.34,14.03,96575,Diesel,Dealer,Manual,3
-Skoda Rapid,2009,3.11,9.54,155871,CNG,Dealer,Manual,0
-Hyundai Verna,2018,1.38,3.02,208199,CNG,Individual,Manual,1
-Mahindra Scorpio,2019,13.51,18.1,189233,Petrol,Individual,Manual,0
-Skoda Rapid,2007,6.82,31.32,166475,Diesel,Individual,Manual,0
-Mahindra Scorpio,2019,3.99,7.0,236312,Petrol,Individual,Automatic,1
-Honda City,2013,11.13,20.27,81449,Petrol,Individual,Manual,2
-Maruti Baleno,2014,11.71,29.28,131060,CNG,Individual,Manual,0
-Honda City,2016,10.5,29.41,124619,CNG,Dealer,Automatic,2
-Ford EcoSport,2017,15.05,22.67,31762,CNG,Dealer,Manual,2
-Mahindra XUV500,2023,7.15,8.64,155023,Petrol,Dealer,Manual,3
-Kia Seltos,2006,9.18,25.83,6708,CNG,Individual,Automatic,0
-Honda City,2009,13.73,28.21,51099,Petrol,Individual,Automatic,3
-Skoda Rapid,2023,11.86,18.93,196083,Diesel,Dealer,Manual,1
-Hyundai i20,2005,5.72,20.57,7454,CNG,Dealer,Manual,3
-Mahindra XUV500,2021,19.5,30.56,118613,CNG,Individual,Automatic,2
-Maruti Swift,2008,5.98,28.62,189482,CNG,Dealer,Automatic,3
-Hyundai Verna,2021,6.73,11.85,116431,CNG,Dealer,Automatic,2
-Tata Nexon,2019,16.67,22.68,228518,CNG,Individual,Automatic,3
-Hyundai i20,2015,13.02,30.78,24337,Diesel,Individual,Automatic,0
-Hyundai i20,2013,6.72,11.2,54847,Diesel,Dealer,Automatic,2
-Renault Kwid,2012,17.14,34.82,131439,CNG,Individual,Manual,2
-Renault Kwid,2009,11.79,26.44,125356,Petrol,Individual,Automatic,0
-Toyota Fortuner,2005,9.8,29.92,80969,CNG,Individual,Manual,0
-Hyundai Verna,2008,5.75,15.43,137453,CNG,Dealer,Automatic,2
-Ford EcoSport,2017,10.87,25.03,203700,Petrol,Dealer,Manual,1
-Ford EcoSport,2021,12.73,18.52,94833,Diesel,Individual,Automatic,1
-Tata Nexon,2019,4.06,8.97,73487,CNG,Individual,Automatic,1
-Honda City,2011,4.51,17.72,72904,Petrol,Dealer,Automatic,0
-Volkswagen Polo,2023,18.9,23.38,249437,CNG,Dealer,Manual,2
-Mahindra Scorpio,2014,10.54,29.11,137661,Diesel,Individual,Automatic,3
-Kia Seltos,2019,9.21,20.23,126534,Petrol,Dealer,Manual,3
-Mahindra XUV500,2018,19.75,31.11,209535,Diesel,Dealer,Manual,0
-Ford EcoSport,2021,14.56,18.87,167969,Diesel,Individual,Automatic,1
-Skoda Rapid,2022,9.13,17.41,171277,Petrol,Individual,Manual,3
-Mahindra XUV500,2005,2.15,6.29,189456,CNG,Individual,Automatic,3
-Maruti Swift,2023,11.68,16.32,138296,Diesel,Individual,Automatic,3
-Skoda Rapid,2005,7.41,32.7,49760,CNG,Individual,Manual,2
-Renault Kwid,2017,5.53,8.03,226035,CNG,Dealer,Automatic,2
-Maruti Baleno,2023,19.54,22.93,71852,Diesel,Dealer,Manual,1
-Maruti Baleno,2013,6.94,17.71,72055,Diesel,Individual,Automatic,2
-Renault Kwid,2011,12.67,27.33,7257,Petrol,Dealer,Automatic,2
-Hyundai Verna,2013,15.98,30.7,123581,Diesel,Dealer,Automatic,0
-Maruti Baleno,2006,3.86,15.03,95887,CNG,Individual,Automatic,2
-Skoda Rapid,2016,5.06,15.04,52591,Diesel,Individual,Manual,3
-Mahindra Scorpio,2007,6.28,24.01,31672,Diesel,Individual,Automatic,0
-Toyota Fortuner,2014,1.31,2.48,25132,Diesel,Individual,Automatic,1
-Ford EcoSport,2014,1.48,3.04,242954,CNG,Individual,Manual,3
-Mahindra XUV500,2015,14.18,30.96,137473,Diesel,Individual,Manual,3
-Toyota Fortuner,2021,13.72,19.2,7745,CNG,Individual,Manual,1
-Kia Seltos,2013,2.28,5.97,86029,CNG,Individual,Automatic,0
-Mahindra XUV500,2011,7.3,13.49,156165,CNG,Dealer,Automatic,0
-Tata Nexon,2023,1.7,2.78,9426,Petrol,Dealer,Manual,3
-Mahindra XUV500,2008,10.58,31.68,230180,Petrol,Dealer,Automatic,1
-Hyundai i20,2016,2.66,3.91,117217,Petrol,Dealer,Manual,3
-Kia Seltos,2015,18.8,33.77,191907,Diesel,Dealer,Manual,2
-Mahindra Scorpio,2014,10.46,31.57,118688,Diesel,Dealer,Manual,2
-Mahindra XUV500,2012,11.84,22.99,190326,CNG,Individual,Manual,2
-Volkswagen Polo,2010,5.01,11.59,80451,Petrol,Dealer,Manual,0
-Tata Nexon,2021,18.09,32.71,10939,Petrol,Dealer,Automatic,1
-Toyota Fortuner,2006,3.26,9.98,238020,Diesel,Dealer,Automatic,0
-Hyundai Verna,2022,9.1,20.05,48309,Petrol,Dealer,Automatic,2
-Skoda Rapid,2012,4.54,8.9,229490,Petrol,Dealer,Automatic,2
-Volkswagen Polo,2016,19.36,33.7,117911,CNG,Individual,Automatic,3
-Hyundai i20,2016,4.07,10.56,199136,Diesel,Dealer,Manual,2
-Skoda Rapid,2010,3.59,8.27,235258,Petrol,Dealer,Manual,1
-Mahindra XUV500,2020,22.88,34.25,206974,Petrol,Individual,Automatic,1
-Tata Nexon,2005,5.78,17.12,167384,CNG,Individual,Automatic,1
-Skoda Rapid,2016,0.94,2.4,27601,Petrol,Individual,Automatic,3
-Skoda Rapid,2014,4.65,12.62,89289,CNG,Individual,Automatic,2
-Skoda Rapid,2007,9.25,31.52,71732,Diesel,Individual,Manual,1
-Toyota Corolla,2006,11.48,34.78,221735,Petrol,Dealer,Manual,0
-Toyota Corolla,2007,1.52,3.9,131310,CNG,Individual,Automatic,0
-Kia Seltos,2022,19.74,23.67,187385,Petrol,Individual,Automatic,0
-Hyundai i20,2014,10.14,29.71,14256,Petrol,Dealer,Automatic,0
-Honda City,2017,5.14,9.42,199115,Petrol,Individual,Manual,3
-Volkswagen Polo,2016,17.51,27.04,113946,Petrol,Individual,Manual,2
-Hyundai Verna,2012,6.55,15.23,206165,CNG,Individual,Automatic,2
-Toyota Corolla,2012,2.27,8.14,98330,CNG,Individual,Automatic,1
-Hyundai Verna,2019,21.57,31.02,183048,CNG,Dealer,Automatic,2
-Kia Seltos,2008,10.85,24.89,24991,Diesel,Individual,Manual,1
-Tata Nexon,2017,1.56,3.24,42044,Diesel,Dealer,Manual,0
-Honda City,2010,1.22,3.8,244241,CNG,Dealer,Automatic,0
-Mahindra Scorpio,2023,2.77,3.71,80715,Diesel,Dealer,Manual,3
-Honda City,2017,6.63,15.95,62649,Diesel,Individual,Manual,0
-Ford EcoSport,2018,4.49,6.14,222583,CNG,Dealer,Automatic,3
-Hyundai i20,2012,6.25,23.81,115138,CNG,Dealer,Automatic,1
-Toyota Corolla,2013,5.1,10.87,74087,Diesel,Individual,Manual,0
-Honda City,2019,16.4,25.58,147228,Petrol,Individual,Manual,0
-Tata Nexon,2008,7.96,34.09,100102,Diesel,Individual,Manual,3
-Skoda Rapid,2005,1.39,6.03,18689,CNG,Dealer,Automatic,0
-Maruti Swift,2013,2.71,8.44,26644,Diesel,Individual,Automatic,3
-Volkswagen Polo,2021,13.15,25.99,5174,Petrol,Dealer,Automatic,0
-Ford EcoSport,2019,13.04,18.72,134887,Diesel,Dealer,Manual,2
-Hyundai Verna,2018,14.05,25.22,186517,Diesel,Dealer,Manual,3
-Skoda Rapid,2023,16.01,25.3,218984,Petrol,Individual,Manual,0
-Skoda Rapid,2020,13.77,30.47,247188,Diesel,Dealer,Manual,3
-Mahindra Scorpio,2014,14.79,28.69,126950,CNG,Individual,Automatic,1
-Hyundai i20,2012,5.61,10.27,242942,CNG,Individual,Automatic,2
-Skoda Rapid,2020,3.59,7.37,111464,Petrol,Individual,Automatic,0
-Ford EcoSport,2016,12.02,22.5,24552,Petrol,Dealer,Automatic,1
-Toyota Fortuner,2005,2.14,11.43,123639,Petrol,Dealer,Automatic,0
-Toyota Fortuner,2019,8.88,14.59,240808,Petrol,Individual,Automatic,2
-Renault Kwid,2023,16.68,27.91,127332,Petrol,Individual,Automatic,2
-Maruti Baleno,2012,1.82,4.23,109092,Diesel,Dealer,Automatic,1
-Skoda Rapid,2013,10.57,26.35,115041,Petrol,Dealer,Manual,0
-Tata Nexon,2007,2.9,8.78,37088,CNG,Individual,Automatic,3
-Tata Nexon,2015,8.67,21.65,230498,Petrol,Dealer,Automatic,3
-Honda City,2016,5.3,17.11,237930,CNG,Individual,Automatic,0
-Skoda Rapid,2010,4.12,10.28,8849,Petrol,Dealer,Automatic,3
-Volkswagen Polo,2008,2.41,10.23,23689,Petrol,Individual,Manual,2
-Toyota Fortuner,2019,5.47,9.03,139066,Petrol,Dealer,Automatic,1
-Honda City,2017,8.2,15.47,65272,Petrol,Individual,Manual,0
-Tata Nexon,2005,2.94,9.28,81872,Petrol,Individual,Automatic,3
-Mahindra XUV500,2021,12.99,18.44,121506,Diesel,Individual,Manual,3
-Maruti Baleno,2019,8.05,10.54,74212,CNG,Dealer,Manual,1
-Maruti Swift,2021,8.13,20.05,96176,Diesel,Individual,Automatic,0
-Hyundai i20,2019,12.01,26.38,59318,CNG,Dealer,Manual,1
-Hyundai i20,2012,6.46,13.71,124729,CNG,Individual,Automatic,0
-Hyundai Verna,2020,9.9,12.99,71897,Diesel,Dealer,Manual,3
-Honda City,2018,8.19,15.12,5869,Petrol,Dealer,Automatic,2
-Maruti Baleno,2018,6.62,14.25,225232,Petrol,Individual,Manual,0
-Volkswagen Polo,2005,8.22,31.55,91664,Diesel,Individual,Manual,0
-Mahindra Scorpio,2015,12.19,23.05,112237,Diesel,Individual,Automatic,1
-Hyundai Verna,2019,2.44,4.11,160489,CNG,Individual,Automatic,2
-Mahindra XUV500,2008,9.65,21.48,177166,Petrol,Dealer,Automatic,3
-Mahindra Scorpio,2005,10.09,27.23,18261,Diesel,Individual,Manual,0
-Hyundai Verna,2020,14.09,19.04,105336,Diesel,Individual,Manual,1
-Ford EcoSport,2019,10.98,24.61,87722,Petrol,Dealer,Automatic,3
-Hyundai Verna,2014,11.52,19.67,62620,Petrol,Dealer,Automatic,3
-Volkswagen Polo,2018,15.47,32.16,246503,Petrol,Individual,Automatic,1
-Honda City,2011,3.98,9.65,28408,Petrol,Dealer,Manual,1
-Honda City,2011,2.93,8.4,228861,Petrol,Individual,Manual,0
-Kia Seltos,2013,2.89,7.29,6700,CNG,Dealer,Automatic,1
-Toyota Fortuner,2017,4.68,7.45,172527,Petrol,Individual,Manual,1
-Volkswagen Polo,2005,3.0,13.39,75269,CNG,Individual,Automatic,2
-Kia Seltos,2019,2.59,5.48,48939,Diesel,Dealer,Automatic,3
-Skoda Rapid,2019,8.69,14.9,54298,Diesel,Dealer,Automatic,3
-Volkswagen Polo,2013,6.38,15.72,220997,Petrol,Dealer,Manual,1
-Mahindra XUV500,2005,2.68,8.72,166121,CNG,Dealer,Automatic,0
-Maruti Swift,2017,17.57,24.99,164988,Petrol,Dealer,Manual,3
-Mahindra Scorpio,2011,2.3,5.77,135841,Petrol,Dealer,Manual,1
-Hyundai Verna,2005,0.68,2.6,148888,CNG,Dealer,Manual,0
-Maruti Swift,2015,12.05,24.72,166147,Petrol,Individual,Automatic,0
-Honda City,2020,4.8,8.71,30963,CNG,Individual,Manual,2
-Renault Kwid,2023,17.72,30.21,230708,CNG,Dealer,Manual,0
-Mahindra XUV500,2012,1.03,2.51,187831,Diesel,Individual,Automatic,1
-Hyundai Verna,2012,12.77,33.95,161379,Petrol,Dealer,Manual,1
-Tata Nexon,2019,4.18,9.64,181348,CNG,Individual,Manual,2
-Skoda Rapid,2018,6.85,14.29,216002,CNG,Individual,Automatic,2
-Maruti Baleno,2015,15.31,32.67,69925,CNG,Individual,Automatic,3
-Mahindra Scorpio,2006,8.75,27.5,83542,Petrol,Individual,Automatic,0
-Maruti Baleno,2020,17.35,26.81,106158,Diesel,Individual,Manual,2
-Mahindra XUV500,2011,7.7,23.86,171782,Diesel,Dealer,Automatic,0
-Maruti Baleno,2007,6.22,16.29,50913,Diesel,Dealer,Manual,1
-Ford EcoSport,2014,6.12,15.69,44178,Diesel,Individual,Automatic,3
-Maruti Swift,2017,5.55,9.09,203237,Diesel,Individual,Automatic,3
-Toyota Fortuner,2006,2.35,6.41,54522,Diesel,Dealer,Automatic,1
-Hyundai Verna,2010,6.39,19.6,189514,Diesel,Dealer,Automatic,0
-Mahindra XUV500,2018,5.96,9.22,122603,CNG,Individual,Automatic,2
-Maruti Baleno,2008,6.71,17.23,130814,Diesel,Individual,Automatic,1
-Honda City,2005,4.25,16.27,95880,Petrol,Dealer,Automatic,1
-Toyota Fortuner,2019,10.65,20.39,172031,Diesel,Individual,Automatic,1
-Maruti Swift,2012,13.03,26.3,83278,Petrol,Individual,Automatic,1
-Volkswagen Polo,2010,2.39,5.13,229531,CNG,Dealer,Manual,2
-Honda City,2007,9.57,34.92,182826,CNG,Dealer,Automatic,0
-Mahindra Scorpio,2015,4.46,13.89,206202,Diesel,Dealer,Automatic,2
-Mahindra XUV500,2007,0.52,2.52,48469,Diesel,Dealer,Automatic,3
-Toyota Corolla,2015,0.95,2.18,182359,Petrol,Dealer,Manual,1
-Ford EcoSport,2023,11.25,16.6,38340,CNG,Dealer,Automatic,3
-Maruti Baleno,2015,21.41,32.66,208446,Petrol,Dealer,Manual,0
-Skoda Rapid,2022,14.36,23.43,141304,Diesel,Individual,Automatic,0
-Mahindra Scorpio,2022,6.35,13.96,241213,Diesel,Individual,Manual,2
-Kia Seltos,2013,7.45,23.26,24288,Petrol,Individual,Automatic,1
-Toyota Fortuner,2008,5.1,15.66,21999,Diesel,Individual,Automatic,2
-Ford EcoSport,2018,2.06,4.0,140601,Petrol,Dealer,Manual,2
-Maruti Swift,2010,7.91,19.69,139327,Diesel,Individual,Manual,0
-Tata Nexon,2010,7.77,23.21,28989,Diesel,Dealer,Automatic,3
-Toyota Fortuner,2012,2.26,4.2,94049,Diesel,Dealer,Automatic,3
-Kia Seltos,2015,3.85,8.97,94132,CNG,Dealer,Automatic,3
-Ford EcoSport,2013,20.74,34.91,178860,Diesel,Dealer,Manual,2
-Maruti Baleno,2019,15.73,29.96,74341,Diesel,Individual,Automatic,2
-Hyundai i20,2021,13.0,24.09,208561,Diesel,Dealer,Manual,1
-Toyota Corolla,2011,4.76,8.96,248489,CNG,Individual,Automatic,1
-Maruti Baleno,2019,2.67,6.86,238346,Petrol,Individual,Manual,3
-Maruti Baleno,2012,4.6,8.84,119879,Petrol,Individual,Automatic,3
-Tata Nexon,2021,5.89,13.67,219028,Petrol,Individual,Automatic,3
-Volkswagen Polo,2006,8.64,29.37,50066,Diesel,Individual,Automatic,0
-Maruti Swift,2012,4.95,12.02,195359,CNG,Individual,Automatic,3
-Hyundai i20,2005,3.99,17.17,30566,Diesel,Dealer,Manual,1
-Volkswagen Polo,2013,4.07,8.29,75744,Diesel,Dealer,Automatic,3
-Toyota Corolla,2019,2.5,3.48,63870,CNG,Dealer,Manual,3
-Kia Seltos,2022,13.51,17.54,216144,CNG,Individual,Automatic,1
-Toyota Fortuner,2007,10.87,28.39,16151,CNG,Dealer,Automatic,2
-Maruti Baleno,2012,4.17,8.48,128728,Petrol,Dealer,Automatic,2
-Tata Nexon,2018,13.95,23.28,131083,CNG,Individual,Manual,0
-Hyundai i20,2010,8.61,30.21,86972,Diesel,Dealer,Automatic,2
-Honda City,2020,7.97,11.43,68909,CNG,Individual,Automatic,0
-Toyota Fortuner,2014,7.89,14.12,185922,Petrol,Dealer,Manual,0
-Hyundai Verna,2013,3.68,10.34,239196,Diesel,Individual,Manual,2
-Toyota Corolla,2017,12.53,30.73,233977,Petrol,Individual,Automatic,0
-Hyundai Verna,2005,7.51,20.29,187220,Petrol,Individual,Automatic,3
-Maruti Swift,2018,11.51,22.13,103618,Diesel,Dealer,Manual,0
-Hyundai i20,2020,17.66,22.3,212605,Diesel,Dealer,Manual,1
-Maruti Swift,2018,10.16,29.31,237204,CNG,Dealer,Automatic,0
-Kia Seltos,2012,3.95,9.48,218134,Petrol,Individual,Automatic,3
-Hyundai i20,2005,5.35,30.15,171536,Diesel,Dealer,Manual,3
-Ford EcoSport,2020,6.1,9.84,236182,Petrol,Dealer,Automatic,0
-Mahindra XUV500,2016,7.56,14.53,237679,Diesel,Individual,Manual,2
-Tata Nexon,2021,7.04,8.96,112228,Petrol,Dealer,Automatic,2
-Honda City,2022,6.36,12.5,161140,CNG,Individual,Automatic,0
-Maruti Baleno,2015,7.37,11.65,229404,CNG,Individual,Manual,3
-Honda City,2021,18.73,23.56,216127,Diesel,Individual,Automatic,1
-Maruti Swift,2008,2.86,13.56,126008,CNG,Individual,Automatic,0
-Ford EcoSport,2013,5.14,13.45,163395,Diesel,Dealer,Automatic,3
-Hyundai i20,2005,1.85,4.94,168623,Petrol,Dealer,Automatic,3
-Ford EcoSport,2008,3.1,8.55,128802,Petrol,Dealer,Automatic,3
-Volkswagen Polo,2018,8.76,16.81,110982,Diesel,Dealer,Automatic,3
-Volkswagen Polo,2013,14.52,26.79,103239,Diesel,Dealer,Manual,3
-Kia Seltos,2020,18.61,27.88,219178,Petrol,Dealer,Automatic,1
-Renault Kwid,2022,15.89,31.55,248158,CNG,Individual,Manual,3
-Mahindra Scorpio,2006,3.02,8.09,28929,Petrol,Dealer,Automatic,0
-Toyota Fortuner,2005,1.76,5.86,109188,CNG,Individual,Automatic,1
-Maruti Baleno,2009,6.53,13.72,100082,CNG,Dealer,Automatic,2
-Maruti Swift,2007,5.71,20.7,211486,CNG,Individual,Automatic,1
-Ford EcoSport,2012,11.84,29.28,75204,Petrol,Individual,Manual,0
-Maruti Baleno,2017,12.95,21.31,81996,Petrol,Dealer,Automatic,1
-Hyundai Verna,2023,17.83,23.74,23395,CNG,Individual,Manual,2
-Toyota Corolla,2013,0.87,3.05,36417,Petrol,Individual,Manual,1
-Volkswagen Polo,2016,6.87,19.28,91567,Petrol,Dealer,Manual,0
-Toyota Fortuner,2014,16.28,29.18,79960,Diesel,Individual,Manual,0
-Hyundai Verna,2019,1.83,3.71,64993,Petrol,Dealer,Automatic,0
-Skoda Rapid,2010,9.73,20.67,242069,CNG,Individual,Manual,2
-Maruti Swift,2017,11.74,17.15,14460,CNG,Individual,Automatic,0
-Hyundai i20,2006,1.03,3.08,49036,Diesel,Individual,Automatic,1
-Kia Seltos,2022,7.42,12.96,10368,Diesel,Individual,Manual,2
-Toyota Corolla,2019,13.68,22.22,29042,CNG,Individual,Manual,0
-Maruti Swift,2008,6.72,24.48,116023,Petrol,Dealer,Manual,2
-Mahindra XUV500,2007,3.62,13.71,114708,Diesel,Individual,Automatic,1
-Hyundai Verna,2019,4.11,11.5,235183,CNG,Individual,Automatic,3
-Renault Kwid,2017,15.38,25.43,116362,Diesel,Individual,Automatic,2
-Hyundai Verna,2011,3.34,9.27,57999,CNG,Individual,Automatic,2
-Kia Seltos,2020,10.65,15.31,80209,Diesel,Individual,Automatic,0
-Hyundai Verna,2006,11.71,29.21,60468,CNG,Dealer,Automatic,1
-Ford EcoSport,2018,3.74,5.55,8164,CNG,Individual,Automatic,1
-Volkswagen Polo,2013,5.55,12.18,194651,Diesel,Individual,Automatic,2
-Tata Nexon,2015,9.42,25.52,176103,CNG,Individual,Manual,0
-Volkswagen Polo,2010,6.02,16.54,88136,Diesel,Individual,Manual,2
-Renault Kwid,2007,7.87,34.92,138195,CNG,Individual,Manual,1
-Kia Seltos,2013,3.47,7.98,55258,Petrol,Dealer,Manual,2
-Toyota Fortuner,2006,2.68,7.64,236791,CNG,Dealer,Automatic,1
-Mahindra Scorpio,2013,1.03,3.73,82154,Diesel,Individual,Manual,2
-Hyundai i20,2017,3.98,12.05,221784,Diesel,Individual,Automatic,3
-Tata Nexon,2015,8.01,15.86,191098,Diesel,Dealer,Manual,2
-Tata Nexon,2016,6.41,12.35,46198,Diesel,Individual,Automatic,0
-Mahindra XUV500,2006,1.58,4.04,127778,CNG,Dealer,Manual,3
-Maruti Swift,2018,3.53,8.42,247555,Petrol,Individual,Manual,0
-Mahindra XUV500,2008,6.41,28.97,174796,Diesel,Individual,Automatic,3
-Hyundai Verna,2016,7.29,11.48,98846,Diesel,Individual,Manual,0
-Mahindra Scorpio,2009,7.27,26.01,74518,CNG,Individual,Automatic,2
-Hyundai i20,2009,8.54,27.09,135035,Petrol,Individual,Manual,1
-Skoda Rapid,2020,5.4,7.65,112445,Diesel,Dealer,Manual,2
-Toyota Corolla,2008,11.76,31.24,100598,Petrol,Dealer,Manual,2
-Toyota Corolla,2019,14.29,28.09,242715,Petrol,Individual,Automatic,1
-Volkswagen Polo,2015,9.09,13.9,31553,Petrol,Individual,Automatic,0
-Hyundai Verna,2011,2.47,5.87,243057,Diesel,Dealer,Automatic,2
-Maruti Baleno,2023,20.54,34.51,5287,Diesel,Dealer,Automatic,1
-Maruti Swift,2021,12.55,18.52,111511,Diesel,Dealer,Manual,2
-Maruti Swift,2015,7.83,20.35,162699,CNG,Individual,Manual,1
-Hyundai i20,2005,6.14,18.24,12135,Petrol,Dealer,Automatic,0
-Hyundai Verna,2014,15.76,30.56,146842,Diesel,Dealer,Automatic,1
-Hyundai i20,2007,4.87,12.7,138609,CNG,Dealer,Automatic,1
-Hyundai Verna,2010,2.02,6.73,67559,Petrol,Individual,Automatic,1
-Toyota Corolla,2013,11.08,23.52,187574,Petrol,Individual,Automatic,0
-Ford EcoSport,2022,2.83,3.48,92592,Diesel,Individual,Automatic,0
-Kia Seltos,2013,9.55,17.36,50256,Diesel,Individual,Manual,1
-Hyundai i20,2006,5.93,16.07,217603,Diesel,Dealer,Automatic,2
-Toyota Fortuner,2019,11.59,31.38,167971,Petrol,Dealer,Automatic,0
-Tata Nexon,2009,5.71,21.83,74517,Diesel,Individual,Automatic,3
-Renault Kwid,2008,15.35,34.72,143261,Diesel,Dealer,Automatic,0
-Skoda Rapid,2005,5.11,29.64,197659,Diesel,Individual,Manual,2
-Toyota Fortuner,2020,5.02,9.19,135499,Petrol,Individual,Manual,1
-Mahindra XUV500,2010,8.15,24.59,248024,Petrol,Dealer,Automatic,0
-Toyota Corolla,2016,11.16,32.5,166077,CNG,Individual,Automatic,0
-Maruti Swift,2012,5.57,11.51,72789,CNG,Dealer,Manual,0
-Hyundai Verna,2023,5.68,6.89,74590,Petrol,Dealer,Automatic,2
-Renault Kwid,2010,9.93,28.8,45542,Diesel,Individual,Manual,0
-Ford EcoSport,2012,2.93,5.13,168539,CNG,Individual,Manual,2
-Volkswagen Polo,2015,11.51,19.55,100961,CNG,Individual,Automatic,2
-Honda City,2019,5.92,12.5,99913,Petrol,Individual,Automatic,3
-Toyota Corolla,2005,6.75,22.87,133674,Petrol,Dealer,Automatic,3
-Hyundai Verna,2013,13.57,28.54,152698,Diesel,Dealer,Automatic,2
-Ford EcoSport,2017,1.16,2.85,247773,CNG,Dealer,Manual,1
-Renault Kwid,2012,11.65,33.79,57975,CNG,Individual,Manual,2
-Volkswagen Polo,2023,12.12,29.47,44346,CNG,Dealer,Manual,1
-Maruti Swift,2015,1.72,3.37,99634,CNG,Individual,Automatic,1
-Skoda Rapid,2014,2.89,7.08,185066,CNG,Individual,Automatic,2
-Mahindra Scorpio,2011,6.14,17.38,244512,Diesel,Individual,Automatic,3
-Renault Kwid,2009,1.11,2.69,169439,Petrol,Dealer,Manual,0
-Renault Kwid,2008,4.58,15.07,126136,CNG,Individual,Automatic,2
-Hyundai Verna,2017,3.81,5.97,45475,CNG,Dealer,Manual,1
-Toyota Fortuner,2023,3.95,4.53,163477,Diesel,Dealer,Automatic,3
-Mahindra Scorpio,2017,3.24,5.8,150399,Petrol,Dealer,Automatic,1
-Renault Kwid,2010,8.67,17.03,191584,Diesel,Dealer,Automatic,0
-Maruti Swift,2014,7.07,17.75,5390,Petrol,Individual,Automatic,2
-Maruti Swift,2016,4.87,14.93,14121,Petrol,Individual,Manual,1
-Toyota Corolla,2011,6.96,21.64,116048,Petrol,Dealer,Automatic,0
-Maruti Baleno,2022,10.96,19.49,207538,CNG,Individual,Automatic,0
-Toyota Fortuner,2020,7.92,20.43,21122,CNG,Dealer,Automatic,0
-Maruti Baleno,2020,14.96,21.36,41483,Diesel,Individual,Automatic,2
-Volkswagen Polo,2008,8.13,27.85,136764,CNG,Dealer,Manual,0
-Mahindra Scorpio,2017,8.19,15.01,12211,Diesel,Dealer,Manual,1
-Mahindra Scorpio,2014,11.16,17.88,192620,Diesel,Individual,Manual,2
-Kia Seltos,2016,15.47,28.87,6184,CNG,Individual,Manual,2
-Volkswagen Polo,2016,2.24,3.8,154762,CNG,Dealer,Automatic,3
-Maruti Swift,2005,8.82,29.57,217574,Diesel,Dealer,Automatic,2
-Mahindra Scorpio,2006,8.13,28.39,153929,CNG,Individual,Automatic,0
-Tata Nexon,2020,11.05,30.59,76334,CNG,Dealer,Manual,0
-Volkswagen Polo,2009,8.1,21.94,92593,Petrol,Individual,Manual,1
-Mahindra XUV500,2019,9.64,22.64,56322,CNG,Dealer,Manual,1
-Ford EcoSport,2007,1.52,3.69,122358,Diesel,Dealer,Manual,2
-Honda City,2019,10.49,18.69,132572,CNG,Dealer,Automatic,2
-Tata Nexon,2020,3.42,8.66,208085,Petrol,Dealer,Manual,2
-Toyota Fortuner,2006,2.11,8.11,49439,Petrol,Dealer,Automatic,0
-Toyota Fortuner,2012,6.02,11.79,172896,Diesel,Individual,Manual,0
-Renault Kwid,2020,16.45,24.46,204544,CNG,Dealer,Automatic,2
-Renault Kwid,2022,12.33,32.63,70066,Diesel,Individual,Automatic,2
-Maruti Swift,2023,5.17,12.93,182823,CNG,Dealer,Automatic,3
-Kia Seltos,2008,3.12,7.84,157545,CNG,Individual,Automatic,1
-Kia Seltos,2017,5.73,9.82,184736,Diesel,Individual,Manual,1
-Skoda Rapid,2017,8.03,17.68,47814,CNG,Dealer,Automatic,2
-Ford EcoSport,2023,25.79,34.75,43196,Diesel,Individual,Automatic,1
-Maruti Baleno,2013,7.6,22.81,48894,Diesel,Dealer,Automatic,1
-Hyundai i20,2005,9.46,29.48,122626,Petrol,Individual,Manual,0
-Maruti Baleno,2007,7.56,17.17,181421,Petrol,Individual,Manual,3
-Mahindra Scorpio,2020,21.07,27.37,13876,Diesel,Individual,Automatic,2
-Skoda Rapid,2012,2.92,6.21,123248,Petrol,Individual,Manual,2
-Mahindra Scorpio,2015,6.02,15.81,104485,Petrol,Dealer,Automatic,2
-Volkswagen Polo,2011,5.1,20.26,157364,Diesel,Individual,Manual,2
-Renault Kwid,2011,13.07,27.75,220379,CNG,Individual,Manual,0
-Maruti Baleno,2012,12.12,22.13,84436,Petrol,Dealer,Automatic,0
-Renault Kwid,2021,14.69,24.9,56137,Petrol,Individual,Automatic,0
-Honda City,2010,1.42,5.01,112594,Diesel,Individual,Automatic,2
-Toyota Fortuner,2005,1.43,5.02,50201,Petrol,Individual,Manual,3
-Hyundai i20,2005,2.53,8.48,187700,Petrol,Individual,Automatic,2
-Maruti Swift,2023,15.68,28.68,61344,Diesel,Dealer,Manual,0
-Tata Nexon,2006,2.49,7.98,184047,CNG,Individual,Automatic,0
-Renault Kwid,2010,10.18,22.31,142263,CNG,Dealer,Manual,1
-Ford EcoSport,2022,6.33,11.35,195195,Petrol,Dealer,Manual,2
-Mahindra Scorpio,2013,5.54,12.19,76833,Petrol,Individual,Manual,2
-Hyundai Verna,2009,4.65,20.63,14873,CNG,Individual,Manual,0
-Toyota Fortuner,2014,2.66,8.88,239088,CNG,Individual,Manual,1
-Mahindra Scorpio,2015,4.12,9.28,16772,Diesel,Dealer,Automatic,3
-Kia Seltos,2014,19.45,32.09,29648,CNG,Individual,Automatic,3
-Kia Seltos,2012,14.44,28.52,201436,CNG,Dealer,Automatic,1
-Kia Seltos,2022,9.23,12.84,102462,Petrol,Dealer,Automatic,0
-Mahindra Scorpio,2014,13.13,25.96,82506,Diesel,Dealer,Automatic,2
-Ford EcoSport,2023,11.63,15.14,175939,CNG,Individual,Manual,1
-Tata Nexon,2013,4.68,14.22,6515,CNG,Dealer,Manual,1
-Honda City,2008,4.0,14.43,36186,Petrol,Dealer,Automatic,2
-Kia Seltos,2012,2.61,4.72,233943,CNG,Individual,Manual,2
-Toyota Fortuner,2014,15.76,27.23,123680,Diesel,Individual,Automatic,2
-Honda City,2021,12.19,24.09,81106,Diesel,Dealer,Manual,1
-Kia Seltos,2015,16.47,30.43,142293,CNG,Individual,Automatic,0
-Hyundai Verna,2012,17.58,30.75,57335,Diesel,Dealer,Manual,0
-Kia Seltos,2012,8.63,24.36,247371,CNG,Dealer,Manual,1
-Volkswagen Polo,2005,6.16,17.69,168045,CNG,Individual,Manual,0
-Mahindra Scorpio,2005,2.26,8.24,207211,Petrol,Dealer,Manual,2
-Hyundai Verna,2020,16.4,29.38,169211,CNG,Individual,Manual,3
-Mahindra XUV500,2021,9.24,12.04,115195,CNG,Individual,Automatic,1
-Toyota Fortuner,2019,21.43,33.73,109718,Diesel,Individual,Manual,3
-Hyundai Verna,2019,22.18,30.49,111337,Petrol,Individual,Automatic,1
-Kia Seltos,2005,0.8,3.85,107478,Diesel,Dealer,Manual,1
-Ford EcoSport,2010,1.73,4.08,119010,Diesel,Individual,Manual,0
-Volkswagen Polo,2007,9.72,31.54,142521,Diesel,Individual,Manual,2
-Mahindra Scorpio,2006,13.51,32.72,142126,Diesel,Individual,Automatic,0
-Volkswagen Polo,2009,11.39,32.38,203159,CNG,Dealer,Manual,3
-Hyundai Verna,2006,0.75,2.01,105963,Diesel,Individual,Automatic,1
-Ford EcoSport,2010,9.34,26.18,145896,Diesel,Dealer,Manual,2
-Volkswagen Polo,2008,7.43,18.91,73689,CNG,Dealer,Manual,3
-Volkswagen Polo,2013,7.65,26.73,242243,Diesel,Individual,Automatic,1
-Hyundai Verna,2021,10.1,14.93,149401,Diesel,Dealer,Manual,0
-Volkswagen Polo,2014,17.1,30.96,224793,CNG,Individual,Manual,1
-Volkswagen Polo,2008,9.72,34.63,76927,Diesel,Individual,Manual,3
-Renault Kwid,2005,8.97,31.25,99000,Diesel,Dealer,Manual,0
-Tata Nexon,2019,10.59,15.31,61754,CNG,Individual,Automatic,3
-Tata Nexon,2012,3.83,12.16,70776,Petrol,Individual,Automatic,2
-Renault Kwid,2007,4.43,13.99,214884,Diesel,Dealer,Automatic,1
-Tata Nexon,2014,3.47,5.52,149926,Diesel,Individual,Automatic,2
-Honda City,2018,14.26,24.24,71766,Diesel,Individual,Automatic,2
-Mahindra Scorpio,2016,1.37,2.69,98297,Petrol,Dealer,Automatic,0
-Tata Nexon,2005,8.94,33.53,60514,Petrol,Dealer,Automatic,3
-Renault Kwid,2012,4.93,9.01,85859,Petrol,Individual,Automatic,3
-Toyota Fortuner,2011,3.12,8.57,24782,CNG,Individual,Automatic,0
-Maruti Baleno,2020,4.0,7.28,106010,Diesel,Individual,Automatic,0
-Honda City,2010,8.23,23.61,48880,Petrol,Individual,Manual,0
-Maruti Baleno,2022,7.66,9.28,212968,CNG,Dealer,Automatic,0
-Hyundai i20,2005,1.11,3.42,81396,CNG,Individual,Manual,0
-Mahindra XUV500,2005,4.61,18.77,13997,CNG,Individual,Automatic,0
-Volkswagen Polo,2007,3.16,8.34,112041,Petrol,Dealer,Manual,2
-Kia Seltos,2022,21.92,32.49,54768,Petrol,Dealer,Automatic,3
-Maruti Swift,2014,2.52,6.9,140393,Diesel,Individual,Manual,1
-Renault Kwid,2014,16.64,33.94,222070,Diesel,Dealer,Automatic,3
-Hyundai i20,2019,18.41,27.06,87203,Petrol,Individual,Automatic,2
-Mahindra XUV500,2008,4.09,19.07,97172,CNG,Dealer,Manual,3
-Hyundai Verna,2005,7.7,30.17,32160,Petrol,Individual,Manual,0
-Renault Kwid,2012,2.28,8.83,124392,Petrol,Individual,Manual,0
-Skoda Rapid,2013,4.48,13.31,166040,Petrol,Individual,Automatic,1
-Toyota Corolla,2022,22.41,31.19,168991,Diesel,Dealer,Manual,1
-Hyundai i20,2009,6.82,21.78,137624,Petrol,Individual,Manual,0
-Kia Seltos,2019,13.42,31.07,199824,Petrol,Dealer,Manual,2
-Hyundai i20,2023,4.16,4.87,85409,Petrol,Individual,Automatic,1
-Ford EcoSport,2007,4.1,13.6,16049,CNG,Dealer,Automatic,0
-Tata Nexon,2007,6.36,16.31,99774,Diesel,Dealer,Automatic,3
-Volkswagen Polo,2011,3.42,13.19,175851,Petrol,Individual,Automatic,0
-Kia Seltos,2020,9.34,14.79,208975,Petrol,Dealer,Automatic,1
-Hyundai Verna,2013,4.79,9.23,220705,Diesel,Individual,Manual,0
-Maruti Swift,2007,13.34,33.92,164484,Diesel,Dealer,Automatic,1
-Volkswagen Polo,2016,15.99,33.75,224040,Petrol,Individual,Automatic,1
-Maruti Swift,2020,1.01,2.03,88521,Diesel,Dealer,Manual,2
-Hyundai i20,2020,13.59,20.17,36315,CNG,Individual,Manual,2
-Toyota Corolla,2008,3.57,15.8,114906,Diesel,Individual,Manual,1
-Honda City,2022,5.98,12.82,50178,Diesel,Individual,Manual,2
-Skoda Rapid,2010,4.22,8.83,118204,CNG,Dealer,Automatic,2
-Honda City,2019,6.33,16.2,148737,Petrol,Dealer,Manual,0
-Ford EcoSport,2010,4.32,8.99,238876,Petrol,Dealer,Manual,1
-Toyota Fortuner,2007,3.94,12.11,29054,Diesel,Individual,Automatic,1
-Maruti Swift,2006,1.39,3.74,50689,Petrol,Dealer,Manual,1
-Toyota Corolla,2016,2.09,3.89,130865,Petrol,Individual,Automatic,0
-Honda City,2022,12.13,26.01,73619,Petrol,Individual,Automatic,1
-Mahindra Scorpio,2015,9.35,22.57,229126,Petrol,Individual,Automatic,1
-Tata Nexon,2008,3.23,8.52,145399,Petrol,Individual,Automatic,0
-Kia Seltos,2022,9.01,11.13,25116,Diesel,Individual,Manual,3
-Volkswagen Polo,2013,4.79,12.82,51501,Diesel,Individual,Manual,3
-Mahindra Scorpio,2010,8.64,20.24,13433,Diesel,Individual,Manual,1
-Maruti Baleno,2010,10.22,22.27,166149,CNG,Individual,Manual,2
-Volkswagen Polo,2016,4.44,9.91,56482,Diesel,Individual,Manual,3
-Ford EcoSport,2015,8.68,28.13,109504,Diesel,Dealer,Manual,2
-Honda City,2005,9.09,29.85,83353,CNG,Dealer,Manual,1
-Maruti Baleno,2022,5.72,13.42,173337,Diesel,Individual,Automatic,3
-Mahindra XUV500,2014,8.94,15.34,177208,CNG,Individual,Automatic,1
-Volkswagen Polo,2017,10.82,25.13,217803,Diesel,Dealer,Automatic,0
-Mahindra Scorpio,2020,5.35,12.5,91807,Diesel,Dealer,Manual,3
-Maruti Baleno,2017,6.48,12.47,190602,Diesel,Individual,Manual,1
-Mahindra XUV500,2006,0.87,2.53,9763,Diesel,Dealer,Manual,1
-Mahindra XUV500,2009,6.61,15.0,188383,CNG,Individual,Automatic,3
-Volkswagen Polo,2009,6.02,19.73,82129,Petrol,Dealer,Manual,1
-Tata Nexon,2011,7.89,27.09,34087,CNG,Dealer,Manual,3
-Hyundai Verna,2005,2.15,8.9,242163,Diesel,Dealer,Manual,2
-Mahindra XUV500,2017,7.49,16.61,178542,Petrol,Dealer,Manual,3
-Mahindra Scorpio,2008,9.61,29.67,167462,Petrol,Individual,Manual,3
-Honda City,2020,2.02,3.23,242064,Petrol,Individual,Automatic,1
-Toyota Fortuner,2009,13.9,34.24,184425,Petrol,Dealer,Automatic,0
-Mahindra Scorpio,2015,17.17,32.96,237259,Petrol,Dealer,Manual,3
-Tata Nexon,2023,5.09,8.76,109824,CNG,Individual,Manual,0
-Kia Seltos,2023,4.82,8.72,112509,CNG,Individual,Automatic,3
-Honda City,2016,3.69,9.89,123884,CNG,Dealer,Manual,0
-Maruti Baleno,2006,6.46,26.95,79499,Petrol,Dealer,Manual,0
-Volkswagen Polo,2014,11.01,32.5,176635,Petrol,Individual,Automatic,0
-Maruti Swift,2021,6.58,15.2,85730,CNG,Individual,Automatic,1
-Hyundai i20,2010,10.69,28.26,131083,Petrol,Dealer,Manual,3
-Honda City,2021,17.52,24.83,119934,Diesel,Dealer,Manual,2
-Hyundai Verna,2015,9.05,18.56,82527,Petrol,Individual,Automatic,3
-Maruti Swift,2019,11.01,16.64,151895,Diesel,Individual,Automatic,3
-Mahindra XUV500,2022,17.44,30.48,134526,Petrol,Individual,Manual,0
-Mahindra Scorpio,2016,5.38,8.73,213726,Diesel,Dealer,Automatic,2
-Toyota Fortuner,2019,7.84,18.59,162732,Petrol,Dealer,Automatic,0
-Mahindra Scorpio,2008,2.49,11.83,85691,CNG,Dealer,Automatic,2
-Hyundai Verna,2008,4.81,14.4,215625,Petrol,Dealer,Automatic,3
-Mahindra Scorpio,2011,14.42,31.41,126225,Diesel,Individual,Manual,3
-Renault Kwid,2012,1.64,6.11,218872,CNG,Individual,Manual,1
-Skoda Rapid,2021,21.77,27.56,151104,Diesel,Dealer,Automatic,0
-Skoda Rapid,2023,18.49,27.86,70184,Petrol,Individual,Automatic,0
-Volkswagen Polo,2021,26.64,34.56,86515,Diesel,Dealer,Automatic,0
-Mahindra Scorpio,2020,15.78,33.75,210782,Diesel,Individual,Manual,3
-Honda City,2022,10.74,12.7,247744,Petrol,Dealer,Automatic,0
-Kia Seltos,2014,9.67,21.09,231024,CNG,Dealer,Manual,0
-Kia Seltos,2016,2.54,4.87,29502,CNG,Individual,Manual,0
-Volkswagen Polo,2013,1.01,2.2,67785,CNG,Dealer,Automatic,2
-Toyota Corolla,2014,14.48,33.1,236752,Petrol,Dealer,Manual,1
-Toyota Corolla,2023,16.94,26.19,223577,Petrol,Individual,Manual,2
-Hyundai Verna,2012,3.99,7.58,174957,Petrol,Dealer,Automatic,3
-Hyundai i20,2013,5.39,10.96,107413,Petrol,Individual,Automatic,0
-Maruti Baleno,2021,15.71,30.11,229970,CNG,Dealer,Manual,0
-Maruti Baleno,2013,10.64,27.8,186143,Petrol,Dealer,Automatic,2
-Toyota Fortuner,2005,1.42,8.19,216052,Petrol,Individual,Manual,2
-Kia Seltos,2011,9.57,18.87,100377,Diesel,Individual,Manual,3
-Hyundai i20,2021,11.08,20.78,162255,Diesel,Dealer,Automatic,1
-Honda City,2010,5.46,10.66,171280,CNG,Dealer,Automatic,3
-Maruti Baleno,2022,5.37,10.17,131683,Diesel,Individual,Manual,3
-Tata Nexon,2016,4.26,7.3,220757,Diesel,Dealer,Manual,3
-Mahindra Scorpio,2008,9.77,29.12,232544,Petrol,Dealer,Manual,2
-Maruti Baleno,2016,4.19,8.34,96493,CNG,Individual,Automatic,1
-Kia Seltos,2021,5.36,9.97,38085,Petrol,Dealer,Manual,3
-Mahindra XUV500,2006,1.13,4.12,57709,Petrol,Individual,Manual,1
-Volkswagen Polo,2018,11.06,28.89,147692,Diesel,Individual,Manual,2
-Volkswagen Polo,2023,3.58,4.4,131044,Petrol,Dealer,Manual,3
-Skoda Rapid,2011,11.75,25.61,108475,Diesel,Dealer,Manual,3
-Toyota Corolla,2017,6.79,14.1,212383,Diesel,Individual,Automatic,2
-Hyundai Verna,2009,1.44,4.25,46269,CNG,Dealer,Automatic,3
-Honda City,2008,7.71,26.64,104468,CNG,Individual,Manual,3
-Skoda Rapid,2021,11.17,25.15,8832,Petrol,Individual,Automatic,3
-Toyota Corolla,2019,4.23,6.52,128714,CNG,Individual,Automatic,3
-Volkswagen Polo,2011,14.04,34.58,15024,Petrol,Dealer,Manual,3
-Skoda Rapid,2005,3.68,15.09,139479,Petrol,Dealer,Manual,3
-Skoda Rapid,2011,2.01,7.75,31505,Diesel,Individual,Automatic,2
-Hyundai i20,2017,10.46,18.24,239561,Diesel,Dealer,Manual,3
-Hyundai Verna,2022,13.11,16.72,109843,CNG,Dealer,Manual,0
-Hyundai Verna,2018,16.34,27.6,155145,Diesel,Individual,Manual,2
-Hyundai i20,2012,7.08,21.05,198587,Petrol,Individual,Automatic,2
-Volkswagen Polo,2010,1.88,4.81,150188,Diesel,Dealer,Manual,3
-Maruti Baleno,2020,14.55,34.97,226270,Petrol,Individual,Automatic,1
-Hyundai Verna,2006,7.45,19.43,163376,CNG,Dealer,Manual,3
-Mahindra Scorpio,2017,1.34,3.63,146439,CNG,Individual,Manual,0
-Hyundai Verna,2006,12.01,33.99,37991,Diesel,Individual,Manual,2
-Maruti Swift,2023,13.77,16.41,52997,CNG,Individual,Automatic,0
-Hyundai i20,2010,8.32,24.99,200994,Petrol,Dealer,Manual,2
-Maruti Baleno,2008,10.14,29.12,42201,CNG,Dealer,Manual,2
-Hyundai i20,2011,9.69,27.34,110514,Diesel,Individual,Manual,2
-Hyundai Verna,2016,10.4,21.56,104273,Petrol,Dealer,Automatic,1
-Maruti Swift,2014,6.87,11.08,52779,Diesel,Dealer,Manual,2
-Maruti Baleno,2007,6.6,17.77,248929,Petrol,Dealer,Manual,1
-Toyota Corolla,2012,5.96,13.32,25750,CNG,Individual,Manual,3
-Tata Nexon,2019,19.63,31.4,14079,CNG,Dealer,Manual,1
-Ford EcoSport,2010,9.76,29.68,199442,Petrol,Dealer,Manual,3
-Renault Kwid,2023,12.64,22.82,93916,Diesel,Individual,Manual,1
-Tata Nexon,2019,10.32,24.57,30993,Petrol,Individual,Automatic,3
-Tata Nexon,2009,1.41,3.88,133406,Petrol,Individual,Manual,3
-Volkswagen Polo,2018,15.39,34.94,184704,Petrol,Dealer,Manual,2
-Toyota Corolla,2023,5.17,10.59,94051,CNG,Dealer,Manual,1
-Kia Seltos,2013,2.93,6.16,156341,Diesel,Dealer,Manual,0
-Tata Nexon,2014,9.13,18.92,173600,Diesel,Dealer,Manual,1
-Kia Seltos,2006,1.54,4.34,215001,CNG,Individual,Automatic,1
-Toyota Fortuner,2020,4.36,11.9,17224,Petrol,Dealer,Manual,0
-Hyundai Verna,2013,3.57,7.49,9141,CNG,Dealer,Automatic,1
-Ford EcoSport,2017,3.63,8.99,64902,Diesel,Dealer,Automatic,3
-Skoda Rapid,2020,17.54,26.87,101498,Diesel,Dealer,Automatic,2
-Hyundai i20,2005,10.32,26.91,66554,CNG,Dealer,Manual,0
-Maruti Baleno,2006,3.39,11.73,245617,Diesel,Dealer,Manual,2
-Kia Seltos,2011,16.14,31.0,56360,Petrol,Individual,Manual,1
-Toyota Fortuner,2008,4.53,20.01,70140,Petrol,Dealer,Automatic,3
-Tata Nexon,2008,1.65,6.75,203360,Diesel,Dealer,Manual,0
-Mahindra Scorpio,2015,16.49,26.21,232684,Petrol,Individual,Automatic,3
-Kia Seltos,2022,9.53,13.68,239385,Diesel,Individual,Manual,3
-Honda City,2019,6.0,10.78,26301,Diesel,Dealer,Manual,3
-Skoda Rapid,2013,7.91,16.02,60856,Petrol,Individual,Automatic,3
-Renault Kwid,2005,7.98,34.52,147182,Diesel,Dealer,Manual,3
-Mahindra Scorpio,2023,12.9,30.28,131545,Petrol,Dealer,Automatic,2
-Renault Kwid,2021,4.0,5.25,244647,Diesel,Dealer,Manual,0
-Hyundai i20,2021,3.78,10.34,107499,Diesel,Dealer,Automatic,0
-Hyundai i20,2018,6.1,13.53,208141,Diesel,Dealer,Manual,0
-Volkswagen Polo,2021,22.14,29.16,202327,CNG,Individual,Manual,2
-Renault Kwid,2010,0.6,2.56,84569,Diesel,Dealer,Automatic,1
-Maruti Baleno,2010,2.25,4.53,46846,Diesel,Dealer,Automatic,3
-Maruti Swift,2006,5.6,28.24,20733,Petrol,Dealer,Manual,0
-Renault Kwid,2007,1.38,5.31,220243,Petrol,Dealer,Automatic,0
-Kia Seltos,2006,14.13,34.39,197941,Petrol,Dealer,Manual,2
-Hyundai i20,2013,1.21,2.61,29309,Petrol,Individual,Automatic,2
-Skoda Rapid,2022,8.7,12.09,182732,Diesel,Individual,Automatic,1
-Honda City,2006,5.83,23.03,81870,CNG,Individual,Automatic,2
-Skoda Rapid,2010,12.42,28.28,77377,Petrol,Individual,Automatic,0
-Hyundai i20,2011,10.13,32.04,112092,Diesel,Individual,Automatic,0
-Honda City,2015,16.88,26.29,42755,Diesel,Individual,Automatic,0
-Skoda Rapid,2012,14.55,30.51,157324,CNG,Dealer,Automatic,3
-Kia Seltos,2012,5.91,22.86,224162,Diesel,Dealer,Automatic,1
-Volkswagen Polo,2013,3.67,6.8,214124,CNG,Dealer,Manual,3
-Mahindra XUV500,2016,7.23,13.61,244721,Petrol,Dealer,Manual,1
-Toyota Fortuner,2017,1.17,2.96,174578,CNG,Dealer,Manual,1
-Maruti Swift,2020,15.13,25.17,24360,Diesel,Individual,Manual,0
-Maruti Baleno,2010,12.53,28.43,87597,Diesel,Individual,Automatic,2
-Tata Nexon,2014,1.87,4.7,58693,Petrol,Individual,Automatic,1
-Hyundai i20,2011,11.78,32.85,8981,Diesel,Dealer,Manual,3
-Hyundai i20,2017,6.53,17.14,227601,Petrol,Dealer,Manual,0
-Ford EcoSport,2017,11.46,32.81,202817,Diesel,Dealer,Automatic,2
-Toyota Corolla,2010,7.09,13.84,63047,Petrol,Dealer,Manual,1
-Maruti Baleno,2016,15.76,23.39,142866,Petrol,Individual,Automatic,0
-Honda City,2022,4.47,5.32,16560,Diesel,Dealer,Manual,3
-Mahindra XUV500,2008,7.63,34.87,198709,Petrol,Dealer,Automatic,1
-Hyundai i20,2014,13.0,32.53,109143,Diesel,Dealer,Automatic,3
-Renault Kwid,2006,8.94,24.45,6906,Diesel,Dealer,Manual,1
-Mahindra Scorpio,2020,2.18,3.48,217290,Diesel,Individual,Automatic,0
-Maruti Baleno,2005,2.74,15.21,45297,CNG,Individual,Manual,3
-Hyundai i20,2017,15.42,24.19,148738,Diesel,Individual,Manual,3
-Skoda Rapid,2018,11.51,28.57,155685,Petrol,Dealer,Manual,2
-Maruti Baleno,2021,5.37,14.44,107302,Petrol,Dealer,Automatic,1
-Mahindra Scorpio,2015,3.6,6.72,165897,Petrol,Dealer,Manual,1
-Hyundai i20,2009,8.03,33.46,234716,Petrol,Individual,Manual,0
-Honda City,2006,9.08,27.26,210849,Diesel,Dealer,Manual,2
-Mahindra Scorpio,2009,11.16,30.79,82707,Petrol,Dealer,Manual,2
-Toyota Corolla,2006,7.42,22.69,112724,Petrol,Dealer,Automatic,2
-Maruti Baleno,2009,4.16,17.01,249896,Diesel,Individual,Automatic,3
-Mahindra XUV500,2017,18.64,30.16,62894,Petrol,Individual,Automatic,3
-Hyundai i20,2016,4.18,6.25,117113,CNG,Individual,Automatic,0
-Hyundai i20,2019,6.45,9.71,184006,Petrol,Individual,Automatic,0
-Volkswagen Polo,2021,8.22,14.71,165259,Diesel,Dealer,Automatic,2
-Maruti Swift,2022,12.87,16.96,118396,Diesel,Dealer,Manual,0
-Ford EcoSport,2015,19.44,33.36,195861,Petrol,Individual,Automatic,2
-Maruti Swift,2017,13.59,28.58,216389,Diesel,Dealer,Manual,3
-Toyota Corolla,2021,16.66,32.29,99533,CNG,Individual,Manual,1
-Toyota Fortuner,2014,3.36,9.88,10972,CNG,Dealer,Automatic,1
-Honda City,2021,1.27,3.16,112791,CNG,Individual,Automatic,3
-Toyota Corolla,2021,13.84,24.19,111410,Petrol,Individual,Manual,1
-Maruti Swift,2006,1.64,4.53,140604,Petrol,Individual,Manual,3
-Toyota Fortuner,2005,11.8,33.2,106164,Diesel,Dealer,Manual,0
-Maruti Swift,2011,4.5,13.63,122369,CNG,Individual,Manual,2
-Skoda Rapid,2018,10.36,18.27,130695,Diesel,Individual,Automatic,0
-Toyota Corolla,2022,5.21,6.2,98220,Diesel,Dealer,Automatic,2
-Mahindra XUV500,2014,12.24,19.43,239397,Petrol,Individual,Manual,2
-Skoda Rapid,2021,17.66,27.96,97259,Diesel,Dealer,Manual,3
-Mahindra XUV500,2009,1.94,8.62,124324,Diesel,Dealer,Automatic,3
-Ford EcoSport,2008,8.26,25.08,57389,CNG,Dealer,Automatic,2
-Toyota Fortuner,2006,1.15,5.58,80164,CNG,Dealer,Automatic,2
-Kia Seltos,2014,7.71,22.63,90474,CNG,Dealer,Automatic,3
-Honda City,2018,11.67,18.68,177106,CNG,Dealer,Manual,1
-Toyota Fortuner,2020,13.73,29.59,8771,Diesel,Dealer,Manual,0
-Honda City,2012,4.21,15.44,223530,Petrol,Dealer,Automatic,1
-Maruti Baleno,2021,1.4,3.8,64946,CNG,Individual,Automatic,1
-Kia Seltos,2008,5.48,20.87,236233,Diesel,Dealer,Manual,0
-Hyundai i20,2018,1.05,2.73,108376,Diesel,Individual,Manual,3
-Tata Nexon,2009,2.19,5.33,162541,Diesel,Individual,Manual,2
-Kia Seltos,2005,10.47,32.38,26323,Petrol,Dealer,Automatic,3
-Hyundai i20,2006,4.68,19.22,157297,CNG,Individual,Manual,1
-Skoda Rapid,2018,7.52,15.27,72863,Diesel,Individual,Manual,0
-Volkswagen Polo,2008,9.77,27.5,43192,Diesel,Individual,Automatic,2
-Mahindra Scorpio,2009,6.61,28.35,65030,CNG,Individual,Manual,3
-Maruti Baleno,2022,21.73,33.54,141681,Diesel,Individual,Automatic,0
-Skoda Rapid,2009,8.06,20.29,195830,Diesel,Individual,Automatic,2
-Honda City,2012,10.0,30.61,229006,CNG,Dealer,Manual,1
-Toyota Fortuner,2013,7.33,26.98,119897,Petrol,Individual,Manual,1
-Mahindra XUV500,2016,6.34,20.38,122798,CNG,Dealer,Automatic,2
-Volkswagen Polo,2008,5.32,20.15,68230,Petrol,Dealer,Manual,1
-Tata Nexon,2023,18.99,30.1,109292,Petrol,Individual,Manual,3
-Hyundai i20,2010,2.61,5.21,117551,Petrol,Dealer,Automatic,1
-Mahindra XUV500,2005,7.4,29.57,21619,CNG,Individual,Manual,1
-Toyota Corolla,2010,2.11,8.43,110575,Petrol,Dealer,Automatic,2
-Hyundai i20,2005,6.33,16.67,72359,Petrol,Dealer,Automatic,3
-Hyundai i20,2013,4.03,6.71,135466,Diesel,Dealer,Manual,0
-Ford EcoSport,2007,2.72,13.56,29502,Diesel,Individual,Automatic,1
-Maruti Baleno,2011,7.16,18.01,75192,Diesel,Individual,Automatic,1
-Tata Nexon,2012,5.74,13.97,77782,CNG,Dealer,Manual,2
-Mahindra Scorpio,2020,6.1,12.44,105128,Petrol,Dealer,Manual,0
-Toyota Fortuner,2014,9.99,24.61,222202,Petrol,Dealer,Manual,3
-Maruti Swift,2012,4.48,8.38,5368,Petrol,Dealer,Manual,3
-Kia Seltos,2021,16.28,34.3,72005,Diesel,Individual,Manual,0
-Toyota Corolla,2012,4.54,15.68,238589,Petrol,Individual,Automatic,3
-Volkswagen Polo,2010,12.69,29.21,198219,CNG,Individual,Manual,2
-Volkswagen Polo,2011,7.26,19.1,232967,CNG,Dealer,Manual,1
-Ford EcoSport,2012,9.28,33.52,83177,Petrol,Dealer,Manual,2
-Mahindra XUV500,2016,6.04,9.93,76820,CNG,Dealer,Automatic,3
-Toyota Fortuner,2012,5.91,18.62,16539,Diesel,Individual,Manual,0
-Mahindra Scorpio,2017,17.15,25.7,146932,CNG,Dealer,Automatic,1
-Honda City,2017,11.8,19.49,43744,CNG,Dealer,Manual,2
-Skoda Rapid,2017,5.17,10.78,8190,Diesel,Individual,Automatic,3
-Maruti Baleno,2005,6.65,24.88,186033,Diesel,Individual,Manual,3
-Maruti Swift,2014,9.68,16.53,59847,CNG,Individual,Manual,1
-Volkswagen Polo,2020,23.99,31.32,147839,Diesel,Individual,Manual,0
-Maruti Baleno,2016,4.08,8.77,25982,Petrol,Dealer,Manual,2
-Hyundai i20,2011,7.76,27.14,218215,Diesel,Individual,Automatic,2
-Toyota Fortuner,2010,9.81,21.36,186565,Petrol,Individual,Automatic,3
-Kia Seltos,2015,5.52,10.32,119296,Petrol,Individual,Automatic,2
-Toyota Corolla,2013,11.81,33.5,105572,Diesel,Individual,Automatic,3
-Mahindra XUV500,2023,5.32,8.54,96428,Diesel,Individual,Manual,1
-Ford EcoSport,2016,14.69,29.76,104270,Diesel,Dealer,Automatic,1
-Maruti Baleno,2011,1.42,4.06,147012,CNG,Dealer,Automatic,3
-Maruti Baleno,2016,10.12,31.15,79554,Diesel,Dealer,Automatic,3
-Toyota Fortuner,2021,21.96,27.29,228190,Diesel,Dealer,Automatic,1
-Ford EcoSport,2019,21.41,32.51,185580,Petrol,Individual,Automatic,1
-Ford EcoSport,2023,11.0,22.79,212028,CNG,Individual,Manual,2
-Hyundai Verna,2020,15.81,33.37,18231,CNG,Dealer,Automatic,0
-Ford EcoSport,2014,8.24,25.3,220862,Petrol,Dealer,Automatic,0
-Ford EcoSport,2011,5.07,9.32,67672,Petrol,Individual,Manual,0
-Kia Seltos,2015,2.0,3.19,62378,CNG,Individual,Automatic,3
-Hyundai Verna,2023,10.6,24.54,115502,Petrol,Individual,Automatic,2
-Skoda Rapid,2017,10.8,26.66,30958,CNG,Dealer,Manual,1
-Honda City,2006,6.39,33.67,47406,Petrol,Dealer,Manual,0
-Tata Nexon,2011,3.93,14.06,12244,Petrol,Individual,Manual,1
-Honda City,2011,12.5,32.53,205658,Diesel,Dealer,Manual,2
-Renault Kwid,2008,2.82,8.22,156152,Petrol,Dealer,Manual,3
-Maruti Swift,2005,6.82,20.45,163322,Diesel,Individual,Automatic,3
-Maruti Swift,2017,7.7,17.96,209736,CNG,Individual,Manual,1
-Hyundai i20,2018,15.53,26.91,159596,Diesel,Dealer,Manual,1
-Volkswagen Polo,2009,2.6,8.27,96141,Petrol,Dealer,Automatic,0
-Ford EcoSport,2011,1.09,2.19,85141,Petrol,Dealer,Automatic,3
-Volkswagen Polo,2012,11.12,20.77,246112,CNG,Dealer,Automatic,2
-Skoda Rapid,2022,7.66,16.44,142328,CNG,Dealer,Manual,0
-Mahindra XUV500,2018,5.83,11.95,206454,CNG,Dealer,Manual,1
-Renault Kwid,2018,1.62,2.96,21043,Petrol,Dealer,Manual,3
-Ford EcoSport,2015,9.35,19.16,222825,Diesel,Individual,Manual,3
-Maruti Swift,2016,3.97,12.18,152478,CNG,Individual,Manual,0
-Ford EcoSport,2010,5.66,19.5,26352,Petrol,Dealer,Manual,1
-Toyota Corolla,2020,13.75,19.31,59213,Diesel,Dealer,Automatic,0
-Toyota Corolla,2016,2.0,4.35,68755,Diesel,Individual,Manual,2
-Kia Seltos,2005,11.99,32.68,213296,Diesel,Individual,Automatic,0
-Honda City,2013,6.69,15.43,40201,Diesel,Dealer,Manual,2
-Kia Seltos,2015,9.42,15.55,165371,Diesel,Individual,Manual,0
-Skoda Rapid,2019,17.98,30.54,14587,Petrol,Individual,Automatic,3
-Honda City,2011,4.45,12.58,132785,Petrol,Dealer,Manual,1
-Tata Nexon,2006,3.86,14.81,29124,CNG,Dealer,Automatic,3
-Ford EcoSport,2022,13.85,28.16,135429,Petrol,Individual,Automatic,3
-Maruti Swift,2017,9.24,22.05,115284,Diesel,Individual,Automatic,3
-Kia Seltos,2021,9.96,26.83,30762,CNG,Dealer,Manual,0
-Maruti Baleno,2014,7.64,13.61,122674,CNG,Individual,Automatic,2
-Hyundai Verna,2019,5.6,11.36,20775,Diesel,Individual,Automatic,2
-Hyundai i20,2014,4.53,11.73,202277,CNG,Dealer,Automatic,2
-Toyota Corolla,2018,20.24,28.99,224720,Petrol,Dealer,Automatic,3
-Tata Nexon,2013,2.63,9.66,166941,Diesel,Individual,Automatic,2
-Mahindra Scorpio,2023,19.28,25.28,207990,CNG,Individual,Manual,3
-Ford EcoSport,2011,14.18,29.31,248876,Petrol,Dealer,Automatic,1
-Toyota Corolla,2005,7.46,30.31,185462,Diesel,Dealer,Manual,1
-Maruti Swift,2009,7.03,20.58,213472,Petrol,Individual,Manual,2
-Mahindra Scorpio,2023,24.43,28.07,61866,Petrol,Dealer,Manual,1
-Renault Kwid,2013,1.36,4.44,152214,CNG,Dealer,Manual,0
-Mahindra XUV500,2011,3.24,7.75,9331,Petrol,Dealer,Manual,1
-Renault Kwid,2013,4.17,11.47,189544,CNG,Individual,Automatic,0
-Maruti Baleno,2018,7.17,19.16,65148,CNG,Individual,Automatic,3
-Mahindra XUV500,2008,4.87,22.99,50771,CNG,Individual,Automatic,1
-Toyota Corolla,2022,13.11,21.41,170542,Diesel,Dealer,Manual,0
-Volkswagen Polo,2014,11.73,27.69,230825,Diesel,Individual,Manual,1
-Hyundai Verna,2005,2.13,5.52,18444,CNG,Dealer,Automatic,2
-Honda City,2015,2.56,6.89,230121,Petrol,Individual,Manual,3
-Toyota Fortuner,2021,18.91,26.4,214417,Petrol,Dealer,Manual,1
-Tata Nexon,2021,11.31,24.0,181687,Petrol,Individual,Manual,0
-Tata Nexon,2007,11.0,25.42,208990,Diesel,Individual,Manual,1
-Hyundai i20,2022,16.29,28.77,168521,Diesel,Individual,Automatic,0
-Tata Nexon,2017,6.95,14.79,61235,Diesel,Individual,Manual,1
-Volkswagen Polo,2015,2.44,7.26,24731,Petrol,Individual,Manual,1
-Toyota Fortuner,2013,6.06,12.92,213542,Diesel,Dealer,Automatic,0
-Tata Nexon,2008,3.46,9.48,146167,CNG,Dealer,Manual,0
-Renault Kwid,2015,9.84,26.27,45088,CNG,Individual,Manual,1
-Hyundai i20,2023,16.71,28.88,160049,Petrol,Individual,Manual,2
-Tata Nexon,2006,7.43,21.08,144931,Petrol,Dealer,Manual,0
-Maruti Baleno,2006,10.91,30.25,206000,Diesel,Individual,Automatic,1
-Mahindra XUV500,2009,12.43,27.32,72560,Diesel,Dealer,Automatic,2
-Hyundai Verna,2015,15.74,32.91,75027,Petrol,Dealer,Automatic,2
-Volkswagen Polo,2013,18.03,31.73,59545,CNG,Individual,Automatic,0
-Ford EcoSport,2012,1.0,2.12,229383,Diesel,Individual,Manual,2
-Honda City,2012,11.91,23.23,55411,CNG,Individual,Manual,3
-Mahindra XUV500,2013,6.1,17.94,241436,Petrol,Individual,Manual,3
-Maruti Baleno,2018,3.83,7.7,142863,CNG,Individual,Automatic,1
-Renault Kwid,2020,1.87,3.6,48220,CNG,Dealer,Manual,0
-Ford EcoSport,2017,9.78,25.83,33261,Diesel,Dealer,Manual,3
-Tata Nexon,2023,10.52,16.71,147412,Diesel,Individual,Manual,1
-Maruti Swift,2017,9.92,28.79,115304,Diesel,Dealer,Automatic,3
-Hyundai i20,2021,11.61,31.11,186693,Petrol,Individual,Manual,2
-Skoda Rapid,2021,9.3,17.63,244879,CNG,Dealer,Automatic,3
-Maruti Baleno,2021,20.27,25.19,208754,Petrol,Dealer,Automatic,0
-Toyota Fortuner,2019,15.18,30.73,73187,Diesel,Dealer,Automatic,1
-Renault Kwid,2019,10.75,17.54,74619,Diesel,Individual,Automatic,1
-Honda City,2016,5.81,16.39,69222,Diesel,Dealer,Automatic,1
-Mahindra Scorpio,2006,5.5,18.79,234408,Petrol,Individual,Manual,1
-Honda City,2012,2.64,7.19,10295,Petrol,Individual,Manual,2
-Maruti Swift,2010,3.61,7.27,182443,Diesel,Dealer,Manual,1
-Honda City,2011,8.02,22.51,185954,Petrol,Dealer,Manual,0
-Renault Kwid,2019,6.8,19.61,85758,Diesel,Individual,Manual,2
-Maruti Baleno,2011,6.99,22.02,94110,CNG,Dealer,Manual,3
-Renault Kwid,2023,26.89,31.51,75864,Diesel,Individual,Manual,1
-Ford EcoSport,2017,12.27,21.93,243188,CNG,Dealer,Automatic,1
-Maruti Baleno,2008,0.83,2.31,74224,Diesel,Individual,Automatic,1
-Renault Kwid,2015,17.96,29.59,62745,Diesel,Individual,Automatic,0
-Honda City,2016,7.18,21.5,157586,Petrol,Individual,Automatic,1
-Honda City,2021,14.17,28.24,99488,CNG,Individual,Manual,0
-Volkswagen Polo,2013,10.35,18.18,249145,Petrol,Individual,Automatic,1
-Honda City,2020,1.54,2.5,237366,Diesel,Dealer,Automatic,2
-Toyota Corolla,2012,7.26,18.42,244689,CNG,Dealer,Manual,3
-Maruti Swift,2018,3.15,4.46,132337,Petrol,Dealer,Automatic,3
-Maruti Baleno,2021,11.69,20.85,118766,CNG,Individual,Automatic,3
-Volkswagen Polo,2006,5.83,23.39,210463,Petrol,Individual,Manual,2
-Mahindra Scorpio,2013,12.94,34.82,230864,Petrol,Dealer,Manual,3
-Maruti Baleno,2022,11.1,23.59,173678,Petrol,Individual,Automatic,3
-Hyundai Verna,2014,3.86,8.31,157606,CNG,Individual,Manual,1
-Toyota Corolla,2011,7.83,25.89,42412,CNG,Dealer,Automatic,2
-Kia Seltos,2009,13.2,31.97,233163,CNG,Dealer,Manual,1
-Maruti Swift,2017,2.11,6.04,174771,Diesel,Individual,Manual,1
-Volkswagen Polo,2020,2.05,4.3,17856,Diesel,Individual,Manual,1
-Hyundai Verna,2012,13.27,24.15,60654,CNG,Individual,Automatic,1
-Mahindra XUV500,2013,10.77,34.48,210704,Petrol,Individual,Manual,2
-Mahindra Scorpio,2006,9.85,32.81,219178,CNG,Individual,Automatic,1
-Mahindra XUV500,2005,4.4,12.1,223194,Petrol,Individual,Manual,0
-Hyundai i20,2018,10.63,18.78,140549,CNG,Individual,Automatic,0
-Mahindra Scorpio,2010,6.37,15.56,38371,Petrol,Dealer,Manual,0
-Mahindra Scorpio,2010,8.96,26.96,217153,Petrol,Dealer,Manual,3
-Hyundai Verna,2023,3.1,5.33,156212,Diesel,Individual,Automatic,3
-Mahindra XUV500,2021,16.09,34.39,188276,Petrol,Dealer,Manual,3
-Skoda Rapid,2007,9.05,21.55,183168,Petrol,Dealer,Automatic,1
-Honda City,2022,8.17,18.66,92228,CNG,Dealer,Manual,3
-Tata Nexon,2019,23.33,32.77,182265,CNG,Individual,Manual,1
-Mahindra XUV500,2018,15.93,32.2,63706,Diesel,Dealer,Manual,2
-Renault Kwid,2011,8.61,17.06,232320,CNG,Individual,Manual,3
-Renault Kwid,2008,2.41,5.42,234700,Petrol,Dealer,Automatic,2
-Renault Kwid,2019,7.59,10.08,153362,Petrol,Individual,Automatic,3
-Maruti Baleno,2014,2.45,5.63,178101,Diesel,Dealer,Automatic,0
-Renault Kwid,2014,6.74,19.95,232870,Petrol,Dealer,Automatic,2
-Tata Nexon,2019,15.65,33.95,55893,CNG,Individual,Automatic,3
-Tata Nexon,2011,9.9,30.47,158463,Petrol,Dealer,Manual,2
-Mahindra Scorpio,2015,8.19,12.58,137669,Petrol,Individual,Automatic,2
-Ford EcoSport,2017,8.83,27.93,154962,Diesel,Dealer,Automatic,1
-Toyota Corolla,2009,2.56,8.32,30457,Diesel,Individual,Manual,1
-Hyundai Verna,2006,1.95,6.87,57137,Diesel,Individual,Manual,1
-Maruti Swift,2005,7.03,34.76,168616,Diesel,Dealer,Automatic,0
-Ford EcoSport,2009,4.26,8.86,184357,Petrol,Dealer,Automatic,3
-Volkswagen Polo,2005,4.11,13.25,55903,Diesel,Dealer,Manual,0
-Maruti Swift,2014,17.69,31.56,219674,CNG,Dealer,Automatic,1
-Skoda Rapid,2018,4.8,11.07,246424,Petrol,Individual,Automatic,3
-Skoda Rapid,2022,20.71,28.05,110649,Petrol,Individual,Automatic,2
-Ford EcoSport,2010,8.67,24.06,139847,Diesel,Individual,Automatic,1
-Honda City,2013,3.42,10.12,191256,Diesel,Dealer,Automatic,0
-Renault Kwid,2014,8.47,23.83,41382,CNG,Individual,Automatic,2
-Skoda Rapid,2017,1.3,3.86,90820,Diesel,Dealer,Automatic,3
-Skoda Rapid,2015,14.82,33.15,164011,Diesel,Individual,Manual,2
-Toyota Fortuner,2007,5.65,17.01,94493,Petrol,Dealer,Automatic,2
-Maruti Swift,2021,1.65,2.45,6359,Petrol,Individual,Manual,3
-Maruti Swift,2017,16.71,25.65,35782,Petrol,Individual,Automatic,2
-Skoda Rapid,2012,4.15,14.32,101188,Petrol,Dealer,Manual,0
-Kia Seltos,2006,4.05,19.13,103375,CNG,Individual,Automatic,0
-Ford EcoSport,2007,4.21,13.97,50708,CNG,Dealer,Manual,2
-Skoda Rapid,2022,12.51,29.76,239241,Diesel,Individual,Manual,2
-Toyota Fortuner,2005,4.03,13.5,102151,CNG,Dealer,Automatic,1
-Hyundai i20,2015,11.04,28.82,174808,CNG,Individual,Automatic,2
-Skoda Rapid,2021,15.62,24.79,91038,Diesel,Individual,Automatic,0
-Kia Seltos,2008,5.84,18.36,140383,CNG,Dealer,Manual,2
-Honda City,2017,6.83,10.39,7580,CNG,Dealer,Automatic,1
-Toyota Corolla,2021,3.2,4.84,38545,CNG,Dealer,Automatic,1
-Ford EcoSport,2023,14.4,20.29,214486,Petrol,Individual,Manual,1
-Honda City,2022,3.53,9.13,244423,Petrol,Individual,Manual,2
-Volkswagen Polo,2007,3.75,8.95,244900,Petrol,Dealer,Automatic,0
-Mahindra Scorpio,2008,6.61,16.87,43897,CNG,Dealer,Automatic,3
-Volkswagen Polo,2013,5.93,10.45,48284,Petrol,Dealer,Manual,0
-Maruti Swift,2007,8.39,24.34,213138,Petrol,Dealer,Manual,2
-Maruti Swift,2023,19.76,34.88,138909,Diesel,Dealer,Manual,2
-Hyundai Verna,2017,13.74,30.66,80147,CNG,Dealer,Automatic,2
-Toyota Corolla,2009,1.35,3.27,41943,CNG,Dealer,Automatic,1
-Hyundai i20,2014,2.65,6.63,240048,CNG,Dealer,Manual,2
-Ford EcoSport,2021,12.6,16.5,202206,Petrol,Individual,Manual,0
-Kia Seltos,2009,13.8,33.61,150980,CNG,Individual,Manual,1
-Ford EcoSport,2022,4.29,9.02,44220,CNG,Dealer,Manual,0
-Volkswagen Polo,2019,13.47,19.91,38697,Petrol,Dealer,Manual,0
-Mahindra Scorpio,2005,5.52,15.69,167357,Diesel,Dealer,Manual,3
-Volkswagen Polo,2017,1.23,2.74,22790,Diesel,Dealer,Automatic,1
-Honda City,2016,13.25,26.7,237264,CNG,Individual,Manual,1
-Renault Kwid,2020,12.31,26.04,212693,Petrol,Dealer,Automatic,0
-Skoda Rapid,2017,6.52,16.11,106999,CNG,Dealer,Manual,0
-Renault Kwid,2005,7.7,29.73,41948,CNG,Individual,Automatic,3
-Maruti Baleno,2005,0.73,4.02,154229,Diesel,Dealer,Automatic,0
-Toyota Corolla,2010,11.6,33.08,200667,CNG,Dealer,Manual,1
-Tata Nexon,2012,8.17,19.51,195884,Petrol,Dealer,Manual,2
-Skoda Rapid,2018,11.69,23.91,197479,CNG,Dealer,Manual,2
-Toyota Fortuner,2012,1.64,3.82,107565,Diesel,Individual,Manual,3
-Skoda Rapid,2005,8.67,26.63,236615,Diesel,Individual,Manual,3
-Maruti Baleno,2005,7.82,24.17,237084,Diesel,Dealer,Manual,0
-Renault Kwid,2017,7.76,15.78,121625,Petrol,Dealer,Manual,0
-Ford EcoSport,2009,11.48,25.92,209561,Petrol,Individual,Manual,2
-Mahindra Scorpio,2007,2.3,9.63,212353,Petrol,Dealer,Automatic,2
-Tata Nexon,2005,9.86,32.18,247556,Petrol,Dealer,Automatic,2
-Tata Nexon,2013,4.93,8.97,50802,Petrol,Dealer,Automatic,0
-Ford EcoSport,2020,9.15,16.8,179223,Petrol,Dealer,Automatic,2
-Maruti Baleno,2009,2.01,5.04,111242,CNG,Dealer,Manual,1
-Ford EcoSport,2013,4.66,16.53,239417,Petrol,Dealer,Manual,3
-Hyundai Verna,2006,8.1,31.25,192588,Diesel,Dealer,Manual,2
-Tata Nexon,2014,5.97,16.85,213655,Petrol,Individual,Manual,3
-Hyundai i20,2021,13.64,18.98,90603,Petrol,Dealer,Automatic,1
-Mahindra XUV500,2015,9.57,28.81,128962,Petrol,Dealer,Automatic,3
-Toyota Fortuner,2013,8.54,23.2,140174,CNG,Individual,Manual,0
-Hyundai Verna,2013,9.83,24.15,60186,Petrol,Individual,Automatic,3
-Volkswagen Polo,2017,4.04,7.76,244662,Diesel,Individual,Manual,1
-Honda City,2014,16.18,26.73,133156,Petrol,Dealer,Manual,2
-Skoda Rapid,2011,6.91,21.13,194454,CNG,Dealer,Automatic,2
-Honda City,2021,9.63,22.49,55624,Petrol,Individual,Automatic,0
-Toyota Corolla,2008,8.22,21.22,60264,Petrol,Dealer,Manual,0
-Ford EcoSport,2005,3.26,11.15,177704,Petrol,Dealer,Automatic,2
-Mahindra XUV500,2008,9.83,28.26,31962,CNG,Individual,Automatic,1
-Mahindra XUV500,2013,1.44,3.1,232021,CNG,Individual,Automatic,1
-Hyundai i20,2009,3.32,6.77,34765,Diesel,Individual,Manual,0
-Kia Seltos,2023,3.58,7.85,78631,Diesel,Individual,Manual,1
-Ford EcoSport,2015,8.71,25.35,182586,CNG,Individual,Automatic,1
-Honda City,2013,12.67,28.73,220375,CNG,Individual,Manual,0
-Hyundai i20,2012,1.62,4.6,247287,Petrol,Individual,Automatic,2
-Maruti Baleno,2013,5.19,16.68,206587,Petrol,Individual,Automatic,0
-Renault Kwid,2013,14.23,28.91,161926,Diesel,Dealer,Automatic,0
-Maruti Baleno,2022,17.6,31.43,134651,CNG,Individual,Automatic,0
-Kia Seltos,2011,9.99,22.62,44199,Diesel,Dealer,Manual,0
-Kia Seltos,2005,2.91,11.85,164236,Diesel,Dealer,Manual,1
-Maruti Baleno,2018,14.1,31.61,133140,Diesel,Individual,Automatic,3
-Mahindra Scorpio,2019,18.34,33.18,88629,CNG,Dealer,Automatic,1
-Renault Kwid,2005,5.57,14.93,243972,Petrol,Individual,Automatic,2
-Mahindra XUV500,2007,1.78,6.85,215373,CNG,Dealer,Automatic,2
-Maruti Baleno,2009,17.01,34.55,138964,CNG,Individual,Manual,0
-Hyundai i20,2022,6.97,10.48,157418,Diesel,Dealer,Manual,0
-Hyundai Verna,2005,6.42,17.16,99238,Petrol,Dealer,Automatic,1
-Tata Nexon,2015,11.45,20.7,236391,Diesel,Dealer,Automatic,2
-Toyota Corolla,2007,8.84,30.27,17834,CNG,Dealer,Automatic,0
-Tata Nexon,2022,13.66,28.85,153645,Petrol,Dealer,Manual,0
-Hyundai i20,2021,6.93,17.55,74224,Diesel,Dealer,Automatic,0
-Toyota Corolla,2019,11.63,29.8,77959,CNG,Individual,Automatic,1
-Mahindra Scorpio,2013,5.28,12.01,234608,CNG,Dealer,Automatic,3
-Volkswagen Polo,2006,4.78,20.84,201278,Petrol,Individual,Manual,2
-Hyundai i20,2020,1.07,2.48,47679,Petrol,Individual,Automatic,3
-Renault Kwid,2022,13.49,34.49,110928,CNG,Individual,Automatic,3
-Toyota Corolla,2012,11.94,31.44,214870,Diesel,Dealer,Automatic,3
-Hyundai Verna,2010,1.5,3.78,74002,Diesel,Dealer,Automatic,3
-Maruti Swift,2007,3.0,8.93,179698,Diesel,Dealer,Manual,3
-Tata Nexon,2013,6.3,11.08,33834,Petrol,Individual,Manual,3
-Kia Seltos,2013,8.04,15.17,149916,CNG,Individual,Manual,2
-Kia Seltos,2017,11.22,17.8,196168,CNG,Dealer,Automatic,3
-Maruti Swift,2019,10.32,28.59,242239,Diesel,Dealer,Manual,2
-Tata Nexon,2021,6.62,10.08,181540,Diesel,Dealer,Manual,2
-Honda City,2005,3.93,16.4,121062,Diesel,Individual,Manual,2
-Mahindra Scorpio,2005,1.91,5.49,22140,CNG,Individual,Manual,3
-Tata Nexon,2017,18.74,34.25,169512,CNG,Dealer,Manual,0
-Maruti Swift,2019,7.25,17.69,220190,Diesel,Individual,Manual,0
-Toyota Corolla,2016,13.93,33.97,50227,Diesel,Individual,Manual,2
-Hyundai i20,2023,3.23,4.09,209238,CNG,Individual,Automatic,2
-Kia Seltos,2011,2.25,6.96,79489,Diesel,Dealer,Automatic,0
-Volkswagen Polo,2008,6.85,31.63,162483,Petrol,Dealer,Manual,1
-Volkswagen Polo,2023,12.53,31.54,208738,Diesel,Dealer,Manual,1
-Mahindra XUV500,2015,18.0,32.19,120248,Petrol,Dealer,Manual,0
-Tata Nexon,2009,3.09,8.96,44322,Diesel,Dealer,Manual,0
-Hyundai i20,2012,13.37,29.67,226736,Diesel,Individual,Manual,3
-Renault Kwid,2013,17.0,33.72,74506,CNG,Individual,Manual,0
-Toyota Corolla,2022,13.97,24.68,224356,Petrol,Individual,Automatic,0
-Maruti Swift,2020,18.86,29.1,126943,CNG,Dealer,Automatic,0
-Mahindra XUV500,2017,7.62,15.16,141427,Diesel,Individual,Manual,3
-Hyundai Verna,2014,14.49,25.86,92273,Diesel,Dealer,Manual,3
-Kia Seltos,2013,5.06,9.59,70453,Diesel,Dealer,Automatic,0
-Mahindra XUV500,2010,1.04,3.96,33523,Diesel,Dealer,Automatic,0
-Maruti Swift,2018,20.1,27.65,44767,CNG,Individual,Automatic,2
-Mahindra Scorpio,2005,3.6,10.85,106489,Diesel,Dealer,Manual,3
-Mahindra XUV500,2019,4.54,10.96,223816,CNG,Individual,Manual,2
-Tata Nexon,2016,12.9,23.53,228232,CNG,Individual,Automatic,3
-Renault Kwid,2011,12.31,22.85,170043,Diesel,Dealer,Manual,0
-Hyundai i20,2006,5.08,17.88,240568,Petrol,Individual,Automatic,2
-Maruti Baleno,2005,7.63,26.18,109060,CNG,Dealer,Manual,1
-Renault Kwid,2019,7.84,19.58,248753,Petrol,Dealer,Manual,2
-Toyota Corolla,2022,4.25,5.48,112983,CNG,Dealer,Manual,2
-Honda City,2017,7.36,16.63,209541,Petrol,Individual,Automatic,2
-Maruti Baleno,2014,4.67,8.3,91269,CNG,Dealer,Automatic,2
-Hyundai i20,2018,7.83,14.74,224882,CNG,Individual,Manual,0
-Toyota Corolla,2022,11.15,18.49,171415,Diesel,Dealer,Automatic,0
-Kia Seltos,2023,20.43,26.43,76240,CNG,Individual,Automatic,0
-Volkswagen Polo,2015,11.67,34.5,124107,Petrol,Dealer,Automatic,1
-Tata Nexon,2008,2.96,9.71,226576,Diesel,Individual,Manual,1
-Volkswagen Polo,2009,3.66,12.25,19588,Petrol,Dealer,Automatic,2
-Mahindra XUV500,2014,4.4,15.29,62609,Diesel,Individual,Manual,0
-Ford EcoSport,2019,7.44,10.32,179898,Diesel,Dealer,Automatic,3
-Skoda Rapid,2023,5.72,7.98,146129,Diesel,Individual,Automatic,2
-Tata Nexon,2023,2.67,6.18,163814,Petrol,Dealer,Manual,2
-Ford EcoSport,2023,4.33,5.57,15588,CNG,Dealer,Automatic,3
-Skoda Rapid,2023,5.74,11.85,139011,Petrol,Individual,Manual,3
-Maruti Baleno,2019,1.08,2.22,220288,CNG,Dealer,Manual,0
-Maruti Baleno,2005,4.83,19.28,13720,Petrol,Dealer,Automatic,3
-Ford EcoSport,2010,5.02,15.03,209580,Diesel,Individual,Automatic,0
-Hyundai i20,2017,5.51,11.56,225375,CNG,Individual,Automatic,2
-Renault Kwid,2009,6.94,14.45,54892,Diesel,Individual,Manual,3
-Maruti Baleno,2006,12.06,30.87,164359,CNG,Individual,Automatic,0
-Hyundai Verna,2021,9.8,14.11,203937,CNG,Individual,Manual,3
-Skoda Rapid,2006,1.66,5.22,132522,CNG,Dealer,Automatic,2
-Hyundai Verna,2019,14.56,21.45,242957,CNG,Individual,Manual,2
-Ford EcoSport,2009,2.18,5.36,88029,Diesel,Dealer,Manual,1
-Honda City,2006,5.26,15.59,19901,CNG,Dealer,Manual,0
-Volkswagen Polo,2007,7.27,28.33,47875,Diesel,Individual,Automatic,3
-Toyota Fortuner,2020,4.58,10.31,54063,CNG,Dealer,Automatic,3
-Mahindra Scorpio,2016,1.46,2.73,196083,CNG,Dealer,Automatic,2
-Volkswagen Polo,2020,11.07,28.92,172795,Diesel,Individual,Automatic,2
-Maruti Swift,2013,9.4,23.42,144593,CNG,Individual,Manual,0
-Honda City,2006,4.84,13.07,34960,CNG,Individual,Manual,2
-Volkswagen Polo,2015,2.97,6.21,184772,Diesel,Individual,Manual,3
-Honda City,2022,21.52,27.89,160223,Petrol,Dealer,Manual,3
-Tata Nexon,2012,8.49,25.04,34873,Petrol,Dealer,Manual,1
-Honda City,2019,4.05,6.12,118920,Diesel,Individual,Manual,2
-Volkswagen Polo,2007,7.69,22.34,98562,Diesel,Individual,Manual,1
-Renault Kwid,2007,6.79,30.61,173410,Diesel,Individual,Manual,2
-Maruti Baleno,2012,5.91,19.94,57132,Diesel,Dealer,Manual,0
-Hyundai Verna,2008,13.26,31.82,146294,Diesel,Individual,Automatic,0
-Skoda Rapid,2014,15.49,27.93,238982,CNG,Dealer,Automatic,0
-Mahindra XUV500,2020,13.87,20.3,216674,CNG,Individual,Manual,0
-Toyota Corolla,2010,1.57,3.08,112334,Diesel,Individual,Manual,1
-Tata Nexon,2013,8.1,18.16,212627,Diesel,Dealer,Manual,0
-Renault Kwid,2020,6.19,9.7,11277,Petrol,Dealer,Automatic,1
-Renault Kwid,2021,15.19,22.41,11869,CNG,Dealer,Manual,3
-Honda City,2019,8.62,19.76,39033,Diesel,Individual,Automatic,2
-Maruti Swift,2011,4.22,15.97,155033,Petrol,Dealer,Automatic,2
-Tata Nexon,2016,13.46,25.2,182228,Petrol,Individual,Manual,1
-Skoda Rapid,2023,17.95,26.63,13562,Petrol,Individual,Manual,3
-Toyota Fortuner,2020,24.32,33.58,59708,Diesel,Individual,Manual,0
-Tata Nexon,2011,11.77,29.47,45581,CNG,Dealer,Manual,1
-Toyota Corolla,2005,2.68,13.35,7347,CNG,Dealer,Manual,2
-Maruti Baleno,2012,8.49,20.83,106583,Petrol,Dealer,Automatic,0
-Maruti Swift,2019,7.46,15.83,231489,CNG,Dealer,Manual,0
-Maruti Baleno,2017,4.39,8.57,248722,Petrol,Individual,Manual,3
-Skoda Rapid,2018,2.98,8.33,63595,CNG,Dealer,Automatic,2
-Toyota Fortuner,2017,9.89,23.58,83616,Diesel,Dealer,Automatic,1
-Honda City,2012,5.62,12.22,79176,Diesel,Dealer,Manual,3
-Ford EcoSport,2017,21.54,33.18,47039,CNG,Dealer,Automatic,2
-Kia Seltos,2017,13.2,31.75,141885,CNG,Individual,Manual,0
-Toyota Corolla,2019,4.27,11.73,30989,CNG,Dealer,Automatic,1
-Mahindra Scorpio,2017,18.31,31.96,28482,Petrol,Individual,Automatic,1
-Toyota Corolla,2011,12.48,33.56,134493,Petrol,Dealer,Automatic,0
-Maruti Baleno,2017,1.29,3.17,76524,CNG,Individual,Manual,0
-Maruti Swift,2008,12.46,28.74,126831,Petrol,Individual,Manual,0
-Honda City,2006,13.36,34.81,65692,Petrol,Dealer,Manual,0
-Hyundai Verna,2019,14.4,22.09,209239,Diesel,Individual,Manual,2
-Ford EcoSport,2021,14.31,21.67,217373,Petrol,Dealer,Manual,2
-Mahindra XUV500,2011,8.02,24.71,185292,Petrol,Dealer,Manual,1
-Volkswagen Polo,2009,1.84,7.37,54725,CNG,Dealer,Manual,1
-Mahindra XUV500,2020,19.47,25.02,215906,Petrol,Dealer,Manual,3
-Toyota Fortuner,2007,4.88,20.38,247088,Petrol,Dealer,Automatic,2
-Ford EcoSport,2008,8.09,33.54,171433,Petrol,Individual,Automatic,0
-Maruti Baleno,2015,9.27,21.63,12971,Diesel,Individual,Automatic,2
-Toyota Fortuner,2016,15.67,33.99,140004,Petrol,Dealer,Automatic,0
-Renault Kwid,2014,9.04,24.43,74134,Diesel,Dealer,Automatic,2
-Mahindra Scorpio,2013,13.62,23.65,86015,CNG,Dealer,Manual,0
-Toyota Fortuner,2009,4.61,16.79,28259,Petrol,Individual,Automatic,3
-Toyota Corolla,2007,9.81,34.98,31309,CNG,Dealer,Automatic,3
-Hyundai i20,2022,12.06,27.36,28880,CNG,Dealer,Manual,2
-Toyota Corolla,2013,7.68,28.32,76694,CNG,Dealer,Manual,3
-Maruti Swift,2017,12.18,26.43,244354,CNG,Dealer,Manual,0
-Maruti Baleno,2007,0.5,2.04,86588,CNG,Individual,Manual,1
-Mahindra Scorpio,2019,2.39,4.62,9791,Petrol,Individual,Automatic,0
-Skoda Rapid,2005,7.89,20.86,196634,Diesel,Individual,Automatic,1
-Honda City,2019,12.87,23.25,225412,Petrol,Individual,Manual,3
-Honda City,2022,1.36,2.67,87015,Petrol,Dealer,Automatic,1
-Skoda Rapid,2019,4.59,9.92,29028,Petrol,Individual,Automatic,0
-Hyundai Verna,2007,13.26,33.25,232802,CNG,Dealer,Manual,1
-Kia Seltos,2009,6.83,20.04,105808,Petrol,Dealer,Automatic,3
-Maruti Baleno,2005,9.73,25.71,230931,Petrol,Dealer,Automatic,2
-Volkswagen Polo,2018,2.35,5.7,137888,Petrol,Individual,Automatic,3
-Ford EcoSport,2017,9.23,18.01,115034,Diesel,Dealer,Manual,0
-Maruti Baleno,2018,13.5,20.44,43428,CNG,Dealer,Manual,1
-Volkswagen Polo,2014,7.45,18.91,22718,Diesel,Dealer,Manual,2
-Skoda Rapid,2023,22.19,25.43,151075,CNG,Dealer,Manual,3
-Tata Nexon,2015,12.66,31.1,34072,Diesel,Individual,Automatic,2
-Maruti Baleno,2009,4.91,22.0,72936,Diesel,Individual,Manual,3
-Honda City,2014,0.98,2.2,184289,CNG,Dealer,Automatic,3
-Maruti Baleno,2021,21.49,32.62,43665,Diesel,Individual,Automatic,0
-Hyundai i20,2009,13.37,31.9,95815,CNG,Individual,Automatic,2
-Maruti Swift,2016,7.22,11.55,14465,Petrol,Dealer,Automatic,2
-Mahindra XUV500,2016,14.65,24.82,215084,Petrol,Individual,Manual,3
-Volkswagen Polo,2016,5.71,14.82,24659,CNG,Dealer,Manual,3
-Renault Kwid,2015,5.07,7.81,205903,Diesel,Individual,Automatic,3
-Honda City,2011,5.92,17.86,118528,CNG,Individual,Manual,0
-Toyota Corolla,2018,9.44,16.25,170505,Petrol,Dealer,Automatic,3
-Tata Nexon,2007,4.36,17.86,204416,CNG,Dealer,Automatic,3
-Mahindra XUV500,2021,4.17,7.73,50530,Diesel,Individual,Manual,3
-Volkswagen Polo,2020,19.66,26.31,173157,Petrol,Individual,Automatic,2
-Mahindra XUV500,2015,13.94,28.54,133256,Petrol,Dealer,Manual,1
-Renault Kwid,2011,9.83,18.18,20701,CNG,Individual,Manual,3
-Mahindra Scorpio,2018,12.62,27.5,184115,CNG,Individual,Automatic,3
-Honda City,2017,6.37,16.38,22198,CNG,Dealer,Automatic,2
-Ford EcoSport,2009,11.51,33.83,31783,Diesel,Individual,Automatic,3
-Ford EcoSport,2006,6.66,18.51,122969,Petrol,Individual,Manual,0
-Toyota Fortuner,2010,5.61,17.87,54713,Diesel,Individual,Automatic,3
-Toyota Fortuner,2009,8.7,19.22,42921,Petrol,Dealer,Automatic,2
-Honda City,2016,12.35,23.6,111283,Petrol,Dealer,Automatic,2
-Tata Nexon,2011,2.19,4.77,31325,Diesel,Individual,Automatic,3
-Honda City,2014,5.85,15.75,198823,Petrol,Dealer,Automatic,3
-Kia Seltos,2016,7.56,23.63,114733,Diesel,Individual,Manual,0
-Toyota Corolla,2017,9.24,21.28,138021,Petrol,Dealer,Manual,3
-Mahindra Scorpio,2006,1.08,2.63,145689,Petrol,Dealer,Automatic,1
-Toyota Fortuner,2014,19.48,32.36,92381,Petrol,Dealer,Manual,0
-Kia Seltos,2018,20.3,34.82,126764,CNG,Dealer,Automatic,1
-Honda City,2012,10.86,27.87,100739,Diesel,Dealer,Automatic,0
-Skoda Rapid,2022,26.15,32.26,16596,CNG,Individual,Manual,2
-Volkswagen Polo,2015,2.59,5.13,60598,CNG,Dealer,Manual,1
-Mahindra XUV500,2005,10.36,32.17,152278,Diesel,Individual,Automatic,1
-Maruti Baleno,2008,2.27,5.29,31819,Diesel,Individual,Manual,2
-Kia Seltos,2011,5.81,21.75,157254,Petrol,Individual,Automatic,0
-Skoda Rapid,2016,6.21,14.05,209428,Diesel,Dealer,Automatic,3
-Ford EcoSport,2018,14.48,23.05,48147,Petrol,Individual,Automatic,1
-Maruti Baleno,2018,20.79,28.57,229895,Diesel,Dealer,Manual,0
-Renault Kwid,2021,17.35,26.25,47923,Petrol,Dealer,Manual,0
-Maruti Baleno,2010,6.91,25.81,38529,CNG,Individual,Automatic,0
-Hyundai i20,2015,5.5,14.99,25323,CNG,Individual,Automatic,2
-Renault Kwid,2012,2.3,4.08,13711,Petrol,Individual,Automatic,2
-Hyundai Verna,2007,4.93,12.37,29918,Petrol,Dealer,Manual,1
-Hyundai i20,2005,3.98,11.06,113886,Diesel,Dealer,Automatic,0
-Mahindra XUV500,2014,7.66,20.55,99655,Diesel,Individual,Manual,1
-Kia Seltos,2013,11.0,23.6,234300,Petrol,Dealer,Manual,0
-Tata Nexon,2020,12.91,20.85,171762,CNG,Dealer,Automatic,0
-Skoda Rapid,2005,4.94,20.29,50667,Diesel,Dealer,Manual,3
-Mahindra XUV500,2013,9.2,23.41,242263,Diesel,Dealer,Manual,3
-Honda City,2018,12.76,29.58,8679,Diesel,Dealer,Manual,2
-Ford EcoSport,2008,7.33,17.73,198295,CNG,Individual,Manual,0
-Renault Kwid,2017,12.39,20.57,100711,Petrol,Individual,Manual,3
-Kia Seltos,2019,12.57,22.79,126327,Petrol,Dealer,Automatic,0
-Toyota Fortuner,2005,4.22,11.46,67157,Petrol,Dealer,Manual,0
-Honda City,2010,2.33,5.42,9960,Diesel,Individual,Manual,2
-Ford EcoSport,2023,3.63,5.72,61387,CNG,Individual,Manual,0
-Tata Nexon,2010,6.2,14.15,78839,Petrol,Dealer,Automatic,3
-Tata Nexon,2023,19.7,29.5,207259,Diesel,Dealer,Automatic,3
-Maruti Baleno,2017,11.09,22.93,113352,Diesel,Individual,Manual,1
-Ford EcoSport,2013,1.79,2.99,51105,Petrol,Individual,Automatic,3
-Maruti Swift,2014,5.85,12.15,98034,Diesel,Individual,Automatic,3
-Mahindra Scorpio,2022,26.77,33.07,43294,Diesel,Individual,Manual,2
-Skoda Rapid,2020,14.19,18.64,165230,Diesel,Individual,Automatic,0
-Ford EcoSport,2013,14.82,30.3,141666,Petrol,Dealer,Manual,1
-Kia Seltos,2011,7.88,25.71,22675,CNG,Dealer,Manual,0
-Renault Kwid,2010,7.78,17.5,191737,CNG,Dealer,Manual,1
-Mahindra Scorpio,2017,9.95,30.18,136515,CNG,Dealer,Automatic,3
-Kia Seltos,2014,15.07,25.17,161270,Petrol,Dealer,Automatic,3
-Hyundai i20,2008,7.06,27.46,218573,CNG,Dealer,Manual,1
-Hyundai Verna,2021,22.52,28.39,10445,Petrol,Dealer,Manual,3
-Honda City,2016,10.57,19.82,155466,Petrol,Dealer,Automatic,3
-Hyundai Verna,2012,9.41,20.17,143542,Diesel,Dealer,Automatic,1
-Toyota Corolla,2005,10.22,31.47,8338,Diesel,Individual,Manual,1
-Maruti Swift,2021,7.22,10.07,164876,CNG,Individual,Automatic,1
-Volkswagen Polo,2015,10.47,23.81,112761,Petrol,Dealer,Automatic,3
-Toyota Fortuner,2014,14.4,33.73,236793,Petrol,Individual,Automatic,2
-Volkswagen Polo,2013,1.77,4.08,128649,Diesel,Dealer,Manual,1
-Maruti Swift,2005,6.99,23.15,152435,CNG,Dealer,Automatic,2
-Maruti Baleno,2009,6.55,20.38,53581,Diesel,Individual,Manual,1
-Toyota Corolla,2007,6.64,29.08,29016,CNG,Dealer,Automatic,0
-Mahindra Scorpio,2011,7.04,16.47,90015,Diesel,Dealer,Manual,0
-Renault Kwid,2019,11.94,28.33,74767,Petrol,Individual,Manual,0
-Hyundai Verna,2021,8.8,24.17,50704,Diesel,Individual,Manual,0
-Tata Nexon,2005,7.95,28.87,224182,CNG,Individual,Automatic,3
-Kia Seltos,2016,13.1,19.75,122935,CNG,Individual,Manual,1
-Honda City,2008,5.45,21.78,90615,Diesel,Dealer,Manual,0
-Honda City,2023,6.03,14.39,38717,Petrol,Individual,Manual,0
-Tata Nexon,2023,1.41,2.77,47607,Diesel,Individual,Manual,2
-Honda City,2017,15.4,22.94,150762,Petrol,Dealer,Automatic,3
-Toyota Corolla,2015,5.01,15.29,192973,CNG,Dealer,Manual,1
-Maruti Baleno,2020,1.52,3.84,142687,CNG,Individual,Automatic,3
-Toyota Fortuner,2016,4.66,13.05,236436,Diesel,Dealer,Manual,1
-Ford EcoSport,2022,8.74,16.78,119300,Diesel,Dealer,Manual,1
-Skoda Rapid,2019,5.92,12.04,11574,Diesel,Dealer,Automatic,3
-Ford EcoSport,2012,2.27,6.28,84062,Petrol,Dealer,Manual,2
-Toyota Fortuner,2020,11.35,27.26,30298,CNG,Individual,Manual,0
-Ford EcoSport,2022,5.03,12.22,150476,CNG,Dealer,Automatic,2
-Toyota Corolla,2013,19.41,34.22,86455,Petrol,Dealer,Automatic,1
-Toyota Fortuner,2010,12.99,29.24,110789,Petrol,Individual,Automatic,0
-Maruti Swift,2008,9.58,29.07,94342,Diesel,Dealer,Manual,1
-Maruti Baleno,2020,19.66,33.31,107840,Petrol,Dealer,Automatic,1
-Volkswagen Polo,2008,1.16,2.87,193564,CNG,Dealer,Automatic,3
-Skoda Rapid,2006,6.9,26.15,5528,CNG,Dealer,Automatic,3
-Skoda Rapid,2005,3.56,14.14,118843,Petrol,Dealer,Automatic,2
-Honda City,2017,18.33,25.94,27161,CNG,Individual,Automatic,1
-Mahindra XUV500,2021,25.08,34.25,91130,CNG,Individual,Automatic,1
-Hyundai Verna,2019,13.55,27.27,172466,CNG,Dealer,Automatic,0
-Renault Kwid,2010,5.98,12.25,142837,CNG,Individual,Automatic,0
-Tata Nexon,2007,1.08,3.92,39986,CNG,Individual,Automatic,0
-Maruti Baleno,2020,6.8,15.42,96594,Diesel,Individual,Manual,2
-Kia Seltos,2013,9.79,29.57,239347,Diesel,Individual,Automatic,0
-Volkswagen Polo,2023,15.61,20.04,37596,CNG,Individual,Manual,1
-Volkswagen Polo,2020,8.81,22.88,113585,CNG,Individual,Manual,3
-Honda City,2016,7.86,24.95,108533,CNG,Individual,Manual,3
-Honda City,2013,11.86,21.08,103112,CNG,Individual,Manual,3
-Renault Kwid,2017,10.35,17.25,51022,Petrol,Dealer,Automatic,0
-Honda City,2011,0.92,2.27,160546,Diesel,Dealer,Automatic,3
-Toyota Fortuner,2014,2.26,7.95,108170,CNG,Dealer,Manual,1
-Toyota Corolla,2021,13.43,19.65,164028,CNG,Individual,Automatic,0
-Toyota Fortuner,2021,2.52,3.96,125454,Petrol,Individual,Manual,0
-Maruti Swift,2010,11.84,29.53,127694,Petrol,Individual,Manual,1
-Hyundai i20,2017,16.22,33.32,113500,CNG,Dealer,Automatic,3
-Hyundai Verna,2009,14.43,29.16,122734,CNG,Dealer,Manual,2
-Hyundai i20,2009,6.67,24.98,71299,Diesel,Individual,Automatic,3
-Hyundai i20,2018,2.4,4.29,70363,Petrol,Dealer,Automatic,0
-Hyundai Verna,2018,5.93,12.52,246443,Diesel,Individual,Automatic,2
-Volkswagen Polo,2014,4.46,14.55,245660,CNG,Dealer,Manual,2
-Hyundai Verna,2008,10.36,26.28,75979,Diesel,Individual,Manual,0
-Toyota Fortuner,2008,4.39,11.32,178292,CNG,Individual,Automatic,0
-Maruti Swift,2005,2.27,8.83,182381,CNG,Individual,Manual,3
-Hyundai Verna,2013,6.79,14.33,206081,CNG,Dealer,Automatic,3
-Mahindra Scorpio,2020,17.18,31.68,155870,CNG,Dealer,Automatic,2
-Toyota Fortuner,2012,12.03,23.04,191131,CNG,Dealer,Manual,1
-Skoda Rapid,2009,8.28,21.27,84233,CNG,Dealer,Automatic,0
-Toyota Fortuner,2022,15.36,33.37,33525,Petrol,Dealer,Automatic,1
-Mahindra XUV500,2022,2.07,3.3,215882,Petrol,Individual,Manual,2
-Hyundai i20,2022,16.97,25.04,236632,Petrol,Dealer,Automatic,1
-Skoda Rapid,2021,7.26,9.18,122363,Diesel,Dealer,Automatic,2
-Volkswagen Polo,2017,18.97,31.4,181283,Diesel,Dealer,Manual,0
-Renault Kwid,2017,5.52,9.5,209874,Petrol,Dealer,Manual,0
-Maruti Baleno,2011,1.52,4.35,74852,CNG,Individual,Automatic,2
-Ford EcoSport,2022,2.07,3.46,28940,CNG,Dealer,Automatic,1
-Mahindra Scorpio,2023,4.89,5.82,161610,CNG,Individual,Automatic,1
-Toyota Corolla,2005,2.0,5.53,239589,Diesel,Dealer,Automatic,0
-Maruti Swift,2012,7.74,21.21,163987,Petrol,Individual,Automatic,2
-Maruti Swift,2008,4.57,18.37,74306,CNG,Individual,Manual,2
-Honda City,2016,5.81,14.54,84509,Diesel,Individual,Manual,0
-Maruti Baleno,2020,10.78,20.07,198320,CNG,Dealer,Manual,1
-Hyundai i20,2008,3.66,13.74,217519,Petrol,Individual,Automatic,3
-Ford EcoSport,2021,13.19,25.36,163422,Diesel,Individual,Automatic,0
-Hyundai Verna,2015,4.67,15.15,38800,CNG,Individual,Manual,1
-Maruti Swift,2013,14.18,27.54,208569,CNG,Individual,Automatic,2
-Mahindra Scorpio,2017,6.6,10.13,118435,CNG,Dealer,Manual,0
-Renault Kwid,2010,1.88,7.45,206495,CNG,Individual,Manual,1
-Skoda Rapid,2017,9.76,14.77,86311,CNG,Dealer,Automatic,3
-Kia Seltos,2008,5.61,14.72,166554,Petrol,Individual,Manual,1
-Honda City,2014,4.8,8.56,57482,Diesel,Dealer,Automatic,2
-Honda City,2021,13.3,24.04,104265,CNG,Individual,Automatic,0
-Toyota Fortuner,2021,15.13,34.58,124004,Petrol,Dealer,Manual,0
-Volkswagen Polo,2020,4.13,9.42,175100,Diesel,Dealer,Automatic,0
-Tata Nexon,2007,5.96,28.97,116688,Diesel,Individual,Manual,2
-Honda City,2021,19.13,26.57,144180,CNG,Dealer,Automatic,1
-Hyundai i20,2010,8.9,25.04,59604,CNG,Individual,Automatic,0
-Maruti Swift,2019,10.53,18.94,94882,CNG,Individual,Automatic,2
-Toyota Fortuner,2008,3.48,12.33,193691,Petrol,Dealer,Automatic,1
-Hyundai i20,2019,7.43,14.64,47903,Petrol,Dealer,Automatic,2
-Maruti Swift,2018,6.03,16.09,74634,CNG,Individual,Automatic,3
-Hyundai Verna,2012,4.52,8.82,174350,Petrol,Individual,Automatic,3
-Hyundai i20,2018,4.28,7.7,37813,Petrol,Individual,Automatic,3
-Honda City,2013,6.4,23.37,13831,Diesel,Dealer,Automatic,0
-Hyundai i20,2008,1.45,4.43,109216,CNG,Individual,Automatic,0
-Volkswagen Polo,2020,15.67,26.29,137717,Petrol,Individual,Automatic,3
-Mahindra Scorpio,2010,2.04,6.32,216811,CNG,Dealer,Manual,3
-Toyota Fortuner,2010,5.2,16.14,104919,CNG,Dealer,Manual,0
-Tata Nexon,2012,7.49,16.03,18515,CNG,Dealer,Manual,3
-Hyundai i20,2018,7.19,12.12,119380,Petrol,Dealer,Automatic,0
-Maruti Swift,2007,5.98,27.73,60746,Diesel,Individual,Manual,1
-Renault Kwid,2020,18.01,23.12,225084,Petrol,Dealer,Manual,0
-Honda City,2019,23.68,31.19,82066,CNG,Individual,Automatic,0
-Kia Seltos,2012,12.93,27.28,245746,Diesel,Dealer,Manual,2
-Maruti Baleno,2022,10.81,19.74,186350,Petrol,Individual,Manual,3
-Mahindra Scorpio,2013,12.2,24.96,94196,Petrol,Individual,Automatic,3
-Hyundai Verna,2012,8.23,18.57,233624,Petrol,Dealer,Automatic,0
-Toyota Corolla,2013,7.72,18.96,130093,Petrol,Individual,Manual,0
-Honda City,2005,7.37,27.9,214047,Diesel,Individual,Manual,3
-Hyundai i20,2011,10.09,22.63,237131,Diesel,Dealer,Manual,3
-Honda City,2012,2.12,4.75,5639,Diesel,Dealer,Manual,2
-Mahindra XUV500,2008,3.67,11.06,112598,Petrol,Individual,Manual,1
-Hyundai i20,2023,26.17,34.34,115002,Diesel,Individual,Automatic,0
-Hyundai Verna,2019,11.4,31.55,135752,Petrol,Individual,Automatic,0
-Volkswagen Polo,2005,10.0,28.05,211824,Diesel,Individual,Automatic,3
-Renault Kwid,2018,7.75,11.7,169340,CNG,Individual,Automatic,0
-Toyota Fortuner,2023,1.65,2.22,75726,Petrol,Individual,Automatic,0
-Tata Nexon,2019,16.04,33.34,130076,Diesel,Individual,Automatic,2
-Renault Kwid,2009,12.33,30.02,237352,Petrol,Individual,Automatic,1
-Volkswagen Polo,2009,6.95,16.12,166287,CNG,Dealer,Manual,3
-Maruti Baleno,2022,15.54,25.5,34605,Diesel,Individual,Automatic,0
-Mahindra Scorpio,2015,10.97,25.78,222245,Petrol,Individual,Automatic,1
-Kia Seltos,2020,1.64,3.81,226775,Petrol,Individual,Manual,3
-Hyundai Verna,2020,17.27,25.66,185557,Diesel,Dealer,Automatic,1
-Honda City,2013,3.64,9.27,121072,Petrol,Dealer,Automatic,0
-Toyota Fortuner,2016,6.21,20.43,226368,Diesel,Dealer,Automatic,0
-Tata Nexon,2021,4.91,6.21,90447,CNG,Individual,Manual,1
-Maruti Swift,2016,4.59,9.0,9090,CNG,Individual,Automatic,3
-Mahindra XUV500,2012,7.66,19.22,177472,Diesel,Dealer,Manual,3
-Maruti Baleno,2005,10.79,29.56,118566,Petrol,Dealer,Manual,3
-Maruti Swift,2019,18.42,27.97,111968,Petrol,Individual,Manual,3
-Toyota Corolla,2016,1.76,3.78,150335,Petrol,Individual,Automatic,2
-Volkswagen Polo,2006,5.78,18.88,107785,Petrol,Dealer,Automatic,1
-Renault Kwid,2014,4.19,7.48,210523,CNG,Individual,Automatic,0
-Maruti Baleno,2023,8.31,21.41,52024,CNG,Individual,Automatic,1
-Skoda Rapid,2017,7.46,21.79,94025,Petrol,Individual,Manual,1
-Mahindra Scorpio,2006,9.69,32.77,139760,Petrol,Dealer,Automatic,1
-Tata Nexon,2023,11.63,13.68,237275,CNG,Individual,Automatic,2
-Renault Kwid,2020,6.58,9.26,130614,Diesel,Dealer,Automatic,3
-Toyota Fortuner,2007,5.1,12.73,181169,CNG,Dealer,Automatic,3
-Toyota Fortuner,2022,7.54,16.37,14404,CNG,Dealer,Automatic,3
-Renault Kwid,2023,12.66,30.57,26832,Diesel,Dealer,Manual,3
-Ford EcoSport,2015,13.11,25.22,50520,Diesel,Dealer,Automatic,2
-Ford EcoSport,2010,3.89,16.17,231413,Diesel,Individual,Automatic,2
-Skoda Rapid,2012,1.3,2.4,223874,CNG,Individual,Manual,0
-Maruti Swift,2021,26.35,34.19,115188,Petrol,Individual,Automatic,2
-Mahindra XUV500,2017,2.3,5.29,89156,Petrol,Individual,Manual,2
-Renault Kwid,2012,8.07,17.49,115893,Petrol,Dealer,Manual,3
-Hyundai i20,2020,18.19,31.2,93242,Petrol,Dealer,Manual,3
-Maruti Baleno,2017,3.43,8.2,147645,Diesel,Dealer,Manual,0
-Toyota Corolla,2022,7.56,9.59,11862,Petrol,Dealer,Automatic,1
-Toyota Fortuner,2006,10.47,31.7,190846,CNG,Dealer,Manual,1
-Mahindra XUV500,2008,12.34,34.44,122174,CNG,Individual,Automatic,2
-Toyota Fortuner,2005,8.92,31.99,237783,Petrol,Individual,Manual,3
-Ford EcoSport,2018,1.08,2.56,12248,Diesel,Individual,Manual,1
-Volkswagen Polo,2011,2.64,7.33,204803,Petrol,Dealer,Automatic,3
-Hyundai Verna,2021,7.73,11.99,191851,Petrol,Individual,Automatic,2
-Hyundai Verna,2019,5.7,10.62,6128,CNG,Dealer,Automatic,0
-Hyundai i20,2023,5.37,11.4,44950,CNG,Dealer,Automatic,1
-Ford EcoSport,2010,15.8,32.23,236700,CNG,Individual,Manual,3
-Renault Kwid,2015,1.31,4.41,91540,Diesel,Individual,Automatic,1
-Toyota Corolla,2011,2.21,8.63,79935,Petrol,Dealer,Automatic,0
-Mahindra Scorpio,2018,14.57,20.72,107231,CNG,Individual,Manual,1
-Renault Kwid,2016,7.12,14.21,216731,Diesel,Individual,Automatic,1
-Ford EcoSport,2008,3.96,17.85,15534,CNG,Dealer,Automatic,3
-Hyundai Verna,2020,5.28,9.56,175895,CNG,Dealer,Manual,0
-Mahindra XUV500,2011,13.19,29.33,20954,Diesel,Dealer,Automatic,2
-Renault Kwid,2005,3.37,16.7,71567,Diesel,Dealer,Automatic,3
-Skoda Rapid,2017,5.88,10.0,27222,CNG,Dealer,Manual,1
-Ford EcoSport,2012,6.21,16.51,247290,CNG,Individual,Automatic,0
-Hyundai Verna,2011,6.84,18.33,52922,CNG,Individual,Automatic,2
-Toyota Corolla,2022,1.61,2.71,5064,Diesel,Individual,Automatic,3
-Volkswagen Polo,2023,5.4,10.08,8889,CNG,Dealer,Manual,3
-Mahindra Scorpio,2020,2.65,7.27,192560,CNG,Individual,Manual,2
-Hyundai Verna,2021,10.45,12.93,19407,CNG,Individual,Automatic,0
-Honda City,2010,7.97,18.58,228059,Petrol,Dealer,Automatic,2
-Skoda Rapid,2009,14.03,33.85,96820,Diesel,Dealer,Manual,1
-Honda City,2022,5.71,8.39,151539,Petrol,Dealer,Automatic,2
-Skoda Rapid,2010,16.07,33.97,195891,CNG,Dealer,Automatic,3
-Renault Kwid,2011,9.32,20.02,81700,CNG,Individual,Manual,3
-Mahindra Scorpio,2013,4.22,7.28,148268,CNG,Dealer,Manual,3
-Ford EcoSport,2005,5.68,32.56,174259,Diesel,Individual,Automatic,0
-Hyundai Verna,2018,16.61,30.82,79474,Petrol,Individual,Manual,2
-Toyota Fortuner,2005,7.77,32.56,183530,CNG,Dealer,Manual,1
-Toyota Corolla,2014,12.42,27.71,173377,Petrol,Dealer,Manual,3
-Kia Seltos,2021,24.04,29.4,221576,Diesel,Individual,Automatic,1
-Kia Seltos,2021,14.92,26.71,168224,Petrol,Dealer,Manual,3
-Tata Nexon,2018,3.81,6.74,152722,CNG,Individual,Manual,0
-Mahindra XUV500,2006,7.03,29.09,182398,Petrol,Individual,Automatic,1
-Renault Kwid,2015,16.06,29.08,91978,Diesel,Individual,Automatic,1
-Renault Kwid,2022,2.96,3.54,50406,CNG,Dealer,Automatic,3
-Ford EcoSport,2021,18.68,33.46,77240,Petrol,Individual,Automatic,2
-Toyota Fortuner,2016,1.86,4.65,27560,CNG,Dealer,Automatic,0
-Mahindra XUV500,2020,1.34,2.94,96257,CNG,Individual,Automatic,0
-Maruti Baleno,2022,10.04,25.5,30465,Petrol,Individual,Automatic,1
-Tata Nexon,2019,22.74,32.26,208789,Diesel,Individual,Automatic,2
-Ford EcoSport,2013,2.3,6.69,103297,Petrol,Individual,Automatic,3
-Renault Kwid,2018,11.7,18.24,218871,Petrol,Dealer,Automatic,2
-Toyota Fortuner,2007,7.92,22.55,218877,Diesel,Individual,Automatic,1
-Maruti Baleno,2023,20.34,33.6,132463,Petrol,Dealer,Automatic,1
-Mahindra XUV500,2018,7.31,13.16,147735,Petrol,Individual,Manual,0
-Volkswagen Polo,2019,3.53,6.33,81586,CNG,Dealer,Automatic,1
-Skoda Rapid,2023,16.55,27.64,37400,CNG,Individual,Automatic,3
-Kia Seltos,2019,4.89,8.41,105989,Petrol,Dealer,Manual,3
-Volkswagen Polo,2009,4.31,18.41,76540,Diesel,Dealer,Automatic,3
-Skoda Rapid,2023,8.69,18.68,22175,Petrol,Individual,Automatic,0
-Ford EcoSport,2021,13.07,34.11,165094,Diesel,Dealer,Automatic,1
-Toyota Corolla,2019,14.22,30.54,149358,Petrol,Dealer,Manual,3
-Honda City,2008,7.17,20.28,182691,Diesel,Dealer,Manual,3
-Hyundai Verna,2011,5.6,16.79,59499,Diesel,Individual,Manual,0
-Renault Kwid,2015,9.65,29.95,201355,Petrol,Individual,Automatic,2
-Volkswagen Polo,2018,8.56,17.57,235561,Diesel,Individual,Automatic,3
-Ford EcoSport,2015,2.82,6.76,72471,Diesel,Individual,Manual,3
-Renault Kwid,2012,4.39,10.75,173902,CNG,Dealer,Automatic,1
-Hyundai i20,2022,16.55,21.81,17210,Petrol,Dealer,Manual,1
-Mahindra Scorpio,2018,5.18,10.31,90404,Diesel,Dealer,Manual,0
-Mahindra XUV500,2018,1.28,2.68,102095,CNG,Individual,Automatic,2
-Toyota Fortuner,2012,6.33,13.9,151246,CNG,Individual,Automatic,1
-Skoda Rapid,2023,3.66,8.88,174269,CNG,Individual,Manual,1
-Mahindra Scorpio,2020,7.34,13.73,211994,Petrol,Dealer,Manual,0
-Volkswagen Polo,2021,15.32,30.01,52289,Diesel,Individual,Automatic,0
-Hyundai i20,2023,1.08,2.3,188951,Petrol,Dealer,Automatic,2
-Renault Kwid,2017,5.63,17.26,25758,CNG,Individual,Manual,3
-Mahindra Scorpio,2013,7.04,12.49,157635,Petrol,Individual,Manual,0
-Renault Kwid,2020,2.09,4.22,173958,CNG,Dealer,Automatic,0
-Hyundai Verna,2019,16.49,23.35,203208,Petrol,Individual,Manual,3
-Hyundai i20,2012,8.45,21.77,5026,Diesel,Individual,Manual,0
-Maruti Baleno,2007,4.38,21.22,103315,CNG,Dealer,Automatic,0
-Renault Kwid,2010,9.93,30.16,102169,Petrol,Individual,Automatic,3
-Toyota Corolla,2023,23.07,33.67,95998,Petrol,Individual,Automatic,3
-Renault Kwid,2021,17.69,27.32,171272,Diesel,Dealer,Manual,2
-Skoda Rapid,2023,3.27,7.26,115078,Diesel,Individual,Manual,1
-Hyundai i20,2011,1.49,4.41,94590,CNG,Individual,Automatic,0
-Toyota Corolla,2012,19.34,33.62,41025,CNG,Individual,Automatic,0
-Skoda Rapid,2013,7.64,19.95,242439,Diesel,Individual,Automatic,1
-Toyota Fortuner,2010,4.3,8.34,97643,Petrol,Individual,Automatic,2
-Hyundai i20,2016,3.99,6.2,240603,CNG,Dealer,Automatic,2
-Maruti Baleno,2021,18.8,24.37,212140,Diesel,Individual,Manual,0
-Tata Nexon,2019,2.96,6.6,154765,CNG,Dealer,Manual,1
-Ford EcoSport,2017,8.5,25.11,49763,Diesel,Individual,Automatic,1
-Hyundai i20,2017,4.26,8.95,238352,Diesel,Dealer,Manual,1
-Mahindra XUV500,2015,12.53,23.41,143573,Diesel,Dealer,Automatic,3
-Maruti Baleno,2023,3.84,6.62,39404,Petrol,Dealer,Automatic,3
-Ford EcoSport,2008,9.09,32.07,135577,Petrol,Dealer,Automatic,1
-Maruti Baleno,2020,1.62,2.78,6286,Diesel,Dealer,Automatic,1
-Toyota Corolla,2022,14.71,21.11,187702,CNG,Dealer,Automatic,0
-Hyundai Verna,2013,15.06,32.76,174246,Petrol,Individual,Manual,2
-Maruti Baleno,2005,5.65,17.68,216087,Diesel,Individual,Automatic,1
-Renault Kwid,2023,9.3,17.14,52940,CNG,Individual,Manual,2
-Toyota Fortuner,2011,8.59,18.39,172022,CNG,Individual,Automatic,1
-Volkswagen Polo,2014,8.58,26.1,106069,Diesel,Individual,Manual,2
-Kia Seltos,2013,4.58,15.64,207694,Petrol,Dealer,Automatic,0
-Kia Seltos,2015,9.63,26.7,226275,CNG,Dealer,Automatic,3
-Tata Nexon,2010,8.86,17.71,6082,Petrol,Dealer,Automatic,1
-Maruti Baleno,2006,7.03,17.05,175608,Petrol,Individual,Automatic,3
-Maruti Baleno,2014,3.51,6.23,131298,Diesel,Individual,Manual,0
-Toyota Fortuner,2018,10.4,14.23,185697,Diesel,Dealer,Manual,0
-Mahindra XUV500,2009,7.43,29.48,118005,Diesel,Dealer,Manual,3
-Toyota Fortuner,2011,3.65,11.48,226413,Diesel,Individual,Manual,1
-Maruti Swift,2018,20.23,33.36,229131,CNG,Dealer,Automatic,1
-Skoda Rapid,2014,6.35,18.8,8145,Diesel,Dealer,Automatic,1
-Kia Seltos,2012,8.67,19.31,50344,CNG,Dealer,Automatic,0
-Honda City,2015,13.31,28.35,8512,CNG,Dealer,Automatic,3
-Ford EcoSport,2021,5.96,8.44,248389,CNG,Individual,Manual,1
-Tata Nexon,2012,5.51,21.13,85171,CNG,Individual,Manual,0
-Mahindra Scorpio,2014,11.14,22.0,114513,Petrol,Individual,Manual,0
-Ford EcoSport,2018,9.14,18.45,72156,Petrol,Individual,Automatic,0
-Volkswagen Polo,2017,4.7,10.32,88323,CNG,Dealer,Manual,0
-Toyota Fortuner,2006,5.0,21.71,219776,Diesel,Dealer,Manual,2
-Toyota Fortuner,2020,1.2,2.19,238614,Petrol,Individual,Automatic,0
-Volkswagen Polo,2006,6.28,18.58,209418,Petrol,Dealer,Manual,0
-Hyundai Verna,2018,6.28,9.66,99266,Petrol,Individual,Automatic,0
-Kia Seltos,2009,8.42,25.34,156168,Petrol,Individual,Manual,1
-Volkswagen Polo,2018,8.91,25.07,83229,Diesel,Dealer,Automatic,3
-Honda City,2019,16.17,34.55,31465,CNG,Individual,Manual,3
-Tata Nexon,2006,10.38,27.63,60178,Diesel,Dealer,Manual,2
-Hyundai i20,2015,10.31,22.97,79974,Petrol,Dealer,Automatic,3
-Toyota Corolla,2008,1.3,3.82,209739,Diesel,Dealer,Automatic,1
-Mahindra XUV500,2013,10.89,32.52,134576,Diesel,Dealer,Manual,1
-Toyota Fortuner,2007,11.37,33.74,11641,Diesel,Individual,Automatic,0
-Honda City,2010,11.36,23.48,120123,Diesel,Individual,Manual,3
-Toyota Fortuner,2009,2.99,6.25,128795,CNG,Dealer,Automatic,1
-Skoda Rapid,2022,9.28,18.28,125333,Petrol,Dealer,Automatic,0
-Maruti Swift,2009,12.22,25.39,141031,CNG,Dealer,Automatic,1
-Hyundai i20,2016,2.11,5.57,140184,Diesel,Individual,Manual,0
-Kia Seltos,2017,16.57,23.31,246207,Diesel,Individual,Automatic,3
-Tata Nexon,2016,13.56,26.56,105932,Petrol,Dealer,Manual,0
-Toyota Corolla,2018,16.19,32.76,109946,Diesel,Dealer,Manual,3
-Hyundai Verna,2007,6.45,24.92,17818,Petrol,Individual,Manual,1
-Honda City,2006,6.9,29.54,46205,Petrol,Dealer,Manual,1
-Toyota Corolla,2011,5.98,12.31,176735,CNG,Dealer,Automatic,2
-Kia Seltos,2010,3.29,11.9,154800,CNG,Individual,Manual,0
-Maruti Baleno,2015,8.45,16.31,67651,Petrol,Dealer,Automatic,1
-Toyota Fortuner,2022,2.84,3.99,39555,Diesel,Individual,Automatic,2
-Volkswagen Polo,2022,1.79,2.33,8055,Petrol,Individual,Manual,1
-Skoda Rapid,2005,4.56,21.04,107770,Petrol,Individual,Manual,2
-Toyota Fortuner,2011,1.67,3.85,198755,Diesel,Individual,Automatic,0
-Skoda Rapid,2013,6.68,12.26,20729,CNG,Dealer,Automatic,2
-Renault Kwid,2007,12.28,31.89,245874,CNG,Dealer,Automatic,1
-Toyota Corolla,2015,16.45,33.21,92680,CNG,Dealer,Automatic,1
-Toyota Fortuner,2006,4.92,12.4,227450,Petrol,Individual,Automatic,2
-Honda City,2022,17.27,21.04,106046,Diesel,Individual,Manual,0
-Toyota Corolla,2021,18.43,24.06,164327,Diesel,Individual,Automatic,1
-Volkswagen Polo,2018,9.38,20.79,209101,Diesel,Dealer,Manual,3
-Mahindra Scorpio,2012,15.09,31.9,220838,CNG,Individual,Manual,0
-Ford EcoSport,2023,17.67,22.28,163984,CNG,Individual,Manual,0
-Maruti Baleno,2019,15.21,26.85,103980,CNG,Dealer,Automatic,2
-Kia Seltos,2021,9.21,21.51,122374,CNG,Dealer,Manual,2
-Hyundai i20,2007,8.79,24.3,194585,Petrol,Dealer,Automatic,1
-Volkswagen Polo,2019,12.8,17.39,246300,CNG,Individual,Automatic,0
-Honda City,2017,11.52,33.45,108473,CNG,Dealer,Automatic,3
-Mahindra XUV500,2006,5.59,29.8,11734,Petrol,Dealer,Automatic,2
-Toyota Fortuner,2005,0.5,2.08,8692,Diesel,Individual,Automatic,1
-Hyundai Verna,2016,13.08,32.5,207714,Diesel,Dealer,Automatic,3
-Ford EcoSport,2013,7.46,14.16,71600,Petrol,Individual,Manual,0
-Volkswagen Polo,2005,1.06,2.76,88420,Petrol,Dealer,Automatic,3
-Maruti Baleno,2008,4.36,15.94,217996,Diesel,Individual,Manual,2
-Mahindra Scorpio,2010,6.35,25.78,123030,Petrol,Dealer,Automatic,1
-Hyundai i20,2010,4.81,9.41,135672,Petrol,Individual,Automatic,2
-Mahindra XUV500,2018,11.77,28.24,107689,CNG,Dealer,Manual,1
-Toyota Corolla,2016,4.13,7.15,67670,Diesel,Individual,Manual,0
-Maruti Baleno,2012,13.51,27.39,79258,CNG,Individual,Manual,0
-Mahindra Scorpio,2018,7.38,12.97,110922,CNG,Dealer,Automatic,3
-Mahindra XUV500,2023,25.78,34.65,115285,Diesel,Dealer,Manual,2
-Volkswagen Polo,2007,8.1,22.92,17699,Diesel,Individual,Manual,3
-Hyundai Verna,2005,1.11,3.0,128844,Petrol,Individual,Manual,3
-Mahindra Scorpio,2009,2.28,5.79,52252,CNG,Individual,Manual,0
-Maruti Swift,2015,12.34,25.84,113421,Petrol,Dealer,Automatic,1
-Mahindra Scorpio,2006,3.13,11.51,11402,Diesel,Individual,Automatic,1
-Maruti Swift,2006,4.19,10.45,19425,Diesel,Dealer,Automatic,1
-Mahindra XUV500,2018,0.89,2.67,196967,Petrol,Individual,Manual,3
-Mahindra XUV500,2011,9.13,28.81,155799,CNG,Individual,Manual,1
-Kia Seltos,2009,7.94,33.12,36644,Diesel,Dealer,Automatic,0
-Maruti Swift,2019,18.64,31.77,16202,Diesel,Individual,Automatic,1
-Maruti Baleno,2023,8.84,18.03,160647,Diesel,Dealer,Manual,3
-Renault Kwid,2014,7.72,20.54,151729,Petrol,Dealer,Manual,1
-Ford EcoSport,2019,7.49,12.74,170278,Petrol,Individual,Manual,2
-Toyota Fortuner,2012,4.86,9.84,41509,Diesel,Individual,Manual,0
-Toyota Corolla,2016,5.5,13.6,46091,Petrol,Individual,Manual,3
-Toyota Fortuner,2015,12.1,27.86,92063,CNG,Individual,Automatic,3
-Hyundai Verna,2005,6.11,26.93,185653,Petrol,Dealer,Automatic,2
-Hyundai Verna,2020,25.13,34.93,237843,Diesel,Individual,Manual,0
-Hyundai Verna,2021,8.03,16.26,116764,Diesel,Individual,Automatic,2
-Hyundai Verna,2022,3.08,5.36,187614,Diesel,Individual,Automatic,2
-Maruti Swift,2012,11.64,33.11,143012,CNG,Dealer,Automatic,1
-Skoda Rapid,2011,11.97,29.54,187572,CNG,Dealer,Manual,0
-Honda City,2022,11.02,24.14,139405,CNG,Individual,Manual,0
-Tata Nexon,2017,12.46,27.52,36786,Petrol,Dealer,Manual,1
-Toyota Fortuner,2021,17.48,34.04,212080,Petrol,Dealer,Automatic,2
-Maruti Swift,2005,3.25,14.08,144770,Petrol,Individual,Manual,1
-Hyundai Verna,2023,10.86,22.21,173886,Diesel,Dealer,Automatic,2
-Maruti Baleno,2018,8.4,23.01,63799,Diesel,Dealer,Manual,0
-Maruti Baleno,2011,1.48,5.75,189566,CNG,Dealer,Manual,2
-Tata Nexon,2007,11.79,27.26,183417,Diesel,Individual,Manual,1
-Tata Nexon,2012,3.71,9.34,39361,CNG,Individual,Automatic,1
-Hyundai Verna,2023,17.15,21.39,35932,Diesel,Individual,Manual,2
-Toyota Corolla,2013,12.2,29.53,70158,Petrol,Individual,Manual,1
-Maruti Baleno,2006,10.4,25.91,247930,Diesel,Individual,Manual,1
-Ford EcoSport,2018,3.04,4.24,31015,CNG,Dealer,Automatic,3
-Hyundai i20,2013,16.23,27.73,224248,CNG,Dealer,Manual,2
-Kia Seltos,2021,10.7,21.11,127684,Petrol,Dealer,Manual,1
-Hyundai Verna,2007,6.28,27.28,216661,Diesel,Individual,Manual,0
-Mahindra XUV500,2008,6.63,26.08,114211,Diesel,Individual,Automatic,1
-Maruti Swift,2020,7.75,15.15,115951,Diesel,Individual,Automatic,2
-Maruti Swift,2007,4.81,16.45,46992,Petrol,Dealer,Automatic,0
-Skoda Rapid,2008,2.66,11.04,150074,CNG,Individual,Automatic,3
-Tata Nexon,2011,12.73,26.79,49345,CNG,Individual,Automatic,3
-Maruti Swift,2007,2.6,10.06,45878,Diesel,Dealer,Automatic,3
-Toyota Corolla,2012,9.81,32.79,140973,Diesel,Individual,Manual,1
-Hyundai i20,2021,3.77,8.29,180778,Petrol,Individual,Automatic,1
-Toyota Corolla,2021,8.49,14.56,239261,CNG,Individual,Manual,0
-Mahindra XUV500,2008,4.14,16.4,41126,CNG,Individual,Manual,0
-Kia Seltos,2017,13.44,22.2,103453,CNG,Individual,Manual,2
-Mahindra Scorpio,2017,20.17,31.14,144558,Diesel,Dealer,Automatic,2
-Toyota Corolla,2009,4.59,18.13,48336,CNG,Dealer,Automatic,1
-Renault Kwid,2010,1.89,4.4,65840,Petrol,Dealer,Manual,3
-Toyota Fortuner,2015,8.37,21.62,139923,Petrol,Dealer,Manual,0
-Mahindra Scorpio,2010,6.89,29.43,243198,Petrol,Dealer,Automatic,2
-Mahindra XUV500,2013,19.39,34.32,208729,Petrol,Dealer,Manual,1
-Hyundai i20,2006,4.01,12.97,133885,Petrol,Individual,Manual,1
-Mahindra XUV500,2011,7.91,16.65,95941,CNG,Dealer,Manual,0
-Toyota Fortuner,2022,4.48,7.75,244647,CNG,Dealer,Manual,0
-Toyota Corolla,2008,6.09,14.02,94627,Diesel,Individual,Automatic,0
-Kia Seltos,2011,1.19,4.68,14304,Petrol,Individual,Automatic,2
-Maruti Baleno,2017,15.87,24.65,131031,Diesel,Individual,Manual,1
-Maruti Baleno,2013,9.76,16.29,107092,Diesel,Individual,Automatic,0
-Skoda Rapid,2010,8.26,20.98,226648,CNG,Individual,Automatic,2
-Volkswagen Polo,2008,6.93,15.29,206011,CNG,Individual,Automatic,0
-Maruti Swift,2022,11.37,28.36,120370,Diesel,Dealer,Automatic,1
-Mahindra XUV500,2022,5.77,10.93,32967,Petrol,Dealer,Manual,2
-Skoda Rapid,2008,10.39,31.03,187997,Diesel,Individual,Automatic,0
-Toyota Fortuner,2011,8.21,22.5,143241,Diesel,Individual,Manual,2
-Kia Seltos,2007,4.24,14.4,37419,Petrol,Dealer,Manual,0
-Ford EcoSport,2017,11.52,18.74,33702,Diesel,Individual,Manual,1
-Ford EcoSport,2015,9.57,29.67,125334,Petrol,Dealer,Automatic,1
-Kia Seltos,2017,3.52,6.16,67175,CNG,Individual,Automatic,3
-Honda City,2008,1.82,5.36,64886,Petrol,Individual,Automatic,0
-Toyota Corolla,2008,8.58,20.09,230648,CNG,Individual,Manual,2
-Ford EcoSport,2018,18.02,27.11,217360,CNG,Dealer,Automatic,2
-Toyota Corolla,2019,6.84,13.07,226288,CNG,Dealer,Automatic,2
-Toyota Fortuner,2015,6.59,10.69,104074,Petrol,Individual,Manual,2
-Renault Kwid,2011,7.52,25.9,247898,CNG,Individual,Manual,1
-Kia Seltos,2022,10.31,20.87,95485,Diesel,Dealer,Automatic,1
-Hyundai Verna,2011,8.86,25.6,122922,Diesel,Dealer,Manual,3
-Maruti Swift,2008,5.71,19.34,141615,Petrol,Dealer,Manual,1
-Tata Nexon,2009,12.71,30.8,226699,CNG,Individual,Automatic,0
-Skoda Rapid,2020,3.25,6.27,77392,CNG,Dealer,Automatic,2
-Maruti Baleno,2013,7.46,13.6,206301,CNG,Dealer,Automatic,0
-Toyota Fortuner,2014,3.46,8.81,147552,CNG,Individual,Automatic,2
-Volkswagen Polo,2022,18.76,25.09,95710,Petrol,Dealer,Manual,3
-Hyundai i20,2011,7.29,20.91,17937,CNG,Individual,Automatic,0
-Maruti Baleno,2012,12.11,32.05,173694,CNG,Individual,Manual,1
-Ford EcoSport,2010,12.86,27.35,206657,Petrol,Dealer,Automatic,3
-Maruti Baleno,2015,13.73,31.26,39889,CNG,Dealer,Manual,1
-Hyundai Verna,2022,23.78,28.89,11473,CNG,Individual,Manual,2
-Mahindra XUV500,2008,4.93,16.17,197796,CNG,Dealer,Automatic,2
-Volkswagen Polo,2016,11.88,19.77,91843,CNG,Individual,Manual,1
-Hyundai Verna,2010,5.03,20.95,215995,Petrol,Dealer,Manual,0
-Kia Seltos,2013,9.12,26.69,5184,Petrol,Individual,Automatic,1
-Renault Kwid,2021,9.95,21.1,121775,Petrol,Dealer,Automatic,1
-Mahindra Scorpio,2010,1.75,3.94,83872,Petrol,Dealer,Automatic,3
-Mahindra XUV500,2020,5.71,11.43,94751,Diesel,Individual,Manual,2
-Kia Seltos,2023,20.05,32.6,89458,CNG,Individual,Manual,3
-Ford EcoSport,2014,6.54,13.4,43286,Diesel,Individual,Manual,3
-Skoda Rapid,2005,6.37,21.77,28395,CNG,Dealer,Automatic,1
-Maruti Baleno,2017,9.47,15.29,144830,Diesel,Individual,Manual,0
-Mahindra XUV500,2007,0.97,3.98,204859,Diesel,Dealer,Manual,0
-Mahindra Scorpio,2014,4.16,10.73,119186,Diesel,Dealer,Automatic,2
-Hyundai Verna,2022,12.92,16.83,99467,Petrol,Individual,Automatic,0
-Tata Nexon,2023,10.07,21.52,77613,CNG,Individual,Manual,3
-Toyota Corolla,2019,1.21,3.41,197815,CNG,Individual,Manual,3
-Tata Nexon,2005,7.49,21.24,87632,Petrol,Individual,Automatic,1
-Kia Seltos,2006,4.54,18.81,248990,Diesel,Dealer,Manual,2
-Mahindra XUV500,2020,13.79,23.85,85145,CNG,Dealer,Automatic,0
-Toyota Corolla,2014,3.45,9.9,134327,CNG,Individual,Manual,1
-Maruti Baleno,2020,5.69,7.28,93789,CNG,Individual,Manual,0
-Maruti Baleno,2016,11.22,24.0,98847,Petrol,Individual,Automatic,3
-Maruti Baleno,2013,12.34,29.0,163352,Diesel,Dealer,Manual,2
-Toyota Fortuner,2019,1.76,4.24,22153,Diesel,Dealer,Automatic,0
-Skoda Rapid,2012,6.08,14.32,33887,Petrol,Individual,Automatic,2
-Toyota Corolla,2008,6.51,25.18,144333,CNG,Dealer,Manual,1
-Hyundai Verna,2012,12.69,28.94,48724,Petrol,Dealer,Manual,3
-Volkswagen Polo,2020,7.77,16.2,109922,CNG,Dealer,Manual,0
-Toyota Fortuner,2012,16.7,32.89,35694,Diesel,Dealer,Manual,1
-Maruti Swift,2014,17.0,34.97,181969,CNG,Individual,Automatic,2
-Renault Kwid,2018,2.55,5.08,219680,Diesel,Individual,Manual,1
-Ford EcoSport,2020,10.57,13.93,99194,CNG,Dealer,Automatic,1
-Ford EcoSport,2020,7.91,19.55,129716,Diesel,Individual,Manual,1
-Hyundai i20,2018,9.19,13.77,184269,Diesel,Individual,Manual,0
-Mahindra Scorpio,2017,12.84,21.29,125631,CNG,Individual,Automatic,2
-Mahindra XUV500,2020,10.68,15.14,126401,Petrol,Dealer,Automatic,2
-Kia Seltos,2021,2.9,6.57,73531,Diesel,Dealer,Automatic,3
-Volkswagen Polo,2018,13.09,25.7,61790,Petrol,Dealer,Automatic,3
-Maruti Swift,2006,6.51,21.79,14815,CNG,Dealer,Automatic,0
-Skoda Rapid,2017,2.48,4.21,126347,CNG,Individual,Manual,1
-Toyota Corolla,2014,12.18,19.38,41476,Diesel,Dealer,Manual,2
-Mahindra Scorpio,2019,10.47,16.19,184357,Diesel,Individual,Manual,0
-Kia Seltos,2020,13.43,22.32,83609,CNG,Dealer,Manual,3
-Toyota Fortuner,2006,10.74,26.23,141037,CNG,Dealer,Manual,1
-Hyundai i20,2017,16.92,30.74,167352,Diesel,Individual,Manual,3
-Toyota Corolla,2007,6.41,26.53,139815,CNG,Dealer,Automatic,2
-Maruti Swift,2014,8.21,25.24,82001,Diesel,Individual,Automatic,3
-Hyundai Verna,2011,2.25,7.72,204884,Diesel,Individual,Automatic,0
-Volkswagen Polo,2015,1.5,3.63,90666,Petrol,Individual,Manual,3
-Mahindra Scorpio,2006,0.8,3.5,224460,Petrol,Dealer,Manual,0
-Hyundai i20,2016,10.53,30.97,245879,Petrol,Dealer,Automatic,0
-Mahindra Scorpio,2008,11.57,29.77,227352,Diesel,Individual,Manual,0
-Hyundai Verna,2013,9.62,23.9,240382,CNG,Individual,Manual,3
-Hyundai Verna,2010,6.76,25.89,196432,CNG,Individual,Automatic,2
-Kia Seltos,2019,25.3,33.68,19860,Diesel,Individual,Manual,3
-Mahindra XUV500,2022,16.15,32.97,223008,Diesel,Individual,Manual,2
-Honda City,2007,1.69,5.51,131440,CNG,Individual,Automatic,3
-Maruti Swift,2017,22.27,33.67,155933,Diesel,Dealer,Automatic,1
-Ford EcoSport,2015,2.79,8.78,102686,CNG,Dealer,Automatic,1
-Maruti Baleno,2022,9.83,24.3,194300,Petrol,Individual,Manual,1
-Ford EcoSport,2006,8.35,20.65,70994,Diesel,Dealer,Automatic,2
-Honda City,2005,7.5,33.62,125356,CNG,Individual,Automatic,2
-Honda City,2006,2.45,8.49,12711,Petrol,Dealer,Automatic,2
-Mahindra XUV500,2018,2.18,5.15,126315,Petrol,Individual,Manual,0
-Kia Seltos,2019,15.25,23.15,222922,CNG,Individual,Automatic,3
-Mahindra Scorpio,2018,20.66,28.76,27880,Diesel,Dealer,Automatic,1
-Honda City,2007,7.62,21.1,74192,CNG,Dealer,Manual,1
-Honda City,2022,11.72,20.53,244494,Petrol,Individual,Automatic,0
-Ford EcoSport,2011,14.99,33.61,71786,CNG,Individual,Automatic,3
-Hyundai i20,2013,6.89,24.15,119869,Diesel,Dealer,Manual,0
-Toyota Fortuner,2006,9.31,28.65,130019,CNG,Dealer,Manual,0
-Mahindra Scorpio,2017,6.7,11.01,7821,CNG,Dealer,Automatic,2
-Mahindra Scorpio,2023,9.48,13.39,228626,Diesel,Dealer,Automatic,1
-Hyundai i20,2022,7.44,10.65,89224,Diesel,Individual,Automatic,2
-Mahindra XUV500,2008,7.12,30.04,239482,Petrol,Individual,Manual,3
-Ford EcoSport,2008,3.23,10.83,228494,Diesel,Dealer,Automatic,0
-Honda City,2014,13.69,28.04,212994,Diesel,Dealer,Automatic,0
-Ford EcoSport,2011,5.74,12.81,211946,Diesel,Dealer,Manual,2
-Skoda Rapid,2006,4.8,22.84,54336,Diesel,Individual,Automatic,0
-Hyundai i20,2014,17.6,28.55,133993,CNG,Dealer,Manual,1
-Tata Nexon,2005,3.39,16.95,241888,Diesel,Individual,Manual,3
-Renault Kwid,2021,10.14,15.97,20494,CNG,Dealer,Manual,1
-Maruti Swift,2019,9.57,19.14,10166,Diesel,Individual,Automatic,1
-Tata Nexon,2011,7.2,20.06,158515,Diesel,Dealer,Automatic,0
+ritz,2014,3.35,5.59,27000,Petrol,Dealer,Manual,0
+sx4,2013,4.75,9.54,43000,Diesel,Dealer,Manual,0
+ciaz,2017,7.25,9.85,6900,Petrol,Dealer,Manual,0
+wagon r,2011,2.85,4.15,5200,Petrol,Dealer,Manual,0
+swift,2014,4.6,6.87,42450,Diesel,Dealer,Manual,0
+vitara brezza,2018,9.25,9.83,2071,Diesel,Dealer,Manual,0
+ciaz,2015,6.75,8.12,18796,Petrol,Dealer,Manual,0
+s cross,2015,6.5,8.61,33429,Diesel,Dealer,Manual,0
+ciaz,2016,8.75,8.89,20273,Diesel,Dealer,Manual,0
+ciaz,2015,7.45,8.92,42367,Diesel,Dealer,Manual,0
+alto 800,2017,2.85,3.6,2135,Petrol,Dealer,Manual,0
+ciaz,2015,6.85,10.38,51000,Diesel,Dealer,Manual,0
+ciaz,2015,7.5,9.94,15000,Petrol,Dealer,Automatic,0
+ertiga,2015,6.1,7.71,26000,Petrol,Dealer,Manual,0
+dzire,2009,2.25,7.21,77427,Petrol,Dealer,Manual,0
+ertiga,2016,7.75,10.79,43000,Diesel,Dealer,Manual,0
+ertiga,2015,7.25,10.79,41678,Diesel,Dealer,Manual,0
+ertiga,2016,7.75,10.79,43000,Diesel,Dealer,Manual,0
+wagon r,2015,3.25,5.09,35500,CNG,Dealer,Manual,0
+sx4,2010,2.65,7.98,41442,Petrol,Dealer,Manual,0
+alto k10,2016,2.85,3.95,25000,Petrol,Dealer,Manual,0
+ignis,2017,4.9,5.71,2400,Petrol,Dealer,Manual,0
+sx4,2011,4.4,8.01,50000,Petrol,Dealer,Automatic,0
+alto k10,2014,2.5,3.46,45280,Petrol,Dealer,Manual,0
+wagon r,2013,2.9,4.41,56879,Petrol,Dealer,Manual,0
+swift,2011,3,4.99,20000,Petrol,Dealer,Manual,0
+swift,2013,4.15,5.87,55138,Petrol,Dealer,Manual,0
+swift,2017,6,6.49,16200,Petrol,Individual,Manual,0
+alto k10,2010,1.95,3.95,44542,Petrol,Dealer,Manual,0
+ciaz,2015,7.45,10.38,45000,Diesel,Dealer,Manual,0
+ritz,2012,3.1,5.98,51439,Diesel,Dealer,Manual,0
+ritz,2011,2.35,4.89,54200,Petrol,Dealer,Manual,0
+swift,2014,4.95,7.49,39000,Diesel,Dealer,Manual,0
+ertiga,2014,6,9.95,45000,Diesel,Dealer,Manual,0
+dzire,2014,5.5,8.06,45000,Diesel,Dealer,Manual,0
+sx4,2011,2.95,7.74,49998,CNG,Dealer,Manual,0
+dzire,2015,4.65,7.2,48767,Petrol,Dealer,Manual,0
+800,2003,0.35,2.28,127000,Petrol,Individual,Manual,0
+alto k10,2016,3,3.76,10079,Petrol,Dealer,Manual,0
+sx4,2003,2.25,7.98,62000,Petrol,Dealer,Manual,0
+baleno,2016,5.85,7.87,24524,Petrol,Dealer,Automatic,0
+alto k10,2014,2.55,3.98,46706,Petrol,Dealer,Manual,0
+sx4,2008,1.95,7.15,58000,Petrol,Dealer,Manual,0
+dzire,2014,5.5,8.06,45780,Diesel,Dealer,Manual,0
+omni,2012,1.25,2.69,50000,Petrol,Dealer,Manual,0
+ciaz,2014,7.5,12.04,15000,Petrol,Dealer,Automatic,0
+ritz,2013,2.65,4.89,64532,Petrol,Dealer,Manual,0
+wagon r,2006,1.05,4.15,65000,Petrol,Dealer,Manual,0
+ertiga,2015,5.8,7.71,25870,Petrol,Dealer,Manual,0
+ciaz,2017,7.75,9.29,37000,Petrol,Dealer,Automatic,0
+fortuner,2012,14.9,30.61,104707,Diesel,Dealer,Automatic,0
+fortuner,2015,23,30.61,40000,Diesel,Dealer,Automatic,0
+innova,2017,18,19.77,15000,Diesel,Dealer,Automatic,0
+fortuner,2013,16,30.61,135000,Diesel,Individual,Automatic,0
+innova,2005,2.75,10.21,90000,Petrol,Individual,Manual,0
+corolla altis,2009,3.6,15.04,70000,Petrol,Dealer,Automatic,0
+etios cross,2015,4.5,7.27,40534,Petrol,Dealer,Manual,0
+corolla altis,2010,4.75,18.54,50000,Petrol,Dealer,Manual,0
+etios g,2014,4.1,6.8,39485,Petrol,Dealer,Manual,1
+fortuner,2014,19.99,35.96,41000,Diesel,Dealer,Automatic,0
+corolla altis,2013,6.95,18.61,40001,Petrol,Dealer,Manual,0
+etios cross,2015,4.5,7.7,40588,Petrol,Dealer,Manual,0
+fortuner,2014,18.75,35.96,78000,Diesel,Dealer,Automatic,0
+fortuner,2015,23.5,35.96,47000,Diesel,Dealer,Automatic,0
+fortuner,2017,33,36.23,6000,Diesel,Dealer,Automatic,0
+etios liva,2014,4.75,6.95,45000,Diesel,Dealer,Manual,0
+innova,2017,19.75,23.15,11000,Petrol,Dealer,Automatic,0
+fortuner,2010,9.25,20.45,59000,Diesel,Dealer,Manual,0
+corolla altis,2011,4.35,13.74,88000,Petrol,Dealer,Manual,0
+corolla altis,2016,14.25,20.91,12000,Petrol,Dealer,Manual,0
+etios liva,2014,3.95,6.76,71000,Diesel,Dealer,Manual,0
+corolla altis,2011,4.5,12.48,45000,Diesel,Dealer,Manual,0
+corolla altis,2013,7.45,18.61,56001,Petrol,Dealer,Manual,0
+etios liva,2011,2.65,5.71,43000,Petrol,Dealer,Manual,0
+etios cross,2014,4.9,8.93,83000,Diesel,Dealer,Manual,0
+etios g,2015,3.95,6.8,36000,Petrol,Dealer,Manual,0
+corolla altis,2013,5.5,14.68,72000,Petrol,Dealer,Manual,0
+corolla,2004,1.5,12.35,135154,Petrol,Dealer,Automatic,0
+corolla altis,2010,5.25,22.83,80000,Petrol,Dealer,Automatic,0
+fortuner,2012,14.5,30.61,89000,Diesel,Dealer,Automatic,0
+corolla altis,2016,14.73,14.89,23000,Diesel,Dealer,Manual,0
+etios gd,2015,4.75,7.85,40000,Diesel,Dealer,Manual,0
+innova,2017,23,25.39,15000,Diesel,Dealer,Automatic,0
+innova,2015,12.5,13.46,38000,Diesel,Dealer,Manual,0
+innova,2005,3.49,13.46,197176,Diesel,Dealer,Manual,0
+camry,2006,2.5,23.73,142000,Petrol,Individual,Automatic,3
+land cruiser,2010,35,92.6,78000,Diesel,Dealer,Manual,0
+corolla altis,2012,5.9,13.74,56000,Petrol,Dealer,Manual,0
+etios liva,2013,3.45,6.05,47000,Petrol,Dealer,Manual,0
+etios g,2014,4.75,6.76,40000,Petrol,Dealer,Manual,0
+corolla altis,2009,3.8,18.61,62000,Petrol,Dealer,Manual,0
+innova,2014,11.25,16.09,58242,Diesel,Dealer,Manual,0
+innova,2005,3.51,13.7,75000,Petrol,Dealer,Manual,0
+fortuner,2015,23,30.61,40000,Diesel,Dealer,Automatic,0
+corolla altis,2008,4,22.78,89000,Petrol,Dealer,Automatic,0
+corolla altis,2012,5.85,18.61,72000,Petrol,Dealer,Manual,0
+innova,2016,20.75,25.39,29000,Diesel,Dealer,Automatic,0
+corolla altis,2017,17,18.64,8700,Petrol,Dealer,Manual,0
+corolla altis,2013,7.05,18.61,45000,Petrol,Dealer,Manual,0
+fortuner,2010,9.65,20.45,50024,Diesel,Dealer,Manual,0
+Royal Enfield Thunder 500,2016,1.75,1.9,3000,Petrol,Individual,Manual,0
+UM Renegade Mojave,2017,1.7,1.82,1400,Petrol,Individual,Manual,0
+KTM RC200,2017,1.65,1.78,4000,Petrol,Individual,Manual,0
+Bajaj Dominar 400,2017,1.45,1.6,1200,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2017,1.35,1.47,4100,Petrol,Individual,Manual,0
+KTM RC390,2015,1.35,2.37,21700,Petrol,Individual,Manual,0
+Hyosung GT250R,2014,1.35,3.45,16500,Petrol,Individual,Manual,1
+Royal Enfield Thunder 350,2013,1.25,1.5,15000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 350,2016,1.2,1.5,18000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2017,1.2,1.47,11000,Petrol,Individual,Manual,0
+KTM RC200,2016,1.2,1.78,6000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 350,2016,1.15,1.5,8700,Petrol,Individual,Manual,0
+KTM 390 Duke ,2014,1.15,2.4,7000,Petrol,Individual,Manual,0
+Mahindra Mojo XT300,2016,1.15,1.4,35000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2015,1.15,1.47,17000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2015,1.11,1.47,17500,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2013,1.1,1.47,33000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 500,2015,1.1,1.9,14000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2015,1.1,1.47,26000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 500,2013,1.05,1.9,5400,Petrol,Individual,Manual,0
+Bajaj Pulsar RS200,2016,1.05,1.26,5700,Petrol,Individual,Manual,0
+Royal Enfield Thunder 350,2011,1.05,1.5,6900,Petrol,Individual,Manual,0
+Royal Enfield Bullet 350,2016,1.05,1.17,6000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2013,1,1.47,46500,Petrol,Individual,Manual,0
+Royal Enfield Classic 500,2012,0.95,1.75,11500,Petrol,Individual,Manual,0
+Royal Enfield Classic 500,2009,0.9,1.75,40000,Petrol,Individual,Manual,0
+Bajaj Avenger 220,2017,0.9,0.95,1300,Petrol,Individual,Manual,0
+Bajaj Avenger 150,2016,0.75,0.8,7000,Petrol,Individual,Manual,0
+Honda CB Hornet 160R,2017,0.8,0.87,3000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2017,0.78,0.84,5000,Petrol,Individual,Manual,0
+Honda CB Hornet 160R,2017,0.75,0.87,11000,Petrol,Individual,Manual,0
+Yamaha FZ 16,2015,0.75,0.82,18000,Petrol,Individual,Manual,0
+Bajaj Avenger 220,2017,0.75,0.95,3500,Petrol,Individual,Manual,0
+Bajaj Avenger 220,2016,0.72,0.95,500,Petrol,Individual,Manual,0
+TVS Apache RTR 160,2017,0.65,0.81,11800,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2015,0.65,0.74,5000,Petrol,Individual,Manual,0
+Honda CBR 150,2014,0.65,1.2,23500,Petrol,Individual,Manual,0
+Hero Extreme,2013,0.65,0.787,16000,Petrol,Individual,Manual,0
+Honda CB Hornet 160R,2016,0.6,0.87,15000,Petrol,Individual,Manual,0
+Bajaj Avenger 220 dtsi,2015,0.6,0.95,16600,Petrol,Individual,Manual,0
+Honda CBR 150,2013,0.6,1.2,32000,Petrol,Individual,Manual,0
+Bajaj Avenger 150 street,2016,0.6,0.8,20000,Petrol,Individual,Manual,0
+Yamaha FZ  v 2.0,2015,0.6,0.84,29000,Petrol,Individual,Manual,0
+Yamaha FZ  v 2.0,2016,0.6,0.84,25000,Petrol,Individual,Manual,0
+Bajaj Pulsar  NS 200,2014,0.6,0.99,25000,Petrol,Individual,Manual,0
+TVS Apache RTR 160,2012,0.6,0.81,19000,Petrol,Individual,Manual,0
+Hero Extreme,2014,0.55,0.787,15000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2015,0.55,0.84,58000,Petrol,Individual,Manual,0
+Bajaj Pulsar 220 F,2010,0.52,0.94,45000,Petrol,Individual,Manual,0
+Bajaj Pulsar 220 F,2016,0.51,0.94,24000,Petrol,Individual,Manual,0
+TVS Apache RTR 180,2011,0.5,0.826,6000,Petrol,Individual,Manual,0
+Hero Passion X pro,2016,0.5,0.55,31000,Petrol,Individual,Manual,0
+Bajaj Pulsar NS 200,2012,0.5,0.99,13000,Petrol,Individual,Manual,0
+Bajaj Pulsar NS 200,2013,0.5,0.99,45000,Petrol,Individual,Manual,0
+Yamaha Fazer ,2014,0.5,0.88,8000,Petrol,Individual,Manual,0
+Honda Activa 4G,2017,0.48,0.51,4300,Petrol,Individual,Automatic,0
+TVS Sport ,2017,0.48,0.52,15000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2015,0.48,0.84,23000,Petrol,Individual,Manual,0
+Honda Dream Yuga ,2017,0.48,0.54,8600,Petrol,Individual,Manual,0
+Honda Activa 4G,2017,0.45,0.51,4000,Petrol,Individual,Automatic,0
+Bajaj Avenger Street 220,2011,0.45,0.95,24000,Petrol,Individual,Manual,0
+TVS Apache RTR 180,2014,0.45,0.826,23000,Petrol,Individual,Manual,0
+Bajaj Pulsar NS 200,2012,0.45,0.99,14500,Petrol,Individual,Manual,0
+Bajaj Avenger 220 dtsi,2010,0.45,0.95,27000,Petrol,Individual,Manual,0
+Hero Splender iSmart,2016,0.45,0.54,14000,Petrol,Individual,Manual,0
+Activa 3g,2016,0.45,0.54,500,Petrol,Individual,Automatic,0
+Hero Passion Pro,2016,0.45,0.55,1000,Petrol,Individual,Manual,0
+TVS Apache RTR 160,2014,0.42,0.81,42000,Petrol,Individual,Manual,0
+Honda CB Trigger,2013,0.42,0.73,12000,Petrol,Individual,Manual,0
+Hero Splender iSmart,2015,0.4,0.54,14000,Petrol,Individual,Manual,0
+Yamaha FZ S ,2012,0.4,0.83,5500,Petrol,Individual,Manual,0
+Hero Passion Pro,2015,0.4,0.55,6700,Petrol,Individual,Manual,0
+Bajaj Pulsar 135 LS,2014,0.4,0.64,13700,Petrol,Individual,Manual,0
+Activa 4g,2017,0.4,0.51,1300,Petrol,Individual,Automatic,0
+Honda CB Unicorn,2015,0.38,0.72,38600,Petrol,Individual,Manual,0
+Hero Honda CBZ extreme,2011,0.38,0.787,75000,Petrol,Individual,Manual,0
+Honda Karizma,2011,0.35,1.05,30000,Petrol,Individual,Manual,0
+Honda Activa 125,2016,0.35,0.57,24000,Petrol,Individual,Automatic,0
+TVS Jupyter,2014,0.35,0.52,19000,Petrol,Individual,Automatic,0
+Honda Karizma,2010,0.31,1.05,213000,Petrol,Individual,Manual,0
+Hero Honda Passion Pro,2012,0.3,0.51,60000,Petrol,Individual,Manual,0
+Hero Splender Plus,2016,0.3,0.48,50000,Petrol,Individual,Manual,0
+Honda CB Shine,2013,0.3,0.58,30000,Petrol,Individual,Manual,0
+Bajaj Discover 100,2013,0.27,0.47,21000,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2008,0.25,0.75,26000,Petrol,Individual,Manual,1
+Suzuki Access 125,2008,0.25,0.58,1900,Petrol,Individual,Automatic,0
+TVS Wego,2010,0.25,0.52,22000,Petrol,Individual,Automatic,0
+Honda CB twister,2013,0.25,0.51,32000,Petrol,Individual,Manual,0
+Hero Glamour,2013,0.25,0.57,18000,Petrol,Individual,Manual,0
+Hero Super Splendor,2005,0.2,0.57,55000,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2008,0.2,0.75,60000,Petrol,Individual,Manual,0
+Bajaj Discover 125,2012,0.2,0.57,25000,Petrol,Individual,Manual,1
+Hero Hunk,2007,0.2,0.75,49000,Petrol,Individual,Manual,1
+Hero  Ignitor Disc,2013,0.2,0.65,24000,Petrol,Individual,Manual,1
+Hero  CBZ Xtreme,2008,0.2,0.787,50000,Petrol,Individual,Manual,0
+Bajaj  ct 100,2015,0.18,0.32,35000,Petrol,Individual,Manual,0
+Activa 3g,2008,0.17,0.52,500000,Petrol,Individual,Automatic,0
+Honda CB twister,2010,0.16,0.51,33000,Petrol,Individual,Manual,0
+Bajaj Discover 125,2011,0.15,0.57,35000,Petrol,Individual,Manual,1
+Honda CB Shine,2007,0.12,0.58,53000,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2006,0.1,0.75,92233,Petrol,Individual,Manual,0
+i20,2010,3.25,6.79,58000,Diesel,Dealer,Manual,1
+grand i10,2015,4.4,5.7,28200,Petrol,Dealer,Manual,0
+i10,2011,2.95,4.6,53460,Petrol,Dealer,Manual,0
+eon,2015,2.75,4.43,28282,Petrol,Dealer,Manual,0
+grand i10,2016,5.25,5.7,3493,Petrol,Dealer,Manual,1
+xcent,2017,5.75,7.13,12479,Petrol,Dealer,Manual,0
+grand i10,2015,5.15,5.7,34797,Petrol,Dealer,Automatic,0
+i20,2017,7.9,8.1,3435,Petrol,Dealer,Manual,0
+grand i10,2015,4.85,5.7,21125,Diesel,Dealer,Manual,0
+i10,2012,3.1,4.6,35775,Petrol,Dealer,Manual,0
+elantra,2015,11.75,14.79,43535,Diesel,Dealer,Manual,0
+creta,2016,11.25,13.6,22671,Petrol,Dealer,Manual,0
+i20,2011,2.9,6.79,31604,Petrol,Dealer,Manual,0
+grand i10,2017,5.25,5.7,20114,Petrol,Dealer,Manual,0
+verna,2012,4.5,9.4,36100,Petrol,Dealer,Manual,0
+eon,2016,2.9,4.43,12500,Petrol,Dealer,Manual,0
+eon,2016,3.15,4.43,15000,Petrol,Dealer,Manual,0
+verna,2014,6.45,9.4,45078,Petrol,Dealer,Manual,0
+verna,2012,4.5,9.4,36000,Petrol,Dealer,Manual,0
+eon,2017,3.5,4.43,38488,Petrol,Dealer,Manual,0
+i20,2013,4.5,6.79,32000,Petrol,Dealer,Automatic,0
+i20,2014,6,7.6,77632,Diesel,Dealer,Manual,0
+verna,2015,8.25,9.4,61381,Diesel,Dealer,Manual,0
+verna,2013,5.11,9.4,36198,Petrol,Dealer,Automatic,0
+i10,2011,2.7,4.6,22517,Petrol,Dealer,Manual,0
+grand i10,2015,5.25,5.7,24678,Petrol,Dealer,Manual,0
+i10,2011,2.55,4.43,57000,Petrol,Dealer,Manual,0
+verna,2012,4.95,9.4,60000,Diesel,Dealer,Manual,0
+i20,2012,3.1,6.79,52132,Diesel,Dealer,Manual,0
+verna,2013,6.15,9.4,45000,Diesel,Dealer,Manual,0
+verna,2017,9.25,9.4,15001,Petrol,Dealer,Manual,0
+elantra,2015,11.45,14.79,12900,Petrol,Dealer,Automatic,0
+grand i10,2013,3.9,5.7,53000,Diesel,Dealer,Manual,0
+grand i10,2015,5.5,5.7,4492,Petrol,Dealer,Manual,0
+verna,2017,9.1,9.4,15141,Petrol,Dealer,Manual,0
+eon,2016,3.1,4.43,11849,Petrol,Dealer,Manual,0
+creta,2015,11.25,13.6,68000,Diesel,Dealer,Manual,0
+verna,2013,4.8,9.4,60241,Petrol,Dealer,Manual,0
+eon,2012,2,4.43,23709,Petrol,Dealer,Manual,0
+verna,2012,5.35,9.4,32322,Diesel,Dealer,Manual,0
+xcent,2015,4.75,7.13,35866,Petrol,Dealer,Manual,1
+xcent,2014,4.4,7.13,34000,Petrol,Dealer,Manual,0
+i20,2016,6.25,7.6,7000,Petrol,Dealer,Manual,0
+verna,2013,5.95,9.4,49000,Diesel,Dealer,Manual,0
+verna,2012,5.2,9.4,71000,Diesel,Dealer,Manual,0
+i20,2012,3.75,6.79,35000,Petrol,Dealer,Manual,0
+verna,2015,5.95,9.4,36000,Petrol,Dealer,Manual,0
+i10,2013,4,4.6,30000,Petrol,Dealer,Manual,0
+i20,2016,5.25,7.6,17000,Petrol,Dealer,Manual,0
+creta,2016,12.9,13.6,35934,Diesel,Dealer,Manual,0
+city,2013,5,9.9,56701,Petrol,Dealer,Manual,0
+brio,2015,5.4,6.82,31427,Petrol,Dealer,Automatic,0
+city,2014,7.2,9.9,48000,Diesel,Dealer,Manual,0
+city,2013,5.25,9.9,54242,Petrol,Dealer,Manual,0
+brio,2012,3,5.35,53675,Petrol,Dealer,Manual,0
+city,2016,10.25,13.6,49562,Petrol,Dealer,Manual,0
+city,2015,8.5,13.6,40324,Petrol,Dealer,Manual,0
+city,2015,8.4,13.6,25000,Petrol,Dealer,Manual,0
+amaze,2014,3.9,7,36054,Petrol,Dealer,Manual,0
+city,2016,9.15,13.6,29223,Petrol,Dealer,Manual,0
+brio,2016,5.5,5.97,5600,Petrol,Dealer,Manual,0
+amaze,2015,4,5.8,40023,Petrol,Dealer,Manual,0
+jazz,2016,6.6,7.7,16002,Petrol,Dealer,Manual,0
+amaze,2015,4,7,40026,Petrol,Dealer,Manual,0
+jazz,2017,6.5,8.7,21200,Petrol,Dealer,Manual,0
+amaze,2014,3.65,7,35000,Petrol,Dealer,Manual,0
+city,2016,8.35,9.4,19434,Diesel,Dealer,Manual,0
+brio,2017,4.8,5.8,19000,Petrol,Dealer,Manual,0
+city,2015,6.7,10,18828,Petrol,Dealer,Manual,0
+city,2011,4.1,10,69341,Petrol,Dealer,Manual,0
+city,2009,3,10,69562,Petrol,Dealer,Manual,0
+city,2015,7.5,10,27600,Petrol,Dealer,Manual,0
+jazz,2010,2.25,7.5,61203,Petrol,Dealer,Manual,0
+brio,2014,5.3,6.8,16500,Petrol,Dealer,Manual,0
+city,2016,10.9,13.6,30753,Petrol,Dealer,Automatic,0
+city,2015,8.65,13.6,24800,Petrol,Dealer,Manual,0
+city,2015,9.7,13.6,21780,Petrol,Dealer,Manual,0
+jazz,2016,6,8.4,4000,Petrol,Dealer,Manual,0
+city,2014,6.25,13.6,40126,Petrol,Dealer,Manual,0
+brio,2015,5.25,5.9,14465,Petrol,Dealer,Manual,0
+city,2006,2.1,7.6,50456,Petrol,Dealer,Manual,0
+city,2014,8.25,14,63000,Diesel,Dealer,Manual,0
+city,2016,8.99,11.8,9010,Petrol,Dealer,Manual,0
+brio,2013,3.5,5.9,9800,Petrol,Dealer,Manual,0
+jazz,2016,7.4,8.5,15059,Petrol,Dealer,Automatic,0
+jazz,2016,5.65,7.9,28569,Petrol,Dealer,Manual,0
+amaze,2015,5.75,7.5,44000,Petrol,Dealer,Automatic,0
+city,2015,8.4,13.6,34000,Petrol,Dealer,Manual,0
+city,2016,10.11,13.6,10980,Petrol,Dealer,Manual,0
+amaze,2014,4.5,6.4,19000,Petrol,Dealer,Manual,0
+brio,2015,5.4,6.1,31427,Petrol,Dealer,Manual,0
+jazz,2016,6.4,8.4,12000,Petrol,Dealer,Manual,0
+city,2010,3.25,9.9,38000,Petrol,Dealer,Manual,0
+amaze,2014,3.75,6.8,33019,Petrol,Dealer,Manual,0
+city,2015,8.55,13.09,60076,Diesel,Dealer,Manual,0
+city,2016,9.5,11.6,33988,Diesel,Dealer,Manual,0
+brio,2015,4,5.9,60000,Petrol,Dealer,Manual,0
+city,2009,3.35,11,87934,Petrol,Dealer,Manual,0
+city,2017,11.5,12.5,9000,Diesel,Dealer,Manual,0
+brio,2016,5.3,5.9,5464,Petrol,Dealer,Manual,0
+
