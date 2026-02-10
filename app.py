@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 import plotly.graph_objects as go
+import os
 
 #page configration
 st.set_page_config(
@@ -21,7 +22,7 @@ st.markdown("""
              """,unsafe_allow_html=True)
 
 #load model
-@st.cache_resource
+@st.cache_resource(show_spinner=False)
 def load_model():
     try:
         model=joblib.load("car_prediction_model.pkl")
