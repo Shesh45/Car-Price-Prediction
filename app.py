@@ -56,9 +56,9 @@ if model is None:
 # Sidebar input
 st.sidebar.title("Car Details") 
 st.sidebar.subheader("Manufacturing Year")
-year = st.sidebar.slider("Manufacturing Year", 2000, 2025, 2015)
+year = st.sidebar.slider("Manufacturing Year", 2000, 2024, 2015)
 
-present_price=st.sidebar.number_input("Current Ex-Showroom Price(lakhs)",0.0,50.0,5.0,0.1) 
+present_price=st.sidebar.number_input("current Ex - Showroom price(lakhs)",0.0,50.0,5.0,0.1) 
 
 kms_driven=st.sidebar.number_input("Kilometer Driven ",0,500000,50000,1000)
 
@@ -70,8 +70,8 @@ Owner = st.sidebar.selectbox("number of previous owners", [0,1,2,3])
 
 
 #calculate car age
-current_year = 2026 
-car_age = current_year - year
+Current_year = 2026 
+car_age=current_year - year
 
 # Calculate car age
 st.sidebar.markdown("---")
@@ -88,8 +88,8 @@ if predict_btn:
     #prepare input 
     input_data=pd.DataFrame({
         "Year":[year],
-        "Present_Price":[present_price],
-        "Kms_Driven":[kms_driven],
+        "Present_Price":[Present_price],
+        "Kms_Driven":[Kms_driven],
         "Fuel_Type":[Fuel_encoded],
         "Seller_Type":[Seller_encoded],
         "Transmission":[Transmission_encoded],
@@ -100,19 +100,20 @@ if predict_btn:
     predicted_price = model.predict(input_data)[0]
     
     #calculate result
-    depreciation = present_price-predicted_price
+    depreciation =present_price-predicted_price
     depreciation_percent =(depreciation/present_price)*100 if present_price>0 else 0
 
     
     
     #display result
     st.markdown("---")
-    st.header(" Price Estimation Result ")
+    st.header(" Price Estimation Result")
 
 
     #main metrics
     col1,col2,col3 = st.columns(3)
 
+    
     
     with col1:
          st.metric(
@@ -174,7 +175,7 @@ if predict_btn:
         if kms_driven <=30000:
             factors.append("Low mileage - adds value")
         elif kms_driven <=80000:
-            factors.append("Average Mileage ")
+            factors.append("Average mileage ")
         else:
             factors.append("High mileage - reduces values")
             
@@ -221,19 +222,19 @@ if predict_btn:
         
     # car details summary
     st.markdown("---")
-    st.subheader(" Your Car Details ")
+    st.subheader(" Your Car Details")
     
     details_col1,details_col2=st.columns(2)
     
     with details_col1:
-        st.write(f"**Manufacturing year:**{year}")
-        st.write(f"**Car age:**{car_age}years")
-        st.write(f"**Kilometer Driven:**{kms_driven}km")
-        st.write(f"**Fuel Type:**{Fuel_Type}")
+        st.write(f"**manufacturing year:**{year}")
+        st.write(f"**car age:**{car_age}years")
+        st.write(f"**kilometer driven:**{kms_driven}km")
+        st.write(f"**fuel type:**{Fuel_Type}")
         
     with details_col2:
-        st.write(f"**Transmission:**{Transmission}")
-        st.write(f"**Seller type:**{Seller_Type}")
+        st.write(f"**transmission:**{Transmission}")
+        st.write(f"**seller type:**{Seller_Type}")
         st.write(f"**Current Showroom Price:**₹{present_price}Lakhs")
         
     #tips for selling
@@ -251,11 +252,11 @@ else:
     col1,col2,col3 = st.columns(3)
     
     with col1:
-        st.write("** Recent Car **")
+        st.write("** Recent car **")
         st.write("Year:2024")
         st.write("Price:₹8.5L")
         st.write("Kms:20,000")
-        st.write("Est:₹6.5-7.5L") 
+        st.write("Est:₹6.5-7.5L")  
         
     with col2:
         st.write("** Mid- Range Car**")
@@ -273,7 +274,7 @@ else:
         
     st.markdown("---")
     #model info
-    st.subheader("model information")
+    st.subheader("Model Information")
     col1,col2,col3=st.columns(3)
     col1.metric("Algorithm","ML Regression")
     col2.metric("Accuracy","~85%")
