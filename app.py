@@ -71,7 +71,7 @@ Owner = st.sidebar.selectbox("number of previous owners", [0,1,2,3])
 
 #calculate car age
 Current_year = 2026 
-car_age=current_year - year
+car_age=Current_year - year
 
 # Calculate car age
 st.sidebar.markdown("---")
@@ -88,8 +88,8 @@ if predict_btn:
     #prepare input 
     input_data=pd.DataFrame({
         "Year":[year],
-        "Present_Price":[Present_price],
-        "Kms_Driven":[Kms_driven],
+        "Present_Price":[present_price],
+        "Kms_Driven":[kms_driven],
         "Fuel_Type":[Fuel_encoded],
         "Seller_Type":[Seller_encoded],
         "Transmission":[Transmission_encoded],
